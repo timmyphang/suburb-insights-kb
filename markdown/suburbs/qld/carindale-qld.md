@@ -1,0 +1,11 @@
+# Carindale (QLD)
+
+Slug: `carindale-qld`
+
+We roll out of bed on a Saturday like everyone else: kids in socks, sunscreen in hand, and a firm plan to be at Rocket Park before it turns into a suburban cyclone. Carindale Recreation Reserve (yes, Rocket Park) is our unofficial HQ — the space-themed playground where small humans practice climbing and we pretend we’re on a picnic. From there we used to bounce the energy at miniBOUNCE, then wander toward Westfield Carindale for whatever the day’s vibe is — lunch plans that once included Claw BBQ’s bib-and-bucket spectacle and HAAD Thai’s glasshouse-sit-down promise. Fresh Sensations was the fruit-and-deli stop we relied on when the fridge had given up.
+
+We know our mall like you know your own fridge magnets. Westfield has hosted art, commerce and the odd local brouhaha — even Lister’s street-art showdown made headlines, as Pedestrian documented, poking the hive of shopping-centre normality. And yes, sometimes Carindale laps the news cycle: Pedestrian also reported incidents near the gym and outside the centre, and Junkee once ran that Apple Store story that made everyone in retail check their cameras twice. As Concrete Playground pointed out, the council has dangled skyscraper dreams over our heads too — plans that once proposed up to 30 storeys for Carindale are the sort of thing that makes us queue at the bakery and argue about parking.
+
+Who would hate living here? If you need artisanal laneways, skyline views from every latte, or silence so absolute you can hear the council planning meetings — you’ll be twitchy. If crowds at the mall, kids’ parties at Funhouse Family Entertainment Centre and the possibility of a high-rise next door make you roll your eyes, this isn’t your match.
+
+Who loves it? Families, obviously. Social Mums Club (Debbie and Pippa’s crew) and local mothers’ groups have stitched this place together; there are playgrounds like Grandview Place Park and Carindale Recreation Reserve that actually feel useful, and community pages like Carindale Connect keep us talking. For us, Carindale is comfort with a little character — a big shopping heart, parks that keep kids alive, and enough local drama to keep dinner conversations spicy. We’ll take it, quirks and all.

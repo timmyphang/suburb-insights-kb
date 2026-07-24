@@ -1,0 +1,11 @@
+# Newcomb (NSW)
+
+Slug: `newcomb-nsw`
+
+Back in the day we used to check the council notices and the weekend guides and think, "Surely someone will write about Newcomb one day." Trouble is, the only proper local credit we can point to in the clippings pile is Playgroup Victoria — which at least remembered The Hive Early Learning Centre, Newcomb (3219) when it listed local long day care options. As Playgroup Victoria noted, we were on the map for pint‑sized humans and their carers. That’s our claim to fame: tiny boots, tiny sandpit politics, and a PDF called PlayConnect+ (March 2026 edition) that politely included our playgroup coordinates.
+
+Our mornings are accordingly modest: we’re the ones who used to consult Playgroup Victoria before the school-run, trading hot takes on parenting forums we won’t name because, well, the data didn’t. We know where The Hive sat in the listings and which sessions were most likely to end in glitter casualties; beyond that, the mainstream glossies give us a polite shrug. Broadsheet and Time Out have plenty to say about other places — and Urban List will happily riff about mourning brooches woven from the hair of Anne Drysdale and Caroline Newcomb or the bushranger lore of Captain Moonlight and James Nesbitt — but they rarely stop by our postcode for a feed review.
+
+Petty drama? The archives are mercifully quiet. There are no spicy local council sagas or late‑night bar scuffles in the files we’ve been handed, so our scandalous secret is: we’re gloriously unremarkable. If you need to be in a suburb that gets name‑checked in every lifestyle round‑up, Newcomb will frustrate you — you’ll hate that nobody’s turned our main street into a backdrop for a Broadsheet feature.
+
+But who would love it here? Families who want simple, practical local community stuff — playgroups, long day care, people who appreciate not being on the 6 pm news. We’re the kind of place recorded respectfully in a Playgroup Victoria venues list and an earnest PlayConnect+ PDF, and honestly, we wear that like a badge. Low drama, reliable nappies, and the occasional brush with Victorian colonial curiosities in the cultural pages — that’s Newcomb, and we’re quietly proud of it.

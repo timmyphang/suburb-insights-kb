@@ -1,0 +1,13 @@
+# Alfords Point (NSW)
+
+Slug: `alfords-point-nsw`
+
+We know Alfords Point by the Prado with the bike rack and the GoPro on the dash, parked on Alfords Point Road like it owns the river view even though the only time the owner has ever left the Bridge is to refill the car wash voucher.  
+We wear Lululemon to the school run and Rip Curl neoprene to the kayak launch, and we order oat flat whites at the Menai café while insisting we’re “so outdoorsy” between duffel-bag rearrangements.  
+Our morning looks the same on Saturdays: 6am with the Cavoodle at the reserve, 8am kayak down the Georges River, 10am brunch where the barista at Menai Café already knows our order—oat piccolo for us, chocolate milk for the kids—and the conversation slides into whether the house is worth another $50k.  
+School drop-off is a contact sport; three SUVs jockeying for a 15-minute kerb is our unofficial suburb olympics. The PTA chat blows up over who left a soccer bag on the footpath and the council email about parking is our version of parliamentary debate.  
+When the Alfords Point Bridge goes into maintenance mode, our group chats turn into a crisis newsroom. Lane closures are treated like a local emergency; doom-memes, alternate-route hot takes, and the person who swears they found a backway through Barden Ridge at 7:03am. We plan detours like seasoned generals.  
+The Oval BBQ booking? Legendary. Last year someone strung solar fairy lights across Alfords Point Oval and half the street declared the ambience “not coastal enough” and the other half demanded immediate bunting. The BBQ allocation turned into a PTA referendum and three people nearly ran for presidency of the residents group. We argued bin placement on Lindon Avenue like it was a matter of national security.  
+Our weekends are logistic perfection: drop the kids at soccer, kayak on the Georges at midday, a quick F45 or a HIIT circuit in the driveway, then the obligatory IKEA run because shelves are apparently therapy. Lawnmower Sundays are a ritual—meticulous stripes, hoses coiled with military precision.  
+Who would hate living here? That 25-year-old inner-city cyclist who thinks public transport is a personality trait and drinks single-origin drip while sneering at anything with four doors. They’ll find no fixed-gear joy in a place where everything revolves around the Bridge and a Subie boot.  
+Who would love it? The 38-year-old part-time trainer, full-time taxi for two kids and a Cavoodle, who treasures kayak commutes, oat piccolos and a suburb where the neighbours will lend you a trailer and a fold-up table without blinking. Welcome to Alfords Point—come for the river, stay for the parking wars.

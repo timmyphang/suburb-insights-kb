@@ -1,0 +1,11 @@
+# Willunga (NSW)
+
+Slug: `willunga-nsw`
+
+Back in the day we used to patrol High Street like it was our local runway — 3/41 High St where Tealicious Cakes served high tea for out‑of‑towners, past the National Trust trio at 61 High St (Old Courthouse, Police Station Museum and Slate Museum) so tourists could take photos of things older than their phones. Saturdays meant pilgrimage: Willunga Farmers Market down at Willunga High School, 8am–noon, proudly billed as one of the state’s originals. We’d queue, buy something gloriously unbranded and call it a lifestyle.
+
+You could spend an entire weekend doing the prescribed Willunga circuit — pedal the Coast to Vines Trail, climb Willunga Hill, admire the Willunga Scarp and Ranges, then collapse at a cellar door. For years the guides sent people out here on road trips (Junkee told you it was one of our seven wonders) and UrbanList suggested starting a tour in Willunga before detouring to a giant Rubik’s Cube at d’Arenberg. Mitolo Wines got the nod for wedding views; the region’s vineyards are basically our scenic backdrop and sometimes our weekly weather app.
+
+We used to gossip about the Old Bush Inn getting spruced up by the Silver Sands Beach Club team — handmade pastas and live music in an 185‑year‑old pub, allegedly still keeping its quirk. Papershell Farm opened an ‘Almond Door’ cafe and cellar door and tried to convince us that hand‑harvested almonds are worth a whole ritual; the biodynamic shiraz had locals nodding solemnly. Tread Lightly set up under a 166‑year‑old slate building at 29 High Street and made vegetables sound like an event. We’ve hosted stages of the Tour Down Under, we once had an L‑plate chainsaw anecdote in nearby Port Willunga for those who crave local lore, and The Farm Willunga even offered alpaca adjacencies for the very keen.
+
+Who’d hate it here: anyone allergic to markets, vineyards, rooster‑early weekends or surprise wedding processions at Mitolo. Who’d love it: people who want a slow, slightly theatrical country life — alfresco baths on Willunga Hill, cycling to tiny homes, and festivals that still smell faintly of woodsmoke. We’re small, historical, a bit proud and forever on someone’s road‑trip list — and honestly, that suits us.

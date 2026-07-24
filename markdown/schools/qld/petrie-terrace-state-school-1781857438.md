@@ -1,0 +1,23 @@
+Welcome to Paddington, NSW
+
+Tucked into Sydney’s inner east, Paddington feels like a storybook suburb for families who want town-centre convenience with charming, renovated terraces and a lively local scene. It leans relatively affluent — median weekly household income was $3,131 in the last census and median weekly rent about $650 — and the streets are an appealing mix of long‑standing families and young professionals in white‑collar roles, which gives the neighbourhood a quietly sophisticated, energized atmosphere that’s easy to settle into [citation:2021 Paddington QuickStats]. If you like small specialty grocers, neighborhood cafés and easy access to city life without living in the high-rise core, Paddington delivers that blend of character and convenience [citation:Paddington NSW — Suburb Demographics & Profile].
+
+Inside the Classroom at Paddington Public School
+
+Paddington Public School serves Kindergarten to Year 6 and is the kind of local primary where community and extracurricular life matter almost as much as the classroom program. The school runs an active co‑curricular program: a school band that performs publicly, regular sporting programs with interschool competition, and performing‑arts opportunities that keep the calendar lively and the kids engaged beyond the syllabus [citation:Student opportunities and activities – Paddington Public School]. If your child loves music or sport, you’ll find plenty of chances for them to jump on stage or join a team; the band’s public performances make for great family moments and neighbourhood pride [citation:Paddington Public School Band - Sweet Caroline (YouTube)].
+
+Life After 3 PM: Working Parent Support
+
+For working parents, the school partners with an on‑site provider called Paddington Out of School Care that operates before‑school, after‑school and vacation programs right from the school grounds. This Outside School Hours Care (on-site before and after school childcare) arrangement makes drop-off and pick-up routines far more manageable on busy days, and having vacation care at the school is a relief during school breaks [citation:POOSC (Paddington Out of School Care) - Official Site] [citation:Paddington Out of School Care Inc - StartingBlocks.gov.au].
+
+The Kitchen Table and Weeknight Dinners
+
+Groceries and simple weeknight solutions are all close at hand. QE Foodstores (the Friendly Grocer) on Oxford Street carries everyday essentials and an Asian foods section for quick midweek meals, while Paddington Alimentari and other gourmet delis make it easy to assemble a fuss‑free Italian dinner of good salumi, cheese and pizza for the kids [citation:QE Foodstores Paddington] [citation:Friendly Grocer Paddington] [citation:Paddington Alimentari (Italian deli) | Urban List]. When you need something even quicker, local takeaways like Jimmy’s Falafel and Chubby Cheeks offer tasty Middle Eastern and Thai‑influenced options that travel well and satisfy picky eaters after a long day [citation:Jimmy's Falafel Paddington | Merivale] [citation:Chubby Cheeks].
+
+Tuition and the Daily Commute
+
+If you’re thinking about extra academic support, Paddington has local tutoring options covering primary and secondary English and maths as well as selective‑entry test preparation — two well‑known providers are Success Tutoring and Alchemy Tuition, both happy to discuss one‑on‑one or small‑group plans [citation:Tutoring Paddington | SuccessTutoring] [citation:Tutoring Paddington // Alchemy Tuition]. Commuting to the CBD is straightforward even though Paddington doesn’t have a heavy‑rail station inside the suburb. The closest rail access tends to be Edgecliff or Bondi Junction on the Eastern Suburbs line; from Edgecliff it’s a quick train ride to Town Hall and, depending on your final connection and walking time, door‑to‑door trips into the CBD commonly run about 15–30 minutes from central Paddington [citation:Visit Paddington (notes Edgecliff as recommended station)] [citation:Train Edgecliff to Town Hall Station — Rome2rio] [citation:Eastern Suburbs & Illawarra Line | transportnsw.info].
+
+Your Next Steps
+
+Call the school to confirm the enrolment zone and starting‑age requirements so you know exactly where your child fits in. [citation:Student opportunities and activities – Paddington Public School] Reach out to Paddington Out of School Care to check availability, hours and how to enrol for before‑, after‑ and vacation care. [citation:POOSC (Paddington Out of School Care) - Official Site] If you want the full demographic picture — median age, population counts and country‑of‑birth breakdowns — pull the Australian Bureau of Statistics community profile for Paddington (2021) to get those precise figures. [citation:2021 Paddington QuickStats]

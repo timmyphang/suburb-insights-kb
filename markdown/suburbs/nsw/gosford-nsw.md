@@ -1,0 +1,11 @@
+# Gosford (NSW)
+
+Slug: `gosford-nsw`
+
+Back in the day we used to tell Sydneysiders that Gosford was where you stopped for petrol and a pie. These days we’ve got a few more excuses for them to detour north — or at least to slow down long enough to appreciate our Bon Pavilion, which opened as part of the 14‑storey Bonython Tower and once bragged seven separate drinking and dining zones. We liked the idea of becoming a dining destination; it made us feel a bit posh without leaving the main drag.
+
+Our perfect weekend looks like this: we’d roll out on the Brisbane Water Cycleway — that 19km stretch to Woy Woy Time Out once called one of the most scenic rides in Australia — or lace up for the Bay to Bay Running Festival, which used to funnel people through Gosford and Woy Woy in mid‑June. Afterwards, you might have found us at Bay Rd Brewing, in its honest warehouse space where the vats are part of the decor and the beer is "no mucking around". Or we’d pretend to be culture snobs at Gosford Regional Gallery, down on Caroline Bay in East Gosford, pretending the parkland is our version of Hyde Park.
+
+We’ll admit our tastes are eclectic. Saddles at Mount White was reimagined by White & Dickson and Michelle Leslie and felt like a country house that read architectural theory for fun. Ooomph in East Gosford — the organic bakery/pizza/foodstore that once called a side street home — used to be our crunchy cousin’s favourite haunt. And then there was Voco Gosford, a 28‑storey hotel with a swim‑up bar and rooftop izakaya Time Out wrote about, which gave us the thrill of a high‑rise without the inner‑city traffic.
+
+Who would hate living here? If you cannot abide being an hour or so from Sydney — the people who must have the city at their doorstep — they will despair every time they see the M1 sign or the train timetable at Gosford Station. Who will love it? Families who liked the old-school playgroups — Gosford Gumnuts at Gosford Wyoming Uniting Church and PlayConnect+ in West Gosford — runners, cyclists, gallery goers, and anyone who wants music with community spirit (shoutout to Music Making A Difference). We’re the Coast that remembered how to be useful: close enough for a daytrip, far enough to keep our own rhythm.

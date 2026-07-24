@@ -1,0 +1,11 @@
+# Waikiki (NSW)
+
+Slug: `waikiki-nsw`
+
+We wake up in Waikiki, NSW, and before the coffee is even on we’re clarifying the family tree: yes, we have a beach, no, we do not have Diamond Head out the back or the Moana Surfrider on our corner. Our name’s been moonlighting for years — there’s Waikiki Beach in Honolulu that Urban List and Time Out gush over (three kilometres of beginner surf, family stuff like Hanauma Bay and the Honolulu Zoo), a Phillip Island "Waikiki Beachfront" holiday house that Concrete Playground once fawned over, and even a Waikiki Community Center with an address of 310 Paoakalani Avenue and a Lights Gala pencilled in for 2026. So we go through life with a passport problem: everyone assumes we tan better than we do.
+
+Weekend routine, as far as the archives allow: we explain to visitors that the glamorous brunch spots and hotel names you’ve read about — Outrigger Waikiki Beachcomber, Halepuna Waikiki by Halekulani, Monkeypod Kitchen, Botanico, Deck — came from other Waikikis’ glossy press. Junkee even has the Waikiki Sheraton turning up in Mad Men lore. We say this with pride and a little smugness — our anonymity is our charm.
+
+There’s no local tabloid feud in the clips we found, so the only drama is identity theft by tourism pages. We’ll admit: it gets annoying when strangers arrive looking for panoramic oceanfront views that Urban List wrote about elsewhere. If you’re the type who needs every suburb to come with a curated list of cafes and cocktail bars stamped “2026-approved,” you’ll hate living here — you’ll be forever disappointed by our modesty.
+
+Who will love it here? Families. The Child and Parent Centre East Waikiki (listed alongside East Waikiki Primary School at 21 Gibb Road, Cooloongup) and the longstanding community hub projects the data shows — since 1978, it’s been where neighbours actually meet — point to something steadier than Instagrammable palm trees: real programs, playgroups, Surfing Moms meetups and Surf Swap sessions that get people back in the water. So if you want people who know each other’s surnames, local programs that run year-to-year, and a suburb that wears its borrowed fame with a grin — come on in. We’ll tell you the story of Waikiki, and then point you to the right island.

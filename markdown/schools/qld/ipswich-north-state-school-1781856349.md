@@ -1,0 +1,7 @@
+I can absolutely write this Substack post — I just don’t have the raw research fields I need to turn into the mapped tags (for example, the suburb profile, school logistics and culture, local groceries, commuting details, etc.). Send me that data and I’ll produce the magazine-style piece you want, with the exact headings and the three short action steps at the end.
+
+To speed things up, paste back a short paragraph or the raw facts for each of these tags in one message: [SUBURB_PROFILE], [SCHOOL_NAME], [SCHOOL_LOGISTICS], [SCHOOL_CULTURE], [LOCAL_GROCERIES], [WEEKNIGHT_DINING], [ACADEMIC_ENRICHMENT], [CBD_COMMUTE], and [ACTION_STEPS]. If any of those items note a high proportion of multilingual or overseas-born households, mention that explicitly so I can frame it as a comfort factor. If you prefer, you can simply paste a URL or upload the raw research document and I’ll extract what I need.
+
+If you want me to go ahead without your data, I can draft a fully fleshed, realistic sample post using plausible, generic details for a South East Queensland or Sydney suburb so you can see the voice and structure — say which city you prefer and I’ll pick a representative suburb and school and mark any citation placeholders for later replacement.
+
+Which do you want: send the real data now, or should I produce a sample draft immediately?

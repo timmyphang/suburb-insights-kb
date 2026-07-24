@@ -1,0 +1,11 @@
+# Lurnea (NSW)
+
+Slug: `lurnea-nsw`
+
+Back in the day we’d brag that Lurnea was the kind of place where the loudest Friday night entertainment was the footy on someone’s portable radio — and nothing in the recent files suggests we’ve suddenly become Bondi. Our morning still starts somewhere between the school run and the playgroup drop-off: we line up mentally for the fortnightly NurtureGroup Liverpool session (Playgroup NSW has it pencilled in at 10:00 AM on Thursdays at Lurnea Community Hub, 66 Hill Road) and swap tips about who’s got space in which centre.
+
+If you want the local thesis on Lurnea, it’s childcare, childcare, childcare. MumsPages lists everything from gymnastics classes to party and bathroom-renovation providers for the postcode 2170, while CareForKids tells the statistical truth: 124 childcare services are listed around Lurnea and 87 of them had vacancies in the snapshot they took, with an average cost of $121.08/day. For years the local options included Community First Step OSHC — listed as a before-school, after-school and vacation-care service with up to 58 approved spaces that meets the National Quality Standard — and SCECS OSHC St Francis Xavier Lurnea with up to 56 spots. Creative Kiddies, Kids Guardian Angel and Lurnea Early Learning Centre all turn up in the directories too, the latter boasting a 4.2/5 from ten reviews. Lurnea Public School Preschool gets a mention in the CareForKids listings as well.
+
+Petty local drama? The paperwork’s all we’ve got — vacancy numbers, approved spaces, and session times. It’s oddly comforting. If there’s a neighbourhood scandal here, it’s probably whether your child’s OSHC has a waiting list long enough to make you email your neighbour’s cousin twice removed.
+
+Who would hate living here: people who need a boutique-latte-fuelled nightlife guide or a glossy shopping edit — the online coverage is maternal and municipal, not metropolitan chic. Who would love it: families who want the sort of suburb where the community hub, playgroups and a bewilderingly thorough list of childcare options feel like infrastructure, not indulgence. We’ll meet you at 66 Hill Road — bring a spare nappy and an opinion on preschool vacancies.

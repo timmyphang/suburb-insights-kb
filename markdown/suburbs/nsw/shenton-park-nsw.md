@@ -1,0 +1,11 @@
+# Shenton Park (NSW)
+
+Slug: `shenton-park-nsw`
+
+We like to start our mornings pretending we live in a terraced Parisian postcard, except our croissants were baked in Lathlain before Grain Bakery decided Shenton Park needed them too. As Broadsheet reported, Grain Bakery opened a Shenton Park shop and suddenly our weekend queues had purpose. We then stroll down to Rosalie Park and hop on the Bush to Beach Trail — Sitchu reminds us it’s the start of the Whadjuk Trails — so we can feel virtuous before we buy sushi from The Good Grocer (159 Onslow Road) because yes, we have standards.
+
+This suburb has had its glow-up and its stumbles in plain sight. Broadsheet noted Mistelle Bistro relocated here in 2023, and the North Street crew’s Wards Central Dining once opened a 140‑person all‑day dining room in our little strip — you remember the fuss. Urban List and Sitchu used to chronicle The Unicorn Bar, Wholefood Circus, Galileo Buona Cucina, The Clean Food Store and Strange Grains as our culinary hit-list; they read like the who’s-who of neighbourhood bragging rights. We’re the kind of place that collects niche names and then brags about them at the school gate.
+
+We also host the less glamorous but very important bits of life: Cat Haven on 23 Lemnos Street and Dogs’ Refuge Home at 30 Lemnos Street — our local heartbreak-and-happy-ending HQs — and mums still nag each other about birthday bookings at Lake Jualbup on Evans Street (rotunda and barbies, per Perth Mums Group). New or new-ish things are literally popping up: Shenton Quarter on the corner of Selby Street & Seymour Avenue was listed in 2026 and our local GP at 217 Nicholson Road is the kind of convenience you brag about when you’re over 40.
+
+Who would hate living here? People who need a flashy CBD nightlife, parcel delivery people who prefer a single, predictable pad, or anyone allergic to leafy streets and polite smugness. Who would love it? Dog rescuers, weekend walkers, people who like their neighbourhood to look like a perfectly curated Instagram grid but still want the odd bakery that remembers your name. We’re small, slightly smug, and very fond of our patch — and we’ll defend our little strip with an oddly fierce loyalty.

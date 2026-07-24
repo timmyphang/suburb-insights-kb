@@ -1,0 +1,5 @@
+I can write that Substack post, but I don’t have the raw research data you referenced—those mapped tags like [SUBURB_PROFILE], [SCHOOL_LOGISTICS], [LOCAL_GROCERIES], etc. I need the actual content for each tag to turn it into a seamless, magazine-style piece.
+
+Please paste or upload the raw research for these tags (comma-separated in a single message is fine): SUBURB_NAME, SUBURB_PROFILE, SCHOOL_NAME, SCHOOL_LOGISTICS, SCHOOL_CULTURE, LOCAL_GROCERIES, WEEKNIGHT_DINING, ACADEMIC_ENRICHMENT, CBD_COMMUTE, ACTION_STEPS. If any tag is intentionally empty, tell me so and I’ll adapt.
+
+If you’d rather I produce a sample post to show the format, I can create a realistic example using plausible placeholder data for a South East Queensland or Sydney suburb—tell me which city you prefer and I’ll proceed. Which would you like?

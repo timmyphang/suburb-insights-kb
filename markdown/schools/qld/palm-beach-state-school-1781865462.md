@@ -1,0 +1,25 @@
+I can’t turn the mapped tags into a polished post without the raw research they should pull from — I don’t have the suburb profile, school logistics, groceries list or commute stats needed to fill the placeholders. To write the exact Substack piece you want, I need the research fields that normally sit behind these tags (for example: suburb description, school start/finish times, whether there’s on-site Outside School Hours Care (on-site before and after school childcare), how many students speak other languages at home, local supermarket names and evening dining options, tuition or tutoring availability, CBD commute times, and the action steps you want parents to take).
+
+If it’s helpful, here’s the short list of the specific items I need, written as a natural request so you can paste them back quickly: the suburb name and one-paragraph profile (character, diversity, family vibe); the school name plus logistics (year levels taught, bell times, whether there’s Outside School Hours Care (on-site before and after school childcare), before-school care availability, enrolment cap, catchment info); a few cultural details about the school (languages spoken at home/high proportion of overseas-born households, typical uniforms, special programs); local grocery options and one-sentence notes about price/quality/selection; three weeknight dining spots or styles families actually use; any after-school tuition or enrichment offerings and a typical commute time to the CBD; and the three practical action steps you want included. Send those and I’ll make the magazine-style post you asked for.
+
+If you don’t have the research to hand but want to see the tone and structure before providing data, here’s a short sample post using a fictional suburb and school so you can approve the voice and flow. Replace anything you like when you send real details and I’ll swap it in.
+
+Welcome to Sunrise Bay
+There’s a beachside calm to Sunrise Bay that families fall for: timber houses shaded by jacarandas, a Sunday farmers’ market that still sells paper-wrapped pastries, and a quietly confident multicultural population that makes settling in feel less lonely. New arrivals will notice how common it is to hear multiple languages at the playground and on the school run — that mix is a genuine comfort for families moving from overseas, because it means neighbours and classmates who understand the ups and downs of adjusting to a new country.
+
+Inside the Classroom at Harbourview Primary
+Harbourview Primary teaches from Prep to Year 6 (note for international parents: Prep is the first year of primary school in Queensland) and keeps a friendly, play-forward approach in the early years while steadily building literacy and numeracy as kids move up. The school day is structured around a clear core routine, supplemented by specialist classes in arts and physical education. A strong sense of community is evident in parent-run reading rosters and multicultural celebration days that spotlight the languages and foods students bring to school — a big plus if your family is making its first transition to life here.
+
+Life After 3 PM: Working Parent Support
+For working parents, Harbourview makes juggling shifts and school pickups easier by offering on-site Outside School Hours Care (on-site before and after school childcare) that runs both before the first bell and after the final one. That program is staffed by trained educators who blend homework help with active play, and it’s set up to accept children on a casual basis as well as with regular bookings, so you can cover the days when an unexpected work meeting pops up.
+
+The Kitchen Table and Weeknight Dinners
+Grocery runs are part of the rhythm here: the local co-op stocks fresh produce and does a decent line in staples, while a nearby budget supermarket keeps pantry prices predictable. Weeknights tend to be simple and sociable — families rotate between one-pan dinners at home, quick takeaways from the family-friendly dumpling spot, and the occasional “treat” pizza on a Friday. Those dinner options make it easy to establish a weeknight routine that feels comforting without being fussy.
+
+Tuition and the Daily Commute
+After school there’s an active scene for tutoring and enrichment; a handful of local tutors and small-group programs focus on literacy and maths, and a community arts studio offers music and pottery classes a short walk from the school. Commuting to the central business district is typically about 40 minutes by car in off-peak times, or slightly longer on public transit during morning peak, which many families balance by staggering drop-offs or using a carpool or school bus when coordinates line up.
+
+Your Next Steps
+1) Call the school office to confirm current enrolment zones and the intake process. 2) Book a short visit to see the Outside School Hours Care in action and ask about casual booking options. 3) Drop by the farmers’ market on a Sunday to meet neighbourhood families and get a feel for local life.
+
+Send me the actual suburb and school data and I’ll turn it into a final Substack-ready post with citations attached to the facts.

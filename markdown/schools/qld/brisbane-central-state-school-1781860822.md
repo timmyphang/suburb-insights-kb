@@ -1,0 +1,5 @@
+I can’t write the full, data-driven Substack post until I have the raw research fields that map to the tags (for example [SUBURB_NAME], [SCHOOL_NAME], [SCHOOL_LOGISTICS], etc.). Send those and I’ll turn them into a warm, magazine-style piece right away.
+
+To make it easy, paste values for these fields in one message: SUBURB_PROFILE, SCHOOL_NAME, SCHOOL_LOGISTICS, SCHOOL_CULTURE, LOCAL_GROCERIES, WEEKNIGHT_DINING, ACADEMIC_ENRICHMENT, CBD_COMMUTE, and ACTION_STEPS. If you have notes about multilingual or overseas-born household proportions, include that too — I’ll frame that as a comfort factor for newcomers.
+
+If you want, I can also generate a realistic sample post now using typical suburban data for either South East Queensland or Sydney so you can see the exact tone and structure I’ll use. Tell me which city you prefer, or send the raw fields and I’ll write the finished piece.

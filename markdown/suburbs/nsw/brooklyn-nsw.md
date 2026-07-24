@@ -1,0 +1,11 @@
+# Brooklyn (NSW)
+
+Slug: `brooklyn-nsw`
+
+We’re the lot who queue for the ferry like it’s a nightclub guestlist — small town, big attitude. Back in the day Time Out told everyone the Kangaroo Point Boardwalk had just opened: a one‑kilometre elevated stroll through mangroves and salt marsh that linked into a 3km shared path from Brooklyn Village. We still brag about that stretch like it’s our coat of arms. As locals, we know which bend of the Hawkesbury gives the best reflection of a sunset, and which overlooks show Long Island like it’s posing for a tourist brochure (yes, Sitchu listed those waterfront parcels with “views across to Long Island” — and no, you can’t afford them).
+
+Weekends here are not “brunch and boutique”; they’re “grab a thermos, catch the ferry, embarrass yourself on a 13.4km bushwalk to Cowan.” Time Out’s Brooklyn to Cowan route — steep inclines, rocky cliffs, Jerusalem Bay views — is our Sunday humility check. If you prefer flat pavements and predictable people, you won’t last one river cruise. Speaking of cruises, Time Out also name‑checked the Riverboat Postman morning tea when it put an Anzac biscuit among the world’s 50 best cookies. We’re not saying our biscuits are artisanal, but we will accept that accolade on behalf of the whole postcode.
+
+There’s no town square here where everyone stares at their phones — unless the shuttleback from the bush has no signal, in which case you’ll see real conversation, usually about tide times or which house on Brooklyn Road is doing a renovation that will never end. Sitchu’s listings remind us people dream of holiday vibes on 1,004sqm blocks; the reality is we enjoy the ferry timetable and being “just a short walk or drive to Brooklyn station” when the city calls.
+
+Who would hate it here? Commuter maximalists who want a train every ten minutes, or someone who thinks national parks are just “walking apps.” Who would love it? Anyone who wants to trade manicured mall life for mangroves, a proper bushwalk, and the kind of small‑town clout that comes from knowing the best river bend to watch the light die. As Time Out schemed, Brooklyn’s charm has always been its awkward, scenic stubbornness — and we wouldn’t have it any other way.

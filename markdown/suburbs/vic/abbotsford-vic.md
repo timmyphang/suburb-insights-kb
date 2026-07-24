@@ -1,0 +1,13 @@
+# Abbotsford (VIC)
+
+Slug: `abbotsford-vic`
+
+We know the suburb by the image of a linen-shirted man at the boat ramp checking his phone while a Range Rover idles proudly outside the wharf like it’s the commuter equivalent of a trophy cabinet. We commute by ferry in our Instagram captions and by Prado when the kids need to be at the private school by 8.15. We sip a piccolo from Riverside Espresso, pretend the 12-minute ferry is 'so relaxing', then unlock our Prado and flap like we're late for a creative director meeting. Great North Road is our runway; Lululemon and tan chinos are our uniform; Cavoodles trot past in designer harnesses like small, fashionable sausages.
+
+Saturday begins with Lululemon yoga on our balcony, quick piccolo from The Bayview Café, then a ferry into the city for a farmers’ market run we’ll post about at brunch. By noon we’re back with an Espro plunger, a folding camp chair and three artisanal cheeses at Abbotsford Bay, where we have a very particular spot. There is always a spreadsheet—yes, a spreadsheet—detailing who gets overnight parking permits on the narrow streets near the wharf, which makes our Sunday night argument about Permit 14 a sacred ritual. We check the ferry timetable like it’s a horoscope and pre-game sunscreen like it’s a charm.
+
+Local life is politely petty. There are heat-lamp-fuelled debates on the Abbotsford Neighbours Facebook group after someone dared to reserve 'our' riverside bench with a folding table and fairy lights. There are parking riots after sold-out gigs at the Abbotsford Hotel: Range Rovers vs. RAV4s, an epic ballet of reversing and indignation on Johnston Street. We have polite, passive-aggressive chats over hedges about gardening standards, and someone is always on a fundraising committee claiming the school is 'small and local' while emailing the entire suburb about raffle prizes.
+
+We love to complain about tourists blocking 'our' view, then get offended when a tourist sits in our favourite sunspot. We will defend our right to a riverside picnic with the ferocity of someone who alphabetises their recycling. We are performatively relaxed and ferociously organised.
+
+Who would hate living here? The hardcore urban cyclist with one backpack and a contempt for brunch will loathe the ferry queue, be mocked for not owning a Peloton membership, and be baffled by our ritual sunscreen application; they want grit, not curated greenery. Who would love it? A forty-something creative director in tan chinos, boat shoes and a hybrid RAV4 who drinks daily piccolos, chairs every fundraising committee and believes the world is run on ferry timetables and good espresso — welcome home.

@@ -1,0 +1,13 @@
+# Beverly Hills (NSW)
+
+Slug: `beverly-hills-nsw`
+
+We know Beverly Hills at 7:04am by the sight of a Lululemon-clad figure jogging past Canterbury Road, Prado glinting in the driveway, Cavoodle on a retractable lead trying to claim the footpath.  
+We are the people who do the 7am run in Lululemon, then argue mortgage strategies over soy flat whites at the new cafe on The Parade — yes, the one that started the piccolo feud.  
+We know every Toyota RAV4 and Mazda CX‑5 by their bespoke bumper stickers and how they park diagonally for “visibility” outside the IGA.  
+Our morning routine is sacred: school drop-off, then a piccolo — posted, filtered, captioned ‘vibes only’ — and watched as it detonated into the unofficial Best Cafe review that blew up on Instagram. The village court convened in comments and within an hour someone had screenshots, a thread, and a recommended playlist.  
+Saturdays are farmers’ pop-ups with reusable bags (canvas, of course), brunch where piccolos are ordered like medals, kids to soccer, and covert discussions about who actually kneads their sourdough versus who buys the artisan loaf and posts once a month for clout. Sundays are “family walks” down Haldon Street that are fluent in code: an AM coffee with a friend while the spouse mows the lawn.  
+We schedule dentist appointments between pilates at the local studio and a school committee meeting, and we’ll send a passive‑aggressive PM in the neighbourhood Facebook group about leaf litter with the same tone we use for PTA bake-sale sign-ups.  
+The petty dramas are our cardio. There’s the Canterbury Road parking spat that lasted three weeks and two solicited neighbours’ affidavits; the turf war over the best table at the cafe — table by the window = social capital; and the annual bin debate where someone put their wheelie out on the “wrong” night and the thread read like a courtroom thriller. When the Hendersons painted their fence “too contemporary” it sparked a PTA thread longer than the school newsletter.  
+Who would hate living here? The permanent festival‑circuit creative who drinks single‑origin, cycles everywhere with no ID strap, wears thrifted leather jackets and thinks activewear is a crime — they won’t queue for the PTA bake sale, refuse to own a sensible SUV, and will loudly declare the cafe “over‑curates” its playlist, which here is essentially a felony.  
+Who would love it? The 35–45 year‑old who shops at Coles but Insta‑stories their locally roasted cold brew, drives a Prado for “safety” and actually can’t park on The Parade, owns a Cavoodle called Milo, wears Nike to pilates and school drop‑off, and thinks a piccolo photo is a valid personality statement — welcome home.

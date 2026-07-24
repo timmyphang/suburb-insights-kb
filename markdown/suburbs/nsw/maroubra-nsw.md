@@ -1,0 +1,11 @@
+# Maroubra (NSW)
+
+Slug: `maroubra-nsw`
+
+Back in the day we’d roll out of bed to a 1.1km stretch of sand that didn’t pretend to be Bondi and call it Maroubra Beach — where the locals taught the hopefuls how to surf and the world-beating ones cut their teeth. We were proud when they made us the first NSW National Surfing Reserve in 2006; humble, salty, and a bit smug about it.
+
+A proper weekend used to look like this: wander past the Maroubra Beach Playground (kids claim the nautical theme; parents love the skate park and outdoor gym), nip down to Mahon Pool for a secret dip, or drive by Des Renford Aquatic Centre — the old Heffron Pool — if you fancied lanes not foam. If it was market day we’d shuffle to Broadarrow Reserve for the Maroubra Beach Markets: dog-friendly, 120-plus stalls, live music and a brunch queue long enough to remind us we’re still on the wrong side of the eastern suburbs gentrification map. Label Baguette opened here once, Stephane Mott wanting us to remember baguettes like the French do — and Smoky Sue’s moved down from Neutral Bay and allegedly smoked almost a tonne of meat a week under Owen Brown’s watch. The Fish Market in Pacific Square has been a family-run thing since 1979 — yes, we had our staples.
+
+We’ve had our dramas, too — the kind that make excellent pub chat. There was that mass rip rescue that caught 25 swimmers in a flash rip (beach safety: thanks for the reminder). Beaches have been closed and reopened in somewhat melodramatic fashion for social-distancing reasons, and yes, NSW Police once investigated a superspreader party in our postcode. Councillors even flirted with charging non-residents for beach parking — locals would keep permits, outsiders could pay — because nothing says community like council consultation on where you leave your car.
+
+Who’d hate living here? If you need celebrity cable TV queues, crave Bondi-level glamour, or can’t handle a monthly market that smells of sea air and smoky brisket, move on. Who’d love it? Surfers of varying competence, ocean-swim squads, families (The Bay Hotel and Diner used to be the go-to for kids’ ice cream), walkers who like the Western Escarpment track, and anyone who prefers grit with their whale-watching on the Malabar Headland. We’re Maroubra: a bit rough, very real, and stubbornly ours.

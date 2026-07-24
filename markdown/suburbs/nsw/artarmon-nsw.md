@@ -1,0 +1,13 @@
+# Artarmon (NSW)
+
+Slug: `artarmon-nsw`
+
+We spot ourselves most mornings on Reserve Road, a silver Mazda CX-5 idling like it’s auditioning for Best Suburban SUV while Milo the Cavoodle practises a theatrical head-out-the-window pose. We queue at the Artarmon Espresso Cart for a single-origin oat flat white and loudly announce we’ll be “working remotely” even though Chatswood gets our emails five days a week. We convert old warehouses on Hampden Road into sunlit “studios” that are really showrooms for Milo, a wall of Country Road throw-pillows and a strategically placed standing desk from IKEA that came in flatpack irony.
+
+Our Saturday choreography is a ritual: F45 at 7am, Woolworths Artarmon for almond milk and those locally sourced eggs we brag about buying, then brunch at The Station with an oat flat white and a side-eye at the person who ordered avo on sourdough artisanal. Sundays are industrial runs — picking up a bespoke shelving unit from a workshop that smells faintly of timber and triumph — followed by a nap with a true-crime podcast and a resolve to alphabetise our recycling labels by Monday.
+
+We are proud recyclers who will nevertheless buy a single bottle of cold-pressed kombucha because novelty is a lifestyle. We are the folks who use “working from home” as cover for three coffees before 10am and who, in a single breath, praise ergonomic lumbar support and complain about the train timetable. Our street style is Lululemon leggings at the school drop-off, a thoughtful glance at Tesla threads and the practical ownership of a Hyundai Santa Fe for when the week requires island-sized cargo.
+
+Drama is our local sport. Weekly parking turf wars around Artarmon station become Olympic events: SUVs idling like they’re collecting VIPs, tempers tight enough to snap a tyre. The Facebook group once tore itself apart over a cafe’s new sugar-free cake — there were petitions, passive-aggressive memes and at least one strongly worded leaflet. A yoga-studio review spawned a 200-comment thread debating whether “mindful capitalism” is a thing and which bakery actually supplies the proper sourdough.
+
+People who would hate living here: freeform, paint-stained maximalists on fixed-gear bikes who hate letterbox gardens and balk at eucalyptus-scented car air fresheners. Our school-run choreography and alphabetised recycling make their chaos look criminal. But we warmly welcome the 35–45s who work in tech or corporate, love artisan toast, own a Cavoodle named Milo, and appreciate industrial chic that comes with organised parking and a local cafe that remembers your oat preference. Welcome to Artarmon — tidy, proud, and delightfully smug.

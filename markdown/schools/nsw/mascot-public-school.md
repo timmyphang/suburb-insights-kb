@@ -1,0 +1,39 @@
+Welcome to Mascot
+
+Mascot feels like the city’s friendly, inner‑south neighbour: young, busy and quietly churned by recent urban renewal. The median age sits around 30, so you’ll see a lot of professionals on their way to work and a steady rental and unit market that keeps the suburb lively. There’s a practical mixed‑use energy here — white‑collar offices and pockets of transport and warehousing sit alongside new apartment blocks and compact retail strips. About half the people who live here were born in Australia, and families from China, Indonesia, the Philippines and New Zealand add to a multicultural fabric that’s a real comfort if you’re new to Australia; finding neighbours who speak your language or share a similar migration story can make settling in much easier. Overall income levels are healthy for inner‑city Sydney, and the suburb’s compact footprint means shops, parks and public transport are never far away.
+
+Inside the Classroom at Mascot Public School
+
+Mascot Public School runs Kindergarten to Year 6 — for families relocating from Queensland, note that Prep to Year 6 (note for international parents: Prep is the first year of primary school in Queensland) is the equivalent primary schooling range you might be used to. The school’s timetable blends a solid academic focus with lively co‑curriculars: there’s a Robotics Club, Drama Club and a Senior Choir, alongside Lego groups, gardening and opportunities in debating and public speaking. Those activities give kids a chance to discover a new passion without having to travel across town. If your child needs additional language support, ask the school about English as an Additional Language or Dialect support programs and how they integrate newcomers — that’s a key question for multilingual families who will benefit from the common presence of overseas‑born households in the neighbourhood.
+
+Life After 3 PM: Working Parent Support
+
+For families juggling work and school pickups, the school offers on‑site before, after and vacation care run by 3Bridges Community in the school hall. This is Outside School Hours Care — on-site before and after school childcare — which can be a game changer for parents who work shifts or have long commutes. Many families here are eligible for government childcare subsidies, so it’s worth confirming eligibility early. Vacation care also takes the pressure off school holidays, giving kids structured days while parents keep working. When you tour the school, ask for a walk‑through of the hall setup, typical day routines and the enrolment process so you know exactly how pick‑ups, emergency contacts and fees are handled.
+
+The Kitchen Table and Weeknight Dinners
+
+Grocery runs in Mascot are compact and practical. There’s a Woolworths on Church Avenue and a small retail precinct by the station that covers everyday needs, but the real strength is the neighbourhood’s specialty and ethnic grocery options: JJ Asian Market and several smaller Asian supermarkets make it easy to cook familiar meals from home or try new ingredients. Weeknights in Mascot skew casual and family‑friendly. Pizza from Crazy Tony’s, a Thai takeaway from Thaithae or Vietnamese dishes from Mr Nam are great options when you don’t want to cook. The mix of reliable supermarket staples and ethnic markets means you can drop by after school pickup and have dinner sorted quickly.
+
+Tuition and the Daily Commute
+
+If you’re thinking about extra academic support, Mascot has local tutoring options that cover preparation for selective streams and core subjects: Schoolola focuses on maths and selective school coaching, while Global Education Academy runs maths and English programs. These centres can help if your child needs a bit of catch‑up or extension after school. Commuting into the CBD is fast and convenient: Mascot is on the Sydney Trains Airport & South Line, and the trip to Central Station is typically around six to eight minutes depending on the service and time of day. It’s worth trying the train at the times you’d actually commute to work so you can confirm real‑world travel times and check platform access with strollers or school bags.
+
+Your Next Steps
+
+First, book a school tour or enrolment meeting and come armed with questions about class sizes, English as an Additional Language or Dialect support and the formal entry process so you’re clear about paperwork and timelines. Second, confirm Outside School Hours Care details directly with 3Bridges — ask about enrolment, vacation‑care dates, fees and whether you qualify for childcare subsidies — and while you’re there, find out how children join Robotics, Drama and Choir so you can plan after‑school routines. Third, trial the Mascot to Central train at your intended commute times and pop into the Church Avenue precinct plus JJ Asian Market and a local takeaway; a couple of practice runs will tell you whether evenings and school mornings feel manageable for your family.
+
+Sources
+
+- 2021 Mascot, Census All persons QuickStats | Australian Bureau of Statistics: [https://www.abs.gov.au/census/find-census-data/quickstats/2021/SAL12529](https://www.abs.gov.au/census/find-census-data/quickstats/2021/SAL12529)
+- SEIFA - by profile area | Bayside Council community profile (.id): [https://profile.id.com.au/baysidensw/seifa-disadvantage-small-area?BMID=140&SeifaKey=40002](https://profile.id.com.au/baysidensw/seifa-disadvantage-small-area?BMID=140&SeifaKey=40002)
+- Mascot Demographics (NSW) Local Stats: [https://localstats.com.au/demographics/nsw/sydney/eastern-suburbs/mascot](https://localstats.com.au/demographics/nsw/sydney/eastern-suburbs/mascot)
+- Out of school hours care - Mascot Public School: [https://mascot-p.schools.nsw.gov.au/school-life/out-of-school-hours-care](https://mascot-p.schools.nsw.gov.au/school-life/out-of-school-hours-care)
+- Student opportunities and activities - Mascot Public School: [https://mascot-p.schools.nsw.gov.au/school-life/student-opportunities-and-activities](https://mascot-p.schools.nsw.gov.au/school-life/student-opportunities-and-activities)
+- Meriton Retail Precinct – Mascot Central - Meriton: [https://www.meriton.com.au/retail-precinct/meriton-retail-precinct-mascot-central/](https://www.meriton.com.au/retail-precinct/meriton-retail-precinct-mascot-central/)
+- Order JJ Asian Market - Mascot, NSW Menu Delivery (DoorDash): [https://www.doordash.com/store/jj-asian-market-mascot-24492658/](https://www.doordash.com/store/jj-asian-market-mascot-24492658/)
+- Restaurants in Mascot, NSW With Takeaway | AGFG: [https://www.agfg.com.au/restaurants/sydney/mascot/takeaway-category](https://www.agfg.com.au/restaurants/sydney/mascot/takeaway-category)
+- THE 10 BEST Takeout Restaurants in Mascot (UPDATED 2026) (Tripadvisor): [https://www.tripadvisor.com/Restaurants-g552104-zfp10601-Mascot_Greater_Sydney_New_South_Wales.html](https://www.tripadvisor.com/Restaurants-g552104-zfp10601-Mascot_Greater_Sydney_New_South_Wales.html)
+- Best Tutoring Centre in Mascot NSW - OC, Selective & Maths Tutoring (Schoolola): [https://schoolola.com.au/tutoring-mascot](https://schoolola.com.au/tutoring-mascot)
+- Mascot - Global Education Academy: [https://globaleducationacademy.com.au/Suburb/mascot/](https://globaleducationacademy.com.au/Suburb/mascot/)
+- Airport & South Line - transportnsw.info: [https://transportnsw.info/routes/details/sydney-trains-network/t8/020t8](https://transportnsw.info/routes/details/sydney-trains-network/t8/020t8)
+- Mascot Station, Mascot, Sydney | Live Train Times: [https://livetraintimes.org/stop/australia/train/mascot-station/s-r3gx027pn-mascotstation](https://livetraintimes.org/stop/australia/train/mascot-station/s-r3gx027pn-mascotstation)

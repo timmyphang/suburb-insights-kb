@@ -1,0 +1,27 @@
+Welcome to West End (Brisbane)
+
+If you’re picturing inner-city energy with a friendly, slightly bohemian edge, you’ve landed in the right place — West End is that younger-than-state-average neighbourhood where renters, young professionals and families rub shoulders as the suburb gentrifies into a mixed-income community. There’s a noticeable skew toward tertiary-educated and white-collar workers, and the area’s cultural mix — including a high share of overseas-born and multilingual households — is a real comfort if your family is adjusting to life in Australia because you’ll find neighbours who understand moving countries and languages at home [citation:2021 West End (Brisbane - Qld), Census All persons QuickStats] [citation:West End (Brisbane - Qld) — Cultural diversity (SBS Census Explorer)].
+
+Inside the Classroom at West End State School
+
+West End State School is a local primary that teaches Prep to Year 6 (note for international parents: Prep is the first year of primary school in Queensland) and wears its creativity and community focus proudly. Music is a big part of school life: instrumental ensembles, bands and strings, choir and individual instrumental lessons give kids a chance to find an outlet and build friendships through performance [citation:Music - West End State School]. Sport is equally active, with school teams competing in interschool events including the Mt Gravatt District for older primary students, so if your child loves kicking a ball or joining team training, there’s plenty to plug into [citation:Sports - West End State School].
+
+Life After 3 PM: Working Parent Support
+
+For busy families, practical care is handled on campus through the school’s parent-run Outside School Hours Care (on-site before and after school childcare) service, which offers before school care, after school care and vacation care with coverage that typically stretches from early morning until about 6:00pm. The program is managed by the West End State School P&C, so it’s very much a community-led solution for parents who need reliable wraparound care [citation:Out of School Hours Care (OSHC) - West End State School] [citation:Outside School Hours Care - West End State School P&C].
+
+The Kitchen Table and Weeknight Dinners
+
+One of the joys of living in West End is how easy it is to feed a family without fuss: specialty and ethnic grocers like Sunlit and Hong Lan Asian Foods — along with a cluster of Vietnamese and Asian shops — make fresh, hard-to-find ingredients accessible for home cooking or quick rice-and-noodle dinners [citation:Sunlit West End — Sunlit Asian Supermarket] [citation:Hong Lan Asian Foods West End - TSEN Grocer Pty Ltd]. When you don’t feel like cooking, Boundary Street has family-friendly options that deliver real comfort: Gala Thai does reliable takeaway and dine-in Thai classics, Trang Restaurant on Hardgrave Road serves excellent Vietnamese pho and quick family meals, and The Boundary is your go-to for wood-fired pizza and pub-style takeaway [citation:Gala Thai (West End) — Order Online / Takeaway] [citation:Trang Restaurant West End — Vietnamese (dine-in & takeaway)] [citation:The Boundary — Pizzeria & Takeaway (Boundary Street, West End)].
+
+Tuition and the Daily Commute
+
+If your child needs a bit of academic boost or you want to lock in some enrichment, local supports like Alchemy Tuition — offering in-home and online tutoring across primary and secondary years — and the Spiral Community Education Co‑op for community workshops are both handy options to keep learning momentum going after school [citation:Alchemy Tuition — West End tutoring] [citation:Spiral Community Education Co-op - local listing]. Commuting into the Brisbane CBD is straightforward: West End doesn’t have a heavy‑rail station of its own, but South Brisbane station and South Bank are close by, and the train trip from South Brisbane into the CBD’s Central or Roma Street stations takes only a few minutes depending on the service, which makes it realistic to live here and work in the city without a long daily slog [citation:South Brisbane station - TransLink] [citation:South Brisbane to Brisbane Central Station Train Times - TrainO'Clock].
+
+Your Next Steps
+
+1) Check enrolment eligibility and the school’s catchment and enrolment steps directly with West End State School through their site so you can confirm what’s needed to enrol your child [citation:Out of School Hours Care (OSHC) - West End State School].  
+2) If you need before, after or vacation care, register early with the P&C’s Outside School Hours Care (on-site before and after school childcare) service — they typically run from early morning to about 6:00pm and spots can fill up [citation:Outside School Hours Care - West End State School P&C].  
+3) If music or sport matters to your child, ask about joining the instrumental ensembles, choir or interschool sports programs, and plan your commute using South Brisbane station timetables for fast CBD access; consider local tutoring or community education for extra academic support if you need it [citation:Music - West End State School] [citation:Sports - West End State School] [citation:South Brisbane station - TransLink] [citation:Alchemy Tuition — West End tutoring].
+
+If you’d like, I can turn this into a one-page parent-friendly flyer with contact links, or I can check the exact enrolment zone and specific start-of-term steps for your address — tell me which and I’ll get it done.

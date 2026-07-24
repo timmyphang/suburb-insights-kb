@@ -1,0 +1,13 @@
+# Bass Hill (NSW)
+
+Slug: `bass-hill-nsw`
+
+We know Bass Hill by the sight of a Toyota Prado half-on the kerb outside Bass Hill Plaza, Lululemon leggings flaring, flat white in one hand and a family-size bag of chips threatening to escape the other. We are the suburb that treats activewear as its civic uniform and the car as a mobile shopping trolley — Subaru Outbacks, tidy Toyota RAV4s and the occasional Prado parade quietly competing for kerb real estate on Hoxton Park Road. We pick up coffee from the espresso cart by Woolworths, then justify the second flat white because “we’re trying to be healthy” while the Cavoodle in the back judges our choices.
+
+Our Saturday is a choreography. 7am flat white from the plaza, quick nip into Woolies for avo and oat milk, then a hardware hop to Bunnings for one pot, three screws and the IKEA-inspired deck plant we definitely needed. Lunch is the sushi place next to the carpark; the dog naps in the RAV4 while the kids kick a ball on the nature strip. Sunday is sport: kids’ soccer at the park on Canterbury Road, a second flat white, a cold-pressed juice from the van for the parents who are pretending to detox, and a barbie that launches precisely at 4pm because friends arrive like an Aussie relay team bearing pavlova.
+
+Everything here escalates to a neighbourhood referendum. The great Bass Hill saga — a month-long kerfuffle over the only shady parking spot outside the plaza — is still a local legend, memorialised in an album of screenshots on the Bass Hill Residents Facebook group. There was a 72-comment thread about whether the Sunday sausage sizzle should offer gluten-free snags; spoiler, it now does, and someone still insists the snags were better before the change. Bin-collection times have inspired petitions, and the real civic sport is arguing who blocked the “best” spot on a Saturday morning. Strata is quiet until someone parks a van in a visitor spot and suddenly the committee meets three times in a week.
+
+Who would hate living here? The earnest urban minimalist who bikes everywhere, owns one pair of jeans and brings a metal straw to a sausage sizzle — they get asked “so where’s your car then?” and labelled ‘unimpressed’ for refusing to sign the bin petition. They loathe our ritual pilgrimage to the plaza and find small-talk about school pickups exhausting.
+
+Who would love it? The efficient, mildly competitive suburban optimiser — tidy RAV4, Nike trainers, Cavoodle or Staffy, Sunday morning schedule executed like a production — welcomes you with an extra pavlova and a spot saved in the carpark. Come for the convenience, stay for the gossip.

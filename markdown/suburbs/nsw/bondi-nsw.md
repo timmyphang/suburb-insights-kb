@@ -1,0 +1,13 @@
+# Bondi (NSW)
+
+Slug: `bondi-nsw`
+
+We know the exact moment Bondi wakes: the sunrise crowd weaving past the Bondi Pavilion as someone in a wetsuit kisses the Icebergs salt off their shoulders and a weekend dad consults a map to find the Bondi Vista Ferris Wheel for his kids. That first coffee queue is half apologetic locals, half tourists who think #Bondi is a personality trait.
+
+Our morning looks like this: a quick coastal walk (maybe the Sculpture by the Sea trail if James Rogers’ 'Siren’s Song' is up, because yes we argue whether it’s art or just very clever Instagram framing), a lap at the Bondi Icebergs pool when we’ve been good, then a detour to Sean’s for a long-lunch emergency. If we’ve got kids, we’ll be on bus 389 to Francis Street/Thomas Hogan Reserve or dragging the stroller to Wairoa Avenue for Playgroup NSW’s Friday session. The mums among us fold in a VRTUS Gym class — Aleesha Brown and the Bondi mums crew have cornered the market on community and 20% off Winter Offer hype.
+
+Of course, we bicker. The Bondi Festival returns with ice skating, dog parades and that 25-metre Ferris wheel, and half the beach is delighted while the other half vows to boycott the next round of neon-lit fun. Sculpture by the Sea nearly didn’t come back last year over funding concerns, and we still natter about council budgets like it’s a reality show. On Whirlpool we fight about FY (Bondi) phone prefixes from 1948 and whether your Netgear Orbi actually reaches the bedroom in your south-facing apartment. Someone’s always testing mesh Wi‑Fi in a converted flat and declaring themselves the unofficial IT minister of the block.
+
+Who would hate living here? If you crave anonymity, silence and a council that never updates a master plan — you’ll loathe the Bondi Junction Master Plan talk: 3,000 new homes, a revitalised Oxford Street Mall and civic precincts. If your idea of paradise is a backpacker-free, festival-free coastline with no sculptures, no Ferris wheel, and zero community playgroups at Kimberley Reserve Community Hall — Bondi will infuriate you.
+
+Who would love it here? Early birds who actually do the sunrise routine, families who queue for Bondi Firelight bonfires and marshmallow toasting, art nerds who trek the Bondi–Tama walk, food people who rotate through Sean’s and the rest of our booming restaurant scene, and anyone who cherishes a neighbourhood that rallies — as we did after December 2025, with blood donations, donated meals and on‑the‑ground mental‑health support. We’re loud, opinionated, sunburnt and fiercely proud; and if you’re into that, welcome to our stretch of sand.

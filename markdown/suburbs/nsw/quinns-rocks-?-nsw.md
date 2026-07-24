@@ -1,0 +1,11 @@
+# Quinns Rocks ? (NSW)
+
+Slug: `quinns-rocks-?-nsw`
+
+Back in the day we’d roll out of bed, squint at the Indian Ocean and decide whether today was a Quinns Beach day or a Quinns Dog Beach day. Quinns Beach — about 950 metres of sand, if you like numbers — and its gentler cousin, the dog beach with those natural offshore reefs and the solid rock breakwater, have been our front yard for as long as anyone can be bothered to count the caravan parks. Sitchu even reminds everyone we’re roughly 38 kilometres north of Perth’s CBD, in case you forget we exist until the weekend.
+
+There used to be a sweet little secret on the Quinns Beach trail: Luna N Soul at 80 Ocean Drive. Urban List described it as “a sweet little secret” and admitted the matcha was “definitely sweetened, but creamy, mellow, and easy‑drinking.” We remember queueing like smug tourists hoping that description still mattered. Nearby, Frederick Stubbs Park has always been the place for kids to blow off steam, and yes, whale‑watching season gives us something to brag about to visitors who think our horizon is empty. The suburb even had beach wheelchairs listed for accessibility — classy, practical, and exactly the kind of detail we pat ourselves on the back about.
+
+Our community pages were full of sensible, suburban admin: Playgroup WA has been doing the support thing since 1972, and their listings once noted the Playgroup WA 2025 membership fee at $35 — slightly less than the cost of pretending you don’t have sand in your shoes all summer. MyTime Quinns Rocks was listed as running out of the Butler Community Centre (55 Kingsbridge Blvd, Butler) for peer support — because our support networks extend beyond postcode lines. On the practical side of life, directories once showed WA Tiling and Renovations at 40 Dartmouth Circle — the sort of listing that makes you feel your house could be fixed if you ever stopped watching sunsets.
+
+Who would hate it here? People who need loud inner‑city buzz and 24/7 boutique theatre — you’ll get sea air, not a velvet rope. Who would love it here? Families, dog owners, anyone who thinks whale‑watching trumps rooftop bars, and folk who appreciate a suburb that quietly hands you a horizon and says, “you good?” We’ll take our quiet pride, sand between our toes and all.

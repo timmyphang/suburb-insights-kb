@@ -1,0 +1,11 @@
+# Chisholm (NSW)
+
+Slug: `chisholm-nsw`
+
+We live in Chisholm, NSW — the kind of place that gets mistaken for every other Chisholm on the planet, and honestly we’re fine with the identity crisis. Back in the day the name had already popped up everywhere: Broadsheet once quoted Joe Chisholm of Brisbane bar Cobbler about infused spirits, Time Out rhapsodised about a Shirley Chisholm Recreation Center in Brooklyn, and over in Havelock North Pixie Bowls came to life thanks to Hannah Moore and Zoë Chisholm. It’s like our suburb’s name went on a gap year and never came back.
+
+Our morning ritual is low-key: we sip whatever’s in the thermos and remind the kids that “Chisholm” is not a brand — it’s a neighbourhood with more cousins than a family reunion. If you want proof that the name gets around, there’s Chisholm Village Shopping Centre at 60/62 Halley Street in Canberra, and even Caroline Chisholm Drive shows up in Winston Hills (see 170 Caroline Chisholm Drive and 64/180 Caroline Chisholm Drive in various guides). Meanwhile, Chisholm Services for Children over in Nova Scotia quietly runs things like the Brighter Futures campaign — founded by the Sisters of the Good Shepherd in 1890, transferred to a community board in 2004 — which makes our little postcode feel oddly international.
+
+We won’t pretend there’s a buzzing, named-after-us cocktail scene on every corner — as Broadsheet’s chat with Joe Chisholm about infused spirits reminds us, the Chisholm moniker has more to do with other people’s bars and projects than with our own CBD-level glamour. If you need Mel C to turn up and brand our main street — yes, Melanie Chisholm has been teasing reunions — you’ll be disappointed. If you need a Pixie Bowls in your cul‑de‑sac, move along.
+
+Who would hate it here? People who crave constant trend pieces, Insta-famous cafés on every corner, or the comforting illusion that our postcode owns the Chisholm name outright. Who would love it here? Families and anyone who enjoys a low-drama suburb that shares a surprisingly distinguished roll call of cousins — from schools like Chisholm Catholic College to shopping centres in Canberra and charities in Nova Scotia. We’re humble, connected-by-name, and quietly pleased the world keeps reminding us we’re not the only Chisholm worth talking about.

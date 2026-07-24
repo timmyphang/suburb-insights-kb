@@ -1,0 +1,11 @@
+# Dunmore (NSW)
+
+Slug: `dunmore-nsw`
+
+We wake up in Dunmore, NSW, make ourselves a cuppa and immediately wonder which Dunmore is getting our Christmas lights this year. Because for a place with such a humble postcode, our name gets around: Urban List once dangled “Dunmore Homestead Cottage” in a WA farm-stay round-up and even slipped “The Cottage At Dunmore Farm” into a list of romantic getaways, while Sitchu wrote up Dunmore Farm near Molyullah as the kind of restored 1860 weatherboard idyll people book for outdoor-opening tubs. Back in the day, we used to get proud-of-ourselves letters that actually belonged to other Dunmores.
+
+Morning routine: we check the community noticeboard (metaphorical — we are not inventing a café) and chuckle at the world tour our placename is on. Concrete Playground takes the scenic option and drags “Dunmore Cave” into an Ireland feature about limestone caverns and Viking-era history — which is thrilling, but also confusing when our postie tries to find it. Urban List even admired 13 Dunmore Street North, Bexley’s Christmas lights raising money for Lights 4 Kids, so when our local kid starts practising tinsel choreography we’re like, “aim higher, we’ve got cousins doing charity LEDs in Sydney.”
+
+The local drama, such as it is, is mostly paperwork: bookings routed to WA, romantic-getaway reviews that flatter Molyullah’s weatherboard cottage more than our morning gutters, and the occasional tourist who confuses us with a cave or a Wānaka street (Kika at 2 Dunmore Street pops up in odd corners of the internet). No council scandals, no soap-opera blow-ups — just a decades-long identity crisis played out in travel lists and regional guides. As Sitchu gently reminds us, there’s even a John Dunmore Lang Place in Canberra where fireworks watchers gather — so don’t take it too personally.
+
+Who would hate living here? People who crave being the only version of themselves on Google Maps. Who would love it? Folks who enjoy low-key anonymity, the delight of sharing a name with a cottage people swoon over in Urbans and the odd cave with calcite formations. We’re the Dunmore that’s modest enough to be mistaken for everywhere else — and quietly pleased about it.

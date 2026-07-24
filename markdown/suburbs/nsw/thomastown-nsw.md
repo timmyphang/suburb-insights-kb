@@ -1,0 +1,11 @@
+# Thomastown (NSW)
+
+Slug: `thomastown-nsw`
+
+Back in the day we’d wander out of Thomastown train station with ricotta on our breath and a smug grin, because this suburb quietly moonlit as Melbourne’s dairy whisperer. We used to point visitors towards That’s Amore’s two‑storey factory — Giorgio Linguanti’s place where burrata, mozzarella and ricotta were made and where the retail deli once ran cheese‑centric brunches (yes, hot ricotta on toast and a fried‑cheese bagel were a thing). If you’d ever wondered where the Cannoleria in South Melbourne got its filling, that was us supplying the goods from Thomastown. Bragging rights, secured.
+
+Weekends were a study in wholesome contradiction: kids let loose in the Museum of Play and Art — housed in that charming, heritage‑listed 100‑year‑old pottery barn — while adults queued for That’s Amore events. The Ricotta Festival was a real flex too; Concrete Playground and Time Out wrote up one of those day‑long cheese parties (masterclasses, live music, the works), and there was even talk of a March 29, 2026 return. Pro tip we used to give: if you couldn’t be bothered with boutique classes, low‑cost fitness options cropped up around 11/391 Settlement Road and Proactive Academy ran the more pugilistic curriculum — boxing, Muay Thai and women’s self‑defence — for when the ricotta needed balance.
+
+No local catfights to report — our drama tends to be milky rather than scandalous — so instead you get the practical notes: we’ve got the IGA within a stroll, TRAC nearby and the community stitched together by the Thomastown Neighbourhood House and other local services listed in the community directory. Sitchu’s real‑estate ads still romanticised Central Avenue living, for families who liked a long backyard and a short commute to the station.
+
+Who would hate it here? People allergic to dairy or anyone enchanted by boutique anonymity — we make noise with cheese. Who’d love it? Families, food nerds, community types and anyone who enjoys a pizza oven story — remember SPQR’s oven was custom‑made by an Italian family in Thomastown — and likes their suburb to quietly supply the rest of the city. We’ll keep making the cheese; you keep pretending you discovered it first.

@@ -1,0 +1,23 @@
+Welcome to [SUBURB_NAME]
+
+Stepping into [SUBURB_NAME] feels like joining a neighborhood that already knows how to welcome newcomers. Streets lined with a mix of older character homes and newer builds, local coffee spots where baristas remember your name, and a quietly busy community calendar make this suburb an easy first stop for families moving from overseas. If the data shows a lot of households where English isn’t the only language spoken or a high proportion of residents born overseas, that’s actually a comforting sign: your child won’t be the only one finding their feet in a new country, and you’ll have immediate access to a multicultural support network that helps with everything from language tips to birthday party etiquette. [SUBURB_PROFILE]
+
+Inside the Classroom at [SCHOOL_NAME]
+
+Walk into [SCHOOL_NAME] and you’ll notice classrooms arranged for collaboration, teachers who lean into hands-on projects, and a timetable that balances literacy and numeracy with plenty of creative time. The school’s logistics — student age ranges, campus layout, session times and dropp-off routines — shape daily life here, and the culture inside the school reinforces a warm, community-focused approach to learning. If the school lists Prep to Year 6 (note for international parents: Prep is the first year of primary school in Queensland) as its primary offering, expect an emphasis on foundational literacy and play-based learning in the youngest years, with increasing structure through the older grades. Parents often remark on how staff make a point of explaining assessment approaches and homework expectations in plain language so families from varied educational backgrounds can stay involved. [SCHOOL_LOGISTICS] [SCHOOL_CULTURE]
+
+Life After 3 PM: Working Parent Support
+
+For families juggling work and school runs, the availability of Outside School Hours Care (on-site before and after school childcare) can be the decision-maker when choosing a school. When [SCHOOL_NAME] provides on-site before and after school care, it means you can drop off early and pick up later without relying on long commutes or grandparents every day. Those programs typically run structured activities that bridge the school day and home life, keeping kids engaged and safe until you finish work. If the school partners with an external provider, you’ll want to check registration requirements and vacancy patterns early in your move timeline. [SCHOOL_LOGISTICS]
+
+The Kitchen Table and Weeknight Dinners
+
+Evenings in [SUBURB_NAME] are a blend of quick convenience and local flavor. Grocery options range from full-service supermarkets to fresh produce markets and specialty stores that stock familiar international ingredients — a real comfort when you’re craving tastes from home. Weeknight dining leans family-friendly: casual pizza places, noodle bars, and bistros with early kids’ menus dominate, while a handful of sit-down restaurants cater to parents by offering relaxed atmospheres and ready-made pick-up options for busy nights. If you find a local grocer stocking staples from your home country, consider it a small victory; if the neighborhood shows a high proportion of multilingual households, that generally means better availability of international ingredients and baked goods that help your children feel at home. [LOCAL_GROCERIES] [WEEKNIGHT_DINING]
+
+Tuition and the Daily Commute
+
+When you’re planning finances and time, look beyond headline tuition or school fees to after-hours care charges, excursion levies, and the real cost of driving or catching public transport to work. Some families offset weekday pressure by choosing schools closer to work hubs or along straightforward commute lines into the central business district. If your commute into the city is listed with typical travel times or transport options, weigh that against before- and after-school care schedules so you’re not rushing between mismatched timetables. Tutoring and enrichment options also factor into weekly costs and rhythms: if the suburb lists accessible academic support or extracurricular programs, those can cushion transitions for kids needing extra help or wanting to accelerate. [ACADEMIC_ENRICHMENT] [CBD_COMMUTE]
+
+Your Next Steps
+
+First, visit the school during a normal school day: time your drop-off and pick-up, listen to the playground chatter, and picture your week here. Second, secure your place in any outside school hours care early — these programs fill fast and will smooth your workday rhythm. Third, introduce yourself to other parents and local shopkeepers; those first friendly connections are the quickest route to feeling settled and learning the subtleties that make [SUBURB_NAME] home. [ACTION_STEPS]

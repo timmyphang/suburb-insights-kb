@@ -1,0 +1,11 @@
+# Terrey Hills (NSW)
+
+Slug: `terrey-hills-nsw`
+
+Back in the day we’d tell visitors the best thing about Terrey Hills was the sky — and we weren’t just being poetic. We still stop the car on Mona Vale Road to squint up at a patch of actual unpolluted night where the Northern Sydney Astronomical Society runs observing nights (usually around the new moon, if you like pretending you’re in a sci‑fi film). By day we’more likely to be pottering among native banksias at Harvest Seeds and Native Plants on 281 Mona Vale Road — Marina Grassecker’s little two‑hectare empire stocking around 700 species, the place that makes the rest of Sydney’s gardens look like they missed the memo.
+
+Weekends used to look like this: a slow coffee run past the old weatherboard cottage at 205 Mona Vale Road that became Berkelo Kitchen, where house‑milled sourdough famously moonlighted as pizza base material, then a detour to the Terrey Hills Flower Markets for the kids to run riot while Frankie’s Food Factory (the Flower Power café reboot) fed them and their small, opinionated dogs. If we were feeling fancy we’d remember Cavallino at the corner of McCarrs Creek Road and Yulong Avenue — Giovanni Pilu’s rustic pizzeria with its wood‑fired edge — or book a table at Urban Tadka out in the bush on 321 Mona Vale Road for a curry that refused to be suburban.
+
+There’s been development chatter too — the Boathouse Group’s “The Farmhouse” on Myoora Road got the green light, a multi‑million‑dollar dining hub planned to hold nearly 600 guests, with a play area and live stage. Big plans for a village that’s historically been content being small and leafy. And yes, we’ve had our oddities: once police turned up to find 34 garbage bags of choof in bushland between McCarrs Creek Road and Kanangra Avenue — proof that even our bush has a sense of mischief.
+
+Who would hate it here? If you need a nightlife crawl, neon stripping and 24/7 anything, Terrey Hills will make you sad and very well‑rested. Who would love it? Stargazers, native‑plant nerds, families after playground‑adjacent cafes, and anyone who enjoys dining that smells faintly of gum trees. We’re leafy, a touch stubborn, and quietly proud of it — and we’ll keep watching the sky while everyone else argues about the nearest bridge toll.

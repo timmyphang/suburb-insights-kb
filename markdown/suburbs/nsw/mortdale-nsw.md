@@ -1,0 +1,11 @@
+# Mortdale (NSW)
+
+Slug: `mortdale-nsw`
+
+We know the slow burn of a Mortdale Saturday: we’d shuffle out with the pram (or the board game box) and the main street still smells faintly of chicken and linoleum. Back in the day the Milk Bar Cafe 2223 was the place that leaned into that nostalgia—one‑cent lollies, malted shakes and uncovered 1970s lino—while St Kai at 38 Balmoral Road quietly did its mini‑Japan thing with donburi and experimental coffee. And yes, Short Black Panther on Pitt Street used to feed the early risers with banana honey muffins long before Mortdale fancied itself a “scene”.
+
+We’ve also watched a nanobrewery turn our industrial strip into a destination: The Social Brewers came out of someone’s home‑brew experiments and put Mortdale on the St George beer map. If you followed the old previews, they even packed a few oddities for GABS25 — Vegemite and macadamia‑led brews — the sort of thing that makes our garage doors feel cosmopolitan.
+
+Our weekday rhythm is different: parents drop kids at Edelweiss Child Care Centre — it’s been part of the place for 40 years — while others squeeze into Wishbone Chickens on Morts Road for a roast that’s been a local constant. Hobby people know the warehouse at Unit 5, 16 Hearne Street as The Combat Company; we’re quietly proud that Mortdale has its own tabletop wargaming bunker. The Lankan Railway Cafe on Morts Road used to promise Hoppers Nights for those who wanted curry after school pickup. And yes, there’s a church stake on 74 Walter Street for anyone keeping count of the community pillars.
+
+There isn’t a scandal every week. The drama here is lower heat: playgroups at Jubilee Community Centre, kids at Olds Park, friendly queues for chicken, and the comforting sense that someone remembers your name. Who would hate it? If you crave late‑night glamour, glass towers and a dozen options for brunch at 2am, Mortdale will feel too chill and too local. Who would love it? Families who value Edelweiss’s steady hand, hobbyists hunting the Combat Company’s next event, retro romantics nostalgic for Milk Bar afternoons, and people who like their craft beer with a side of suburbia. We’re not flashy. We’re reliable — and we know every corner of our little village.

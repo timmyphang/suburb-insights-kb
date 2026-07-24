@@ -1,0 +1,42 @@
+Welcome to Pacific Pines, QLD
+
+If you’re picturing a young, family‑first suburb with wide streets, parks, and a steady hum of school‑run traffic, you’ve got Pacific Pines. The median age here is 34, which tells you a lot: this is a place full of young parents, children, and households juggling work and family life. Occupations run the gamut from technicians and trades through clerical and administrative roles to professionals, so the community feels like a comfortable middle‑income mix — a bit of white collar, a bit of blue collar, and a lot of practical neighbourliness. About two‑thirds of residents were born in Australia, and a notable share come from overseas, with England one of the more common birthplaces; for families moving from abroad, that diversity can be a real relief, because you’re joining a neighbourhood where multi‑national life is already normal.
+
+Inside the Classroom at Jubilee Primary School
+
+Jubilee Primary School teaches children from Prep to Year 6 (note for international parents: Prep is the first year of primary school in Queensland). The school leans into the full primary experience: core classroom learning balanced with a lively co‑curricular program. If your child is the sort who wants to try a violin, join an ensemble, step on stage for speech and drama, or find balance in ballet and dance, there are options — many of these activities are offered through external providers who work closely with the school. The annual report and the school website lay out provider contacts and program rhythms, which is handy when you’re planning afternoons and weekends around lessons and rehearsals.
+
+Life After 3 PM: Working Parent Support
+
+Jubilee takes the logistics of modern family life seriously. On‑site Outside School Hours Care (on-site before and after school childcare) is run by Catholic Early EdCare, with published example hours showing before‑school care starting as early as about 6:30am, after‑school care stretching to around 6:00pm, and vacation care opening roughly 7:00am to 6:00pm on school holidays. That continuity — from early morning drop‑offs to evening pickup and holiday care — is exactly what many working parents need. Places and fees are subject to availability, so families should contact the service directly to lock in spots and get the current rates. Knowing you’ve got a trusted, on‑campus childcare option makes the school run feel a lot less like a gamble.
+
+The Kitchen Table and Weeknight Dinners
+
+When you walk through Pacific Pines Town Centre you’ll find the kind of food scene that makes weeknight dinner planning easy. The centre hosts cafés, pizza places and several Thai and Chinese takeaways that are perfect for evenings when homework and baths take priority. For curry lovers and home cooks who want authentic ingredients, local spots such as Pacific Asian Market and SpiceValley Indian Grocery stock specialty items; larger Asian supermarkets are an easy drive away in Helensvale if you want a bigger shop. There’s also a neighbourhood favourite, Saleena’s Cinnamon, for Indian takeaway that’s reliably family‑friendly. In short, whether you’re grabbing something on the way home or stocking a pantry for a Sunday night curry, the choices make weekday feeding a manageable, even enjoyable, part of family life.
+
+Tuition and the Daily Commute
+
+If your child needs extra academic help or you want a little enrichment, Pacific Pines has tutors who come recommended locally: ATK Tutoring and Cloud Tuition both list services in the area, and a range of private tutors are available via common advertising platforms. For working parents commuting to Brisbane’s central business district — often referred to simply as the CBD — plan for a combined trip: Pacific Pines doesn’t have a heavy‑rail station of its own, so most families take a local bus to Helensvale station and transfer to a train. From Helensvale the train to Brisbane Central typically takes about one hour and ten to twelve minutes depending on the service pattern; when you add the bus leg and waiting time, door‑to‑door travel needs a realistic buffer. Building that transfer into your morning and afternoon routines will save stress — and makes those early starts or late returns a little more predictable.
+
+Your Next Steps
+
+First, ring Catholic Early EdCare or Jubilee’s OSHC service to confirm current hours, vacancies and fees before you enrol — availability does change, and getting on their list will calm the logistics juggle. Second, skim Jubilee Primary School’s website and the school’s annual report to pin down co‑curricular contacts for music, drama or dance so you can match lesson times with your family’s week. Third, map your commuting options: check local bus timetables from Pacific Pines to Helensvale and the Helensvale–Brisbane train schedules, then build sensible transfer time into your door‑to‑door estimate.
+
+Sources
+
+- Pacific Pines QuickStats (ABS 2021): [https://www.abs.gov.au/census/find-census-data/quickstats/2021/SAL32248](https://www.abs.gov.au/census/find-census-data/quickstats/2021/SAL32248)
+- Pacific Pines Demographics (LocalStats): [https://localstats.com.au/demographics/qld/south-eastern/gold-coast-hinterland/pacific-pines](https://localstats.com.au/demographics/qld/south-eastern/gold-coast-hinterland/pacific-pines)
+- Pacific Pines, Suburb Profile (Behind the Fence): [https://www.behindthefence.com.au/suburbs/qld/pacific-pines](https://www.behindthefence.com.au/suburbs/qld/pacific-pines)
+- Jubilee Primary School OSHC (Catholic Early EdCare): [https://www.catholicearlyedcare.qld.edu.au/jubilee-primary-school-outside-school-hours-care-pacific-pines/](https://www.catholicearlyedcare.qld.edu.au/jubilee-primary-school-outside-school-hours-care-pacific-pines/)
+- StartingBlocks listing (Jubilee OSHC): [https://www.startingblocks.gov.au/find-child-care/01HGCPK99MAZZBAKZC6P8RX4F5/Jubilee-Primary-School-Outside-School-Hours-Care](https://www.startingblocks.gov.au/find-child-care/01HGCPK99MAZZBAKZC6P8RX4F5/Jubilee-Primary-School-Outside-School-Hours-Care)
+- Welcome to Jubilee Primary School (official site): [https://www.jubileeprimary.qld.edu.au/](https://www.jubileeprimary.qld.edu.au/)
+- Annual Report 2021 – Jubilee Primary School (Brisbane Catholic Education): [https://www.bne.catholic.edu.au/ArticleDocuments/3507/Annual%20Report%202021%20-%20PACIFIC%20PINES%20-%20Jubilee%20Primary%20School.pdf.aspx](https://www.bne.catholic.edu.au/ArticleDocuments/3507/Annual%20Report%202021%20-%20PACIFIC%20PINES%20-%20Jubilee%20Primary%20School.pdf.aspx)
+- Pacific Pines Town Centre (official): [https://pacificpinestowncentre.com.au/](https://pacificpinestowncentre.com.au/)
+- Pacific Asian Market (The Pines): [https://www.thepinescentre.com.au/stores/pacific-asian-market](https://www.thepinescentre.com.au/stores/pacific-asian-market)
+- SpiceValley Indian Grocery (directory): [https://australia.chamberofcommerce.com/business-directory/queensland/pacific-pines/indian-grocery-store/4767152-spicevalley-indian-grocery-shop](https://australia.chamberofcommerce.com/business-directory/queensland/pacific-pines/indian-grocery-store/4767152-spicevalley-indian-grocery-shop)
+- Saleena's Cinnamon Indian Cuisine - Pacific Pines: [https://www.cinnamonicgc.com.au/](https://www.cinnamonicgc.com.au/)
+- Pacific Pines takeaway listings (AGFG / Localsearch): [https://www.agfg.com.au/restaurants/gold-coast/pacific-pines/takeaway-category](https://www.agfg.com.au/restaurants/gold-coast/pacific-pines/takeaway-category)
+- ATK Tutoring Pacific Pines: [https://atktutoring.com.au/tutoring-pacific-pines/](https://atktutoring.com.au/tutoring-pacific-pines/)
+- Cloud Tuition Pacific Pines: [https://www.cloudtuition.com.au/locations/city/pacific-pines](https://www.cloudtuition.com.au/locations/city/pacific-pines)
+- Helensvale station (Translink): [https://translink.com.au/plan-your-journey/stops/helensvale-station](https://translink.com.au/plan-your-journey/stops/helensvale-station)
+- Brisbane Central ↔ Helensvale timetable/estimates (TrainOClock / Rome2rio): [https://www.trainoclock.com/en-AU/traintimes/brisbanecentralstation-helensvale](https://www.trainoclock.com/en-AU/traintimes/brisbanecentralstation-helensvale)

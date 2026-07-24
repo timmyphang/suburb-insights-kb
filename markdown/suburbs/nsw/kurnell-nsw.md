@@ -1,0 +1,11 @@
+# Kurnell (NSW)
+
+Slug: `kurnell-nsw`
+
+Back in the day we’d roll out of bed, grab a thermos, and pretend we were heading for a quiet coast walk — only to end up elbow-to-elbow at Bonna Point Reserve with half the Shire and three excited Labradors. We know where the best vantage is on the Cape Solander cliffs, because as Urban List and Concrete Playground both reminded us, that’s where the humpbacks show off in June and July, sometimes as close as 200 metres. Lovely for whales, less lovely for small dogs — as Broadsheet grimly reported when Molly, an American Staffordshire terrier, was taken by a shark metres from the shore. The council’s warnings are the kind of conversation-starter we don’t enjoy but do respect.
+
+Our weekend loop is predictable and proud: a stomp on the Cape Baily track (the 13‑kilometre route Urban List waxed lyrical about), a detour to the sand dunes that Time Out points out have serious Mad Max pedigree, and a post-walk collapse on the grass at Bonna Point Reserve — the same reserve Time Out lists with its playground, toilets and parking. For years the local mums made a beeline for the new playground — Sutherland Shire’s biggest slide and a flying fox that no child can resist, according to Mums of the Shire. We’ve even queued at Cook at Kurnell (306–308 Prince Charles Parade) — Time Out called it a Hamptons-ish, kid- and pet-friendly spot with hammocks — though, historically speaking, that’s how the guides have described it.
+
+Petty drama? We’ve had our moments: shark sightings, the sad kite-surfing accident reported by Pedestrian, and the ongoing tug-of-war between “let the dogs run” and “maybe stay out of the water today” warnings. None of it needs embellishment; the headlines do the heavy lifting.
+
+Who would hate living here? People who loathe wind, sand in strange places, being photobombed by whales on your coastal selfie, or sharing the weekend with every child within a 20‑minute radius. Who would love it? Families, dog-people, walkers, history nerds who still enjoy the Kurnell Village Fair remembering Lt James Cook, and anyone quietly proud that Operation Crayweed has started stitching the underwater forests back together — proof we can be both dramatic and deeply restorative. We’ll keep the dunes, you keep your city calm.
