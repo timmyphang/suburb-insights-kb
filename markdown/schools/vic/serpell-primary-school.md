@@ -1,0 +1,29 @@
+Below is a compact, family‑facing eight‑point briefing for Serpell Primary School (Templestowe). I used search‑engine snippets first and opened only the school, ABS and council/profile pages needed. Each item is a short fact or two with source links.
+
+1) Suburb socio‑economic profile  
+Templestowe is an upper‑middle income, family‑oriented suburb with a high share of married households and an older median age (median age 46; median weekly household income $2,163) — suburban/village feel with parklands and established homes. [citation:2021 Templestowe QuickStats (ABS)](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL22483) [citation:Templestowe suburb profile (Manningham Council)](https://www.manningham.vic.gov.au/sites/default/files/2024-06/templestowe_suburb_profile.pdf)
+
+2) Most common foreign country of birth  
+Most common overseas birthplace is China — roughly around 8% of residents in earlier ABS profiles, and local council/suburb summaries note China as the largest overseas‑born group in recent counts. (If you need the exact 2021 percent for the Serpell PS catchment area I can pull the ABS topic table next.) [citation:2016 Templestowe QuickStats (ABS) - China 8.0%](https://abs.gov.au/census/find-census-data/quickstats/2016/SSC22471) [citation:Templestowe suburb profile (Manningham Council) noting rise in residents born in China](https://www.manningham.vic.gov.au/sites/default/files/2024-06/templestowe_suburb_profile.pdf)
+
+3) Working‑parent support (OSHC)  
+Serpell Primary has onsite Outside School Hours Care operated by Camp Australia (before & after school care plus vacation programs) — ACECQA register lists the service (Camp Australia — Serpell Primary School OSHC) with approved places. [citation:Camp Australia — Serpell Primary School OSHC (Camp Australia)](https://campaustralia.com.au/school/?accessCode=B6A9) [citation:ACECQA register entry for Camp Australia - Serpell Primary School OSHC (approved places shown)](https://www.acecqa.gov.au/resources/national-registers/services/camp-australia-serpell-primary-school-oshc)
+
+4) School culture — extracurriculars (2–3 named)  
+Serpell runs school sport/athletics programs (school teams, swimming and athletics carnivals), music and performing‑arts (concerts/performances, music programs), and has participated in school esports events (FUSE Cup). [citation:Curriculum Framework outline — sports and music noted (Serpell PS)](https://serpellps.vic.edu.au/wp-content/uploads/2022/03/Curriculum-Framework-Outline.pdf) [citation:Newsletter listing swimming program & events (Serpell newsletter)](https://serpellps.vic.edu.au/wp-content/uploads/2026/06/2-June.pdf) [citation:FUSE Cup school esports reference noting Serpell participation](https://www.thefusecup.com.au/)
+
+5) Suburb vibe and groceries (2 sentences)  
+Templestowe feels like an established, leafy family suburb with riverside parklands, local schools and neighbourhood shopping strips serving families. Main local grocery options include IGA Templestowe and The Pines shopping centre (Coles), and small specialty/ethnic shops such as Templestowe Asian Groceries nearby. [citation:Templestowe suburb profile (Manningham Council)](https://www.manningham.vic.gov.au/sites/default/files/2024-06/templestowe_suburb_profile.pdf) [citation:IGA Templestowe store listing](https://www.iga.com.au/stores/iga-templestowe/) [citation:Templestowe Asian Groceries listing](https://australia.chamberofcommerce.com/business-directory/victoria/templestowe/asian-grocery-store/3755839-templestowe-asian-groceries)
+
+6) Weeknight dining — 2–3 family takeaways / casual options  
+Local family‑friendly takeaways include pizza outlets on James Street (Express Pizza / Metropolis Pizza / Boof Pizza), a local fish & chips (Shark Tank Seafood), and Chinese/takeaway options like Yummy Duck. [citation:Express Pizza (Templestowe)](https://www.expresspizza.com.au/) [citation:Boof / Metropolis Pizza listings (Templestowe)](https://boofpizza.com.au/templestowe/) [citation:Shark Tank Seafood (Fish & Chips)](https://www.sharktankseafood.com.au/) [citation:Yummy Duck Chinese (Templestowe)](https://www.agfg.com.au/restaurant/yummy-duck-chinese-restaurant-117373)
+
+7) Tuition and enrichment near Serpell Primary  
+Local tutoring/enrichment options include Kumon (Lower Templestowe centre) and small local providers such as Templestowe Tutoring (one‑to‑one tuition services). [citation:Kumon Lower Templestowe centre listing (Kumon Australia)](https://www.kumonsearch.com.au/Centre/KUMON-LOWER-TEMPLESTOWE-VIC) [citation:Templestowe Tutoring local service site](https://templestowe-tutoring.com.au/)
+
+8) Commute (train/bus) to Melbourne CBD (Flinders Street) — substitute mode if needed  
+Templestowe has no suburban train station; the realistic public‑transport option is bus. Typical direct bus journeys from Templestowe to Flinders Street are roughly 30–50 minutes depending on route and traffic (estimates from journey planners and travel‑summary sites). If using nearby rail, commuters often catch buses into Heidelberg or other stations then train to the CBD. [citation:Rome2rio bus travel time estimates Templestowe → Flinders Street](https://www.rome2rio.com/Bus/Templestowe/Flinders-Street-Station) [citation:Moovit public transport directions showing buses and nearest rail options (e.g., Heidelberg)](https://moovitapp.com/index/en-gb/dir/Flinders-city_35210-city_34969-2803) [citation:RailMaps / local info confirming Templestowe is served by buses (bus terminal) rather than a metro train station](https://railmaps.com.au/stationdetails.php?StationSelect=13898)
+
+If you want, I can:
+- Pull the ABS 2021 country‑of‑birth topic table (exact % for China in 2021) for the suburb (one focused page load), or  
+- Produce the same briefing limited to Serpell Primary's school catchment (postcode/school zone) rather than the whole suburb. Which would you prefer?
