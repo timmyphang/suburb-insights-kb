@@ -1,0 +1,30 @@
+1) **Suburb socio-economic profile:** Albert Park is an affluent inner-city suburb. According to the 2021 Census, the median weekly household income was $2,533, and the median age was 46 [citation:CompoundInvest](https://www.compoundinvest.com.au/insights/suburb-profiles/albert-park/); [citation:ABS QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL20018). The suburb has a higher proportion of female residents (52.6%) and a low average of 0.6 children per household, indicating many couples without children or older families [citation:ABS QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL20018).
+
+2) **Most common foreign country of birth:** The suburb is overwhelmingly Australian-born. According to the 2021 Census, 72.2% of residents in Albert Park (Vic.) were born in Australia [citation:ABS QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL20018). The most common overseas country of birth was England at 3.8%, followed by New Zealand at 1.7% [citation:ABS QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL20018).
+
+3) **Working-parent support:** Outside School Hours Care (OSHC) at South Melbourne Park Primary School is provided by TheirCare [citation:TheirCare](https://www.echildcare.com.au/albert-park-sports/). Service hours are not specified in available sources, but typical OSHC hours for nearby schools are 7:00am–9:00am before school and 3:30pm–6:00pm after school [citation:communityosh](https://www.commosh.edu.au/albertpps). For specific hours, families should contact TheirCare directly.
+
+4) **School culture:** South Melbourne Park Primary School offers a range of named extracurriculars including choir, instrumental music, and young engineers-robotics [citation:2022 Annual Report](https://www.southmelbparkps.vic.edu.au/wp-content/uploads/2023/05/Annual-Report-2022.pdf). Additional activities include taekwondo and a Breakfast Club run by parent volunteers [citation:School Website](https://www.southmelbparkps.vic.edu.au/). The school also runs lunchtime clubs and ‘Passions’ sessions on Fridays [citation:School Website](https://www.southmelbparkps.vic.edu.au/).
+
+5) **Suburb vibe and groceries:** Albert Park has a vibrant café culture along Victoria Avenue and Bridport Street, with boutique shops and green spaces like Albert Park Lake [citation:CompoundInvest](https://www.compoundinvest.com.au/insights/suburb-profiles/albert-park/). For groceries, there is a Woolworths Metro at 189 Victoria Avenue, Albert Park, and Golden Dragon Asian Grocery for Asian specialty items [citation:Woolworths](https://www.woolworths.com.au/shop/storelocator/vic-albert-park-3607); [citation:Word of Mouth](https://www.wordofmouth.com.au/vic/albert-park/groceries). A Coles supermarket is also available at 3 Bank Street, South Melbourne, nearby [citation:Local Business Guide](https://www.localbusinessguide.com.au/victoria/albert-park/shopping/supermarkets-and-grocery-stores/).
+
+6) **Weeknight dining:** For family-friendly takeaway, Andrew’s Hamburgers Albert Park offers casual burgers, while Charm Thai Restaurant provides Thai cuisine for takeaway [citation:AGFG](https://www.agfg.com.au/restaurants/melbourne/albert-park/takeaway-category). Moonfishh on Bridport Street serves Japanese sushi and is popular for takeaway [citation:AGFG](https://www.agfg.com.au/restaurants/melbourne/albert-park/takeaway-category).
+
+7) **Tuition and enrichment:** Apex Tuition Australia provides in-home and online tutoring for primary and secondary students in Albert Park, covering VCE and IB subjects [citation:Apex Tuition](https://www.apextuitionaustralia.com/locations/albert-park). Tutero offers personalised online 1-on-1 tutoring aligned to the Victorian curriculum [citation:Tutero](https://www.tutero.com/au/online-tutoring/locations/albert-park-vic).
+
+8) **Commute:** Albert Park does not have its own train station. The closest train station is South Melbourne Station on the St Kilda tram line (Route 96), not a heavy rail line; travel time to Flinders Street via tram is approximately 10–15 minutes [citation:Travel Victoria](https://www.travelvictoria.com.au/albertpark/transport/). Alternatively, the 236 bus runs from Albert Park to the city in about 15–20 minutes.
+
+**Sources:**
+- [CompoundInvest](https://www.compoundinvest.com.au/insights/suburb-profiles/albert-park/) - Suburb profile and median household income.
+- [ABS QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL20018) - 2021 Census data for Albert Park (Vic.).
+- [TheirCare](https://www.echildcare.com.au/albert-park-sports/) - OSHC provider for South Melbourne Park PS.
+- [communityosh](https://www.commosh.edu.au/albertpps) - OSHC details for Albert Park Primary School.
+- [School Website](https://www.southmelbparkps.vic.edu.au/) - School mission, Breakfast Club, and extracurriculars.
+- [2022 Annual Report](https://www.southmelbparkps.vic.edu.au/wp-content/uploads/2023/05/Annual-Report-2022.pdf) - List of extracurricular programs.
+- [Woolworths](https://www.woolworths.com.au/shop/storelocator/vic-albert-park-3607) - Woolworths Metro store in Albert Park.
+- [Word of Mouth](https://www.wordofmouth.com.au/vic/albert-park/groceries) - Golden Dragon Asian Grocery listing.
+- [Local Business Guide](https://www.localbusinessguide.com.au/victoria/albert-park/shopping/supermarkets-and-grocery-stores/) - Supermarket listings in Albert Park.
+- [AGFG](https://www.agfg.com.au/restaurants/melbourne/albert-park/takeaway-category) - Takeaway restaurants in Albert Park.
+- [Apex Tuition](https://www.apextuitionaustralia.com/locations/albert-park) - Tutoring services in Albert Park.
+- [Tutero](https://www.tutero.com/au/online-tutoring/locations/albert-park-vic) - Online tutoring for Albert Park.
+- [Travel Victoria](https://www.travelvictoria.com.au/albertpark/transport/) - Public transport options in Albert Park.
