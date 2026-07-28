@@ -1,0 +1,39 @@
+### Suburb socio-economic profile
+Albanvale is a working-class suburb with a median weekly household income of $1,279 (2021 Census), below the Victorian median of $1,759 [citation:2021 Albanvale QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL20017). The median age is 37, and 18.9% of the population is aged 0–14 years, indicating a family-oriented demographic [citation:2021 Albanvale QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL20017). The suburb has a high proportion of blue-collar and lower-income households, with 71.8% of residents having both parents born overseas [citation:2016 Albanvale QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2016/SSC20016).
+
+### Most common foreign country of birth
+The most common overseas country of birth in Albanvale is Vietnam, at 12.8% of the population (2016 Census) [citation:2016 Albanvale QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2016/SSC20016). Only 14.1% of residents had both parents born in Australia, highlighting the suburb’s strong multicultural character [citation:2016 Albanvale QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2016/SSC20016). The next most common birthplaces are the Philippines (3.3%), Malta (2.9%), India (2.8%), and New Zealand (1.9%) [citation:2016 Albanvale QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2016/SSC20016).
+
+### Working-parent support
+Albanvale Primary School offers Out of School Hours Care (OSHC) delivered by Our Patch, operating from the school’s Multi-Purpose Room accessed via Dover Street [citation:OSHC | Albanvale PS](https://www.albanvaleps.vic.edu.au/coming-soon-03). Before-school care runs 7:00–8:45 am, and after-school care runs 3:15–6:00 pm on school days, with holiday care also available from 7:00 am to 6:00 pm [citation:OSHC | Albanvale PS](https://www.albanvaleps.vic.edu.au/coming-soon-03). The service is approved for up to 30 children and is rated as Working Towards National Quality Standard overall [citation:Our Patch OSHC at Albanvale Primary School](https://www.acecqa.gov.au/resources/national-registers/services/our-patch-oshc-albanvale-primary-school).
+
+### School culture
+Albanvale Primary School runs a Young Leaders program to enhance students' personal and public leadership capabilities [citation:About | Albanvale PS](https://www.albanvaleps.vic.edu.au/about). The school also has a Junior School Improvement Team (JSIT), where elected student leaders work with teachers to improve teaching and learning [citation:About | Albanvale PS](https://www.albanvaleps.vic.edu.au/about). Enrichment classes are offered in Physical Education, Italian, The Arts, and STEM, alongside an extensive school camp and excursion program [citation:About | Albanvale PS](https://www.albanvaleps.vic.edu.au/about).
+
+### Suburb vibe and groceries
+Albanvale is a quiet, family-oriented suburb with a mix of convenience stores and nearby shopping options. For specialty groceries, KFL Supermarket (The Asian Food Specialist) is located at 330 Main Road East, St Albans, offering Asian groceries including Vietnamese and Chinese products [citation:St Albans KFL](https://www.kflsupermarkets.com.au/st-albans-vic). Indian groceries can be ordered online via India at Home, which delivers to Albanvale [citation:India At Home](https://www.indiaathome.com.au/pages/useful-links). No major full-service supermarket is reported specifically within Albanvale itself in available sources.
+
+### Weeknight dining
+Family-friendly dining options near Albanvale include Dosa Hut Caroline Springs, an Indian restaurant offering takeaway and dine-in at Shop 21, 29-25 Lake Street, Caroline Springs (approx. 5–10 min drive) [citation:Indian Restaurant Albanvale](https://www.dosahut.net.au/indian-restaurant-albanvale/). Laajwab Indian Restaurant at 330 Main Road East, St Albans, serves Indian cuisine and is open for takeaway Mon–Sun from 3:00 pm [citation:Laajwab Indian Restaurant](https://www.agfg.com.au/restaurant/laajwab-indian-restaurant-52519). Additional nearby options include Central West Charcoal Chicken in Braybrook and Sharks Tail Fish and Chippery in Sunshine West, both available for delivery [citation:Takeaway & Delivery in Albanvale](https://www.tuckerfox.com.au/restaurant-takeaway-delivery/albanvale-vic-3021).
+
+### Tuition and enrichment
+Albanvale families can access Success Tutoring, which provides primary and high school tutoring in the Albanvale area [citation:Success Tutoring Albanvale](https://successtutoring.com.au/tutoring-albanvale). NQT Education operates a tutoring centre in Burnside serving students from Albanvale, offering Mathematics and English fundamentals from Prep to Year 12, plus VCE subject tuition [citation:NQT Education Burnside](https://www.nqt.com.au/centres/melbourne-tutors). In-home tutoring is also available through Tutor2you, which covers Albanvale with certified tutors for primary and secondary subjects [citation:Tutor2you Albanvale](https://tutor2you.com.au/our-tutors/suburb-3021-Albanvale/).
+
+### Commute
+Albanvale does not have its own train station; the nearest station is St Albans on the Sunbury line. The train from St Albans Station to Flinders Street Station takes an average of 31 minutes (fastest 27 minutes) and runs at least five times per hour [citation:Train St Albans to Flinders Street](https://www.rome2rio.com/Train/St-Albans-Station/Flinders-Street-Station). Bus routes (e.g., Route 420 from Sunshine Station) also serve Albanvale, but the train from St Albans is the most direct rail option to the CBD.
+
+### Sources
+- [2021 Albanvale QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL20017) - 2021 Census data for Albanvale including income, age, and family statistics
+- [2016 Albanvale QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2016/SSC20016) - 2016 Census data for Albanvale including country of birth and household characteristics
+- [OSHC | Albanvale PS](https://www.albanvaleps.vic.edu.au/coming-soon-03) - Details of Out of School Hours Care at Albanvale Primary School
+- [Our Patch OSHC at Albanvale Primary School](https://www.acecqa.gov.au/resources/national-registers/services/our-patch-oshc-albanvale-primary-school) - ACECQA registration and opening hours for OSHC provider
+- [About | Albanvale PS](https://www.albanvaleps.vic.edu.au/about) - School profile including programs, leadership, and enrichment activities
+- [St Albans KFL](https://www.kflsupermarkets.com.au/st-albans-vic) - Asian specialty supermarket location and hours near Albanvale
+- [India At Home](https://www.indiaathome.com.au/pages/useful-links) - Online Indian grocery delivery to Albanvale
+- [Indian Restaurant Albanvale](https://www.dosahut.net.au/indian-restaurant-albanvale/) - Dosa Hut Caroline Springs Indian dining near Albanvale
+- [Laajwab Indian Restaurant](https://www.agfg.com.au/restaurant/laajwab-indian-restaurant-52519) - St Albans Indian restaurant with takeaway
+- [Takeaway & Delivery in Albanvale](https://www.tuckerfox.com.au/restaurant-takeaway-delivery/albanvale-vic-3021) - List of takeaway and delivery restaurants near Albanvale
+- [Success Tutoring Albanvale](https://successtutoring.com.au/tutoring-albanvale) - Tutoring services in Albanvale
+- [NQT Education Burnside](https://www.nqt.com.au/centres/melbourne-tutors) - Tutoring centre serving Albanvale families
+- [Tutor2you Albanvale](https://tutor2you.com.au/our-tutors/suburb-3021-Albanvale/) - In-home tutoring in Albanvale
+- [Train St Albans to Flinders Street](https://www.rome2rio.com/Train/St-Albans-Station/Flinders-Street-Station) - Train travel time from St Albans to Flinders Street Station
