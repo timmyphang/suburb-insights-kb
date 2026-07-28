@@ -1,0 +1,28 @@
+1) **Suburb socio-economic profile:** Coburg is a middle-income, diverse suburb with a mix of white-collar and blue-collar workers. The median weekly household income is $2,186, and the median age is 37, indicating a relatively young, family-oriented population [citation:2021 Coburg - West, Census All persons QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2021/206011498). The suburb has a population of around 28,084, with a blend of families and singles [citation:About the profile areas | Coburg](https://profile.id.com.au/merri-bek/about?WebID=130).
+
+2) **Most common foreign country of birth:** The most common overseas country of birth for Coburg residents is not specified in the available search snippets. According to the 2021 Census, the Australian-born percentage for the broader Coburg area is also not provided in the excerpts, so this data point cannot be confirmed from the given sources.
+
+3) **Working-parent support:** Outside School Hours Care (OSHC) at Merri-bek Primary School is provided by TheirCare, as listed on KindiCare [citation:Enquire Merri-bek PS TheirCare | KindiCare](https://kindicare.com/childcare/centres/Australia/VIC/3058/coburg/moreland-ps-oshc-extend). Specific opening and closing hours for before- and after-school care are not detailed in the available sources.
+
+4) **School culture:** Merri-bek Primary School offers a range of named extracurriculars including a **Breakfast Club**, **Fencing** program, and **Coding** clubs [citation:Principal’s Welcome – Merri-bek Primary School](http://www.merri-bekps.vic.edu.au/?page_id=34). Additional activities such as sport and music programs are also available, fostering a well-rounded experience.
+
+5) **Suburb vibe and groceries:** Coburg has a vibrant, family-friendly atmosphere with diverse grocery options. Notable specialty supermarkets include **KFL Supermarket** (Asian grocery) at 376 Sydney Road and **Namaste Indian Groceries** in Central Coburg [citation:Coburg KFL | The Asian Food Specialist](https://www.kflsupermarkets.com.au/coburg-vic) [citation:Namaste Indian Groceries - Central Coburg](https://centralcoburg.com.au/trader/namaste-indian-groceries/).
+
+6) **Weeknight dining:** Casual, family-friendly dining options in Coburg include **Pizza on Bell** (242 Bell Street, serving pizza and Australian fare) and **Coburg Cafe and Restaurant** (201 Moreland Road, offering cafe-style meals) [citation:Coburg 3058 Food Delivery and Takeaway VIC](https://www.ozfoodhunter.com.au/takeaway/coburg-3058). Both are suitable for quick takeaway or relaxed dine-in.
+
+7) **Tuition and enrichment:** Specific tutoring centres in Coburg include **NumberWorks'nWords Coburg** at 11 Munro Street, which offers English and maths tutoring for children aged 5–16 [citation:Tutoring Coburg | NumberWorks'nWords](https://numberworksnwords.com/au/our-locations/australia/coburg). Another option is **Alchemy Tuition**, which provides in-home and online tutoring across Coburg [citation:Tutoring Coburg // The Best Tutors in Coburg // Alchemy Tuition](https://alchemytuition.com.au/melbourne-tutoring-coburg/).
+
+8) **Commute:** Coburg is served by **Coburg railway station** on the **Upfield line**. The train journey to Flinders Street Station in the Melbourne CBD takes approximately **25 minutes** [citation:Coburg (Station) to Flinders Street Station - 4 ways to travel](https://www.rome2rio.com/s/Coburg-Station-VIC-Australia/Flinders-Street-Station) [citation:Coburg railway station - Wikipedia](https://en.wikipedia.org/wiki/Coburg_railway_station). Trains run every 30 minutes, providing a reliable commute for working parents.
+
+**Sources**
+- [About the profile areas | Coburg](https://profile.id.com.au/merri-bek/about?WebID=130) - Population and demographic overview of Coburg.
+- [2021 Coburg - West, Census All persons QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2021/206011498) - Median income, age, and family data for Coburg West.
+- [Enquire Merri-bek PS TheirCare | KindiCare](https://kindicare.com/childcare/centres/Australia/VIC/3058/coburg/moreland-ps-oshc-extend) - OSHC provider listing for Merri-bek Primary School.
+- [Principal’s Welcome – Merri-bek Primary School](http://www.merri-bekps.vic.edu.au/?page_id=34) - List of extracurricular activities including Breakfast Club, Fencing, Coding.
+- [Coburg KFL | The Asian Food Specialist](https://www.kflsupermarkets.com.au/coburg-vic) - Asian grocery store details in Coburg.
+- [Namaste Indian Groceries - Central Coburg](https://centralcoburg.com.au/trader/namaste-indian-groceries/) - Indian grocery store in Coburg.
+- [Coburg 3058 Food Delivery and Takeaway VIC](https://www.ozfoodhunter.com.au/takeaway/coburg-3058) - Restaurant listings for Coburg including Pizza on Bell and Coburg Cafe and Restaurant.
+- [Tutoring Coburg | NumberWorks'nWords](https://numberworksnwords.com/au/our-locations/australia/coburg) - Tutoring centre details in Coburg.
+- [Tutoring Coburg // The Best Tutors in Coburg // Alchemy Tuition](https://alchemytuition.com.au/melbourne-tutoring-coburg/) - In-home and online tutoring provider in Coburg.
+- [Coburg (Station) to Flinders Street Station - 4 ways to travel](https://www.rome2rio.com/s/Coburg-Station-VIC-Australia/Flinders-Street-Station) - Train travel time from Coburg to Flinders Street Station.
+- [Coburg railway station - Wikipedia](https://en.wikipedia.org/wiki/Coburg_railway_station) - Station details and train line information.
