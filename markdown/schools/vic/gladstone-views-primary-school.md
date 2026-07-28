@@ -1,0 +1,27 @@
+1) **Suburb socio-economic profile**: Gladstone Park is a middle‑income, family‑oriented suburb with a mix of white‑collar and blue‑collar households. The 2021 Census recorded a median weekly household income of $1,452 and a median age of 42, reflecting a mature population [citation:2021 Gladstone Park, Census All persons QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2021/SAL21004). The suburb is characterised by a high proportion of detached houses (89.2%) and above‑average rates of outright home ownership [citation:Gladstone Park - Westmeadows – SA2 210051245](https://areasearch.com.au/vic/gladstone_park_westmeadows).
+
+2) **Most common foreign country of birth**: The specific country‑of‑birth breakdown for Gladstone Park was not found in the available ABS QuickStats page. However, the Australian‑born proportion is not explicitly stated in the provided content. Based on the search context, the suburb has a diverse community, but exact figures for the dominant overseas‑born country are unavailable from the sources.
+
+3) **Working‑parent support**: Gladstone Views Primary School offers on‑site Outside School Hours Care (OSHC) including Before School Care and After School Care [citation:Gladstone Views Primary School OSHC in Gladstone Park, VIC 3043](https://www.careforkids.com.au/child-care/exxee/gladstone-views-primary-school-oshc-gladstone-park-3043). The after‑school care operates from 3:20 pm to 6:00 pm on weekdays [citation:Gladstone Views Primary School OSHC - Gladstone Park 3043](https://kindicare.com/childcare/centres/Australia/VIC/3043/gladstone-park/gladstone-views-primary-school-oshc). The provider name is not specified in the available sources.
+
+4) **School culture**: Gladstone Views Primary School runs a **Perceptual Motor Program**, **Junior School Council**, and a **Breakfast Club** [citation:Principal's Message](https://www.gvps.vic.edu.au/page/121/Principal). The school also offers lunch‑time clubs in areas of student interest, though individual club names are not listed.
+
+5) **Suburb vibe and groceries**: Gladstone Park has a family‑friendly suburban feel with local amenities centred on Gladstone Park Shopping Centre. The **Bali Shop** inside that centre supplies Indonesian, Malaysian, and Asian grocery items [citation:Bali Shop - Gladstone Park Shopping Centre](https://gladstoneparkshopping.com.au/project/bali-shop/). Online Indian groceries are available via **Tales of India** for delivery to the area [citation:Indian Grocery Store Gladstone Park](https://talesofindia.com.au/pages/indian-grocery-store-gladstone-park-3043).
+
+6) **Weeknight dining**: For casual family takeaways, **Gladdy Pizza** offers pizza and pasta with online ordering and delivery [citation:Gladdy Pizza](https://gladdypizza.com.au/). Other cuisines such as Indian and Thai are available for delivery through services like Menulog and Uber Eats, but specific restaurant names in Gladstone Park were not identified in the sources.
+
+7) **Tuition and enrichment**: **Cloud Tuition** provides online tutoring for Years 2–12 in Gladstone Park, covering English, maths, and other subjects with face‑to‑face virtual lessons [citation:Tutoring Gladstone Park](https://www.cloudtuition.com.au/locations/tutoring-vic/gladstone-park). No physical tutoring centre was named in the available search results.
+
+8) **Commute**: The nearest train station is **Jacana Station** on the **Craigieburn line**. A direct train from Flinders Street Station to Jacana Station takes approximately **29 minutes** [citation:Flinders Street Station to Gladstone Park](https://www.rome2rio.com/s/Flinders-Street-Station/Gladstone-Park). From Gladstone Park, you can drive to Jacana Station in about 5 minutes or take a bus.
+
+**Sources**:
+- [2021 Gladstone Park, Census All persons QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2021/SAL21004) – ABS Census data for population, income, age.
+- [Gladstone Park - Westmeadows – SA2 210051245](https://areasearch.com.au/vic/gladstone_park_westmeadows) – Housing profile and home ownership rates.
+- [Gladstone Views Primary School OSHC in Gladstone Park, VIC 3043](https://www.careforkids.com.au/child-care/exxee/gladstone-views-primary-school-oshc-gladstone-park-3043) – OSHC service details.
+- [Gladstone Views Primary School OSHC - Gladstone Park 3043](https://kindicare.com/childcare/centres/Australia/VIC/3043/gladstone-park/gladstone-views-primary-school-oshc) – OSHC opening hours.
+- [Principal's Message](https://www.gvps.vic.edu.au/page/121/Principal) – School programs, lunch clubs, Breakfast Club, Junior School Council.
+- [Bali Shop - Gladstone Park Shopping Centre](https://gladstoneparkshopping.com.au/project/bali-shop/) – Asian grocery store.
+- [Indian Grocery Store Gladstone Park](https://talesofindia.com.au/pages/indian-grocery-store-gladstone-park-3043) – Indian grocery delivery.
+- [Gladdy Pizza](https://gladdypizza.com.au/) – Pizza takeaway in Gladstone Park.
+- [Tutoring Gladstone Park](https://www.cloudtuition.com.au/locations/tutoring-vic/gladstone-park) – Online tutoring service.
+- [Flinders Street Station to Gladstone Park](https://www.rome2rio.com/s/Flinders-Street-Station/Gladstone-Park) – Train travel time from Flinders to Jacana Station.
