@@ -1,0 +1,28 @@
+1) **Suburb socio-economic profile:** Warranwood is an affluent, family-oriented suburb. The median weekly household income is $2,852, well above the national median of $1,746, and the median age is 41 [citation:2021 Warranwood, Census All persons QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL22704). Over half the homes are owned with a mortgage by couples with children, and the area is zoned predominantly General Residential [citation:WARRANWOOD suburb profile](https://landchecker.com.au/suburb/warranwood-vic-3134/).
+
+2) **Most common foreign country of birth:** Specific overseas-born country shares are not detailed in the provided sources. In Warranwood, 57.9% of people had both parents born in Australia, and 25.4% had both parents born overseas [citation:2016 Warranwood, Census All persons QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2016/SSC22691). The suburb is overwhelmingly Australian-born, but the single most common foreign country of birth is not clearly listed in the available data.
+
+3) **Working-parent support:** Warranwood Primary School partners with TheirCare to provide Outside School Hours Care [citation:Outside School Hours Care](https://www.warranwood.vic.edu.au/page/117/Outside-School-Hours-Care). Before School Care runs 7:00–9:00 am and After School Care runs 3:30–6:30 pm, with holiday and pupil-free day programs available 7:00 am–6:30 pm.
+
+4) **School culture:** Named extracurricular activities at Warranwood Primary School are not listed in the provided research context. Specific programs such as sports teams, instrumental music, or a kitchen garden program are not available from the sourced material. Families should contact the school directly for a current list of extracurricular offerings.
+
+5) **Suburb vibe and groceries:** Warranwood is a leafy, quiet suburb with parks and reserves on many corners, popular with families for its safe, green environment [citation:Warranwood, VIC 3134 - Suburb Profile & Local Reviews](https://www.homely.com.au/suburb-profile/warranwood-vic-3134). The nearest major shopping is at Eastland Shopping Centre in Ringwood, which includes a Crown Asian Supermarket stocking Chinese, Japanese, Korean, and other Asian groceries [citation:Crown Asian Supermarket - Eastland](https://eastland.qicre.com/stores/retail-stores/crown-asian-grocery). Standard supermarkets such as Woolworths and Coles are also available at Eastland.
+
+6) **Weeknight dining:** Family-friendly takeaway options in or near Warranwood include Bites & Sip (Croydon) for burgers and fish & chips, Thai Ute Restaurant (Ringwood East) for Thai cuisine, and Fantastic Kebab and Pizza (Mooroolbark) for kebabs and pizzas [citation:Takeaway & Delivery in Warranwood, VIC 3134](https://www.tuckerfox.com.au/restaurant-takeaway-delivery/warranwood-vic-3134). For dine-in, Casalinga Restaurant in Croydon offers affordable Italian dishes in a family-friendly setting [citation:THE BEST 10 Restaurants in Warranwood, Victoria](https://www.localbusinessguide.com.au/victoria/warranwood/food-and-dining/restaurants/).
+
+7) **Tuition and enrichment:** Success Tutoring offers in-person and online tutoring for primary and high school students in the Warranwood area, with customised programs aligned to the Victorian curriculum [citation:Warranwood – Success Tutoring](https://successtutoring.com.au/tutoring-Warranwood). Drummer.ly, located in nearby Ringwood North, provides music tuition including drum lessons [citation:30 Best Local Tutoring in Warranwood, VIC 3134](https://www.whereis.com/warranwood-vic-3134/tutoring).
+
+8) **Commute:** Warranwood has no train station; the closest station is Ringwood on the Lilydale/Belgrave line [citation:Warranwood to Flinders Street Station](https://www.rome2rio.com/s/Warranwood/Flinders-Street-Station). The train journey from Ringwood to Flinders Street Station typically takes about 38 minutes. Alternatively, the 906 bus from Warranwood to the city takes approximately 1 hour 31 minutes.
+
+**Sources:**
+- [2021 Warranwood, Census All persons QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL22704) – Demographic and income data for Warranwood.
+- [WARRANWOOD suburb profile](https://landchecker.com.au/suburb/warranwood-vic-3134/) – Land use, age, and household composition.
+- [2016 Warranwood, Census All persons QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2016/SSC22691) – Birthplace data (2016 Census).
+- [Outside School Hours Care](https://www.warranwood.vic.edu.au/page/117/Outside-School-Hours-Care) – School OSHC provider and hours.
+- [Warranwood, VIC 3134 - Suburb Profile & Local Reviews](https://www.homely.com.au/suburb-profile/warranwood-vic-3134) – Suburb vibe and resident reviews.
+- [Crown Asian Supermarket - Eastland](https://eastland.qicre.com/stores/retail-stores/crown-asian-grocery) – Asian grocery at Eastland, Ringwood.
+- [Takeaway & Delivery in Warranwood, VIC 3134](https://www.tuckerfox.com.au/restaurant-takeaway-delivery/warranwood-vic-3134) – Takeaway restaurant options near Warranwood.
+- [THE BEST 10 Restaurants in Warranwood, Victoria](https://www.localbusinessguide.com.au/victoria/warranwood/food-and-dining/restaurants/) – Local dining listings.
+- [Warranwood – Success Tutoring](https://successtutoring.com.au/tutoring-Warranwood) – Tutoring service in Warranwood.
+- [30 Best Local Tutoring in Warranwood, VIC 3134](https://www.whereis.com/warranwood-vic-3134/tutoring) – Local tutoring providers including Drummer.ly.
+- [Warranwood to Flinders Street Station](https://www.rome2rio.com/s/Warranwood/Flinders-Street-Station) – Transport options and travel times to the CBD.
