@@ -1,0 +1,27 @@
+1) **Suburb socio-economic profile:** Flemington has a median weekly household income of $1,525 and a median age of 34, according to the 2021 Census [citation:2021 Flemington, Census All persons QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL20929). With 1,590 families and an average of 0.5 children per household, the suburb is a mix of singles and families, leaning towards a middle-income, diverse demographic. Specific white-collar versus blue-collar breakdown is not available in the provided sources.
+
+2) **Most common foreign country of birth:** The most common overseas country of birth for Flemington residents is not specified in the available QuickStats or community profile data [citation:2021 Flemington, Census All persons QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL20929). The Australian-born percentage is also not listed in the snippets provided; further census data would be needed to determine this figure.
+
+3) **Working-parent support:** Flemington Primary School’s Outside School Hours Care is provided by **Big Childcare**, operating before school from **6:45am to 8:45am** and after school from **3:30pm to 6:00pm** [citation:Big Childcare](https://www.flemingtonps.vic.edu.au/page/171/Big-Childcare). Vacation care is also available during school holidays, though specific holiday hours are not detailed in the provided source.
+
+4) **School culture:** Flemington Primary School offers a range of named extracurriculars, including an **Instrumental Music Program** with tuition in piano, violin, and drums, as well as ensemble performance opportunities [citation:Instrumental Music Program](https://www.flemingtonps.vic.edu.au/page/148/Instrumental-Music-Program). Other activities include **Chess Club** and the **Solar Boat** program, which are part of the school’s extension arts and sustainability initiatives [citation:Welcome to FPS](https://www.flemingtonps.vic.edu.au/page/124/Welcome-to-FPS).
+
+5) **Suburb vibe and groceries:** Flemington has a multicultural vibe with easy access to specialty grocers such as **KFL Supermarket** (321 Racecourse Road), a two-floor Asian food specialist stocking imported dry goods, fresh produce, and spices [citation:KFL Supermarket](https://www.kflsupermarkets.com.au/flemington-vic). General family amenities are available along Racecourse Road and nearby, though specific parks or libraries are not listed in the provided sources.
+
+6) **Weeknight dining:** Families can enjoy casual takeaway or dining at **Pacino's Italian Family Restaurant** (Italian cuisine), **Roundabout Pizza and Cafe** (pizza), and **La Tortilleria** (Mexican) [citation:Takeaway in Flemington](https://www.ubereats.com/au/neighborhood/flemington-melbourne-vic) [citation:Cheap Eats in Flemington](https://melbz.com.au/flemington/cheap-eats/). These venues are all located within or near Flemington and are rated as family-friendly affordable options.
+
+7) **Tuition and enrichment:** In Flemington, **NextStepAcademy** offers one-on-one in-home or online tutoring for primary through senior students, with no contracts [citation:Tutoring Flemington - NextStepAcademy](https://nextstepacademy.com.au/tutoring-flemington/). **Success Tutoring Flemington** provides personalised Year 2–12 math tutoring mapped to the Australian Curriculum, along with holiday enrichment programs [citation:Year 12 Math Tutoring Flemington – Success Tutoring](https://successtutoring.com.au/blog/service/year-12-math-tutoring-flemington).
+
+8) **Commute:** Flemington is served by **Flemington Bridge Station** on the **Upfield line**, with trains running every 30 minutes to the CBD [citation:Flemington Bridge to Flinders Street Station](https://www.rome2rio.com/s/Flemington-Bridge/Flinders-Street-Station). The estimated travel time to Flinders Street Station is approximately 6–8 minutes, based on typical Metro services (exact time not specified in sources).
+
+## Sources
+- [2021 Flemington, Census All persons QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL20929) – Demographic data including income, age, and families for Flemington suburb.
+- [Big Childcare](https://www.flemingtonps.vic.edu.au/page/171/Big-Childcare) – OSHC provider and hours at Flemington Primary School.
+- [Instrumental Music Program](https://www.flemingtonps.vic.edu.au/page/148/Instrumental-Music-Program) – Details of the school’s instrumental music lessons and ensembles.
+- [Welcome to FPS](https://www.flemingtonps.vic.edu.au/page/124/Welcome-to-FPS) – Overview of extracurriculars including Chess Club and Solar Boat.
+- [KFL Supermarket](https://www.kflsupermarkets.com.au/flemington-vic) – Asian grocery store in Flemington.
+- [Takeaway in Flemington](https://www.ubereats.com/au/neighborhood/flemington-melbourne-vic) – List of takeaway and dining options in Flemington (Uber Eats).
+- [Cheap Eats in Flemington](https://melbz.com.au/flemington/cheap-eats/) – Budget dining guide mentioning La Tortilleria.
+- [Tutoring Flemington - NextStepAcademy](https://nextstepacademy.com.au/tutoring-flemington/) – One-on-one tutoring service in Flemington.
+- [Year 12 Math Tutoring Flemington – Success Tutoring](https://successtutoring.com.au/blog/service/year-12-math-tutoring-flemington/) – Maths tutoring centre in Flemington.
+- [Flemington Bridge to Flinders Street Station](https://www.rome2rio.com/s/Flemington-Bridge/Flinders-Street-Station) – Train route and frequency between Flemington Bridge and CBD.
