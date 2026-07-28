@@ -1,0 +1,37 @@
+1) **Suburb socio-economic profile**
+Moonee Ponds is a relatively affluent suburb with a mix of families, professionals, and retirees. The median weekly household income is $2,111, and the median age is 38 [citation:2021 Moonee Ponds, Census All persons QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL21742). Over 30% of individuals earn between $1,500 and $2,999 per week, and 33.1% earn above $3,000, indicating a strong white-collar and professional base [citation:AreaSearch Moonee Ponds Area Profile](https://areasearch.com.au/vic/moonee_ponds). The population is 16,224, with families making up 4,165 households and an average of 0.6 children per household.
+
+2) **Most common foreign country of birth**
+The most common overseas country of birth is not specified in the available data. In the 2016 Census, 43.5% of Moonee Ponds residents had both parents born in Australia, and 38.6% had both parents born overseas [citation:2016 Moonee Ponds, Census All persons QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2016/SSC21730). The 2021 Census QuickStats do not provide a breakdown of the top country of birth in the snippets provided.
+
+3) **Working-parent support**
+Moonee Ponds Primary School partners with TeamKids to provide Outside School Hours Care (OSHC) [citation:Out of School Hours Care | Moonee Ponds Primary School](https://www.mpp.vic.edu.au/resources-and-facilities/out-of-school-ours-care/). Before School Care runs from 7:00am to 8:45am, and After School Care runs from 3:20pm to 6:15pm, five days per week during term time. Holiday programs and student-free day care are also available from 7:00am to 6:15pm.
+
+4) **School culture**
+The school offers the Moonee Vale Instrumental Music Program (MVIMP) for Years 3–6, with instruments including violin, flute, trumpet, and cello, and an annual concert [citation:Music | Moonee Ponds Primary School](https://www.mpp.vic.edu.au/curriculum/moonee-vale-instrumental-music-program/). Students can join the Chess Club, run by Chess Education, which meets weekly at lunchtimes [citation:Extra-Curricular | Moonee Ponds Primary School](https://www.mpp.vic.edu.au/curriculum/extra-curricular/). The school also has a Green Team environmental club that promotes sustainability and maintains herb and vegetable gardens.
+
+5) **Suburb vibe and groceries**
+Moonee Ponds has a vibrant village feel with a range of family-friendly amenities around Puckle Street and Moonee Ponds Central. For specialty groceries, **Indian Srilankan Groceries** stocks south Asian ingredients [citation:Stock Your Pantry With These 5 Local Grocers in Moonee Ponds](https://www.mooneeponds3039.com.au/keep-your-pantry-stocked-with-these-5-local-grocers-in-moonee-ponds/). **Fresh on Young** (34-38 Young Street) is a long-standing fruit shop, vegetable shop, and butcher offering fresh produce and meat. Other international options include **Great Asia Food Store** and **Mr MAMA International Grocery** on Pascoe Vale Road.
+
+6) **Weeknight dining**
+For casual family dinners, **Philhellene** (Greek) on Puckle Street offers takeaway and is known for its dips and calamari [citation:THE 10 BEST Takeaway Restaurants in Moonee Ponds - Tripadvisor](https://www.tripadvisor.com.au/Restaurants-g2023413-zfp10601-Moonee_Ponds_Moonee_Valley_Greater_Melbourne_Victoria.html). **Carosello** (Italian, pizza) on Mt Alexander Road is a bustling spot with a family-friendly atmosphere [citation:THE 10 BEST Takeaway Restaurants in Moonee Ponds - Tripadvisor](https://www.tripadvisor.com.au/Restaurants-g2023413-zfp10601-Moonee_Ponds_Moonee_Valley_Greater_Melbourne_Victoria.html). **Banyan Tree Indian Restaurant** on Puckle Street provides refined Indian cuisine with takeaway options nightly [citation:Banyan Tree Indian Restaurant – Moonee Ponds](https://www.banyantreeindianrestaurant.com.au/).
+
+7) **Tuition and enrichment**
+**NumberWorks'nWords** at 37 Hall Street offers maths and English tutoring for children aged 5–16, with tailored plans that follow the school curriculum [citation:Tutoring in Moonee Ponds | NumberWorks'nWords](https://numberworksnwords.com/au/our-locations/australia/moonee-ponds). **Rising Learners** at 1 Gladstone Street provides early education programs including school readiness and individual tuition for Pre-Prep to Grade 6, using the Little Learners Love Literacy program [citation:Rising Learners Moonee Ponds](https://www.mooneeponds3039.com.au/business-directory/listing/rising-learners-moonee-ponds/).
+
+8) **Commute**
+Moonee Ponds is served by the **Craigieburn train line** from **Moonee Ponds Station**. The train runs every 20 minutes and takes approximately **19 minutes** to reach **Flinders Street Station** in the CBD [citation:Moonee Ponds (Station) to Flinders Street Station - 4 ways](https://www.rome2rio.com/s/Moonee-Ponds-Station/Flinders-Street-Station). Alternatively, the **Route 59 tram** from Moonee Ponds Junction/Pascoe Vale Rd to Flinders Street takes about 33 minutes.
+
+**Sources**
+- [2021 Moonee Ponds, Census All persons QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL21742) - Suburb demographics including median age, income, and household composition.
+- [AreaSearch Moonee Ponds Area Profile](https://areasearch.com.au/vic/moonee_ponds) - Income band breakdown and high-earner proportion.
+- [2016 Moonee Ponds, Census All persons QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2016/SSC21730) - Country of birth data (both parents Australian-born/overseas-born).
+- [Out of School Hours Care | Moonee Ponds Primary School](https://www.mpp.vic.edu.au/resources-and-facilities/out-of-school-ours-care/) - OSHC provider TeamKids and specific hours.
+- [Music | Moonee Ponds Primary School](https://www.mpp.vic.edu.au/curriculum/moonee-vale-instrumental-music-program/) - Details of the Moonee Vale Instrumental Music Program.
+- [Extra-Curricular | Moonee Ponds Primary School](https://www.mpp.vic.edu.au/curriculum/extra-curricular/) - List of extracurricular activities including Chess Club and Green Team.
+- [Stock Your Pantry With These 5 Local Grocers in Moonee Ponds](https://www.mooneeponds3039.com.au/keep-your-pantry-stocked-with-these-5-local-grocers-in-moonee-ponds/) - Local grocers including Fresh on Young and Indian Srilankan Groceries.
+- [THE 10 BEST Takeaway Restaurants in Moonee Ponds - Tripadvisor](https://www.tripadvisor.com.au/Restaurants-g2023413-zfp10601-Moonee_Ponds_Moonee_Valley_Greater_Melbourne_Victoria.html) - Takeaway dining options including Philhellene and Carosello.
+- [Banyan Tree Indian Restaurant – Moonee Ponds](https://www.banyantreeindianrestaurant.com.au/) - Indian restaurant with takeaway.
+- [Tutoring in Moonee Ponds | NumberWorks'nWords](https://numberworksnwords.com/au/our-locations/australia/moonee-ponds) - Tutoring centre in Moonee Ponds.
+- [Rising Learners Moonee Ponds](https://www.mooneeponds3039.com.au/business-directory/listing/rising-learners-moonee-ponds/) - Early education and tutoring centre.
+- [Moonee Ponds (Station) to Flinders Street Station - 4 ways](https://www.rome2rio.com/s/Moonee-Ponds-Station/Flinders-Street-Station) - Train line and travel time from Moonee Ponds to CBD.
