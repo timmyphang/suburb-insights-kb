@@ -1,0 +1,30 @@
+1) **Suburb socio-economic profile:** Box Hill North is a middle-to-upper-income, largely family-oriented suburb. The median weekly household income in Box Hill North is $1,920, and the median age is 39 years [citation:2021 Box Hill North, Census All persons QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/207031164). The suburb has 4,958 families and an average of 0.8 children per household, indicating a strong family presence.
+
+2) **Most common foreign country of birth:** Box Hill North is predominantly Australian-born. According to the 2021 Census, 57.5% of residents were born in Australia, with the most common overseas country of birth being China (excludes SARs and Taiwan) at 6.4%, followed by India at 6.6% [citation:The Hills Shire Demographic and Community Insights](https://app.remplan.com.au/the-hills/community/population/birthplace?locality=box-hill-nsw).
+
+3) **Working-parent support:** Box Hill North Primary School offers Outside School Hours Care (OSHC) provided by Camp Australia, operating under the name KidsCo OSHC [citation:Camp Australia – Before and After School Care](https://bhnps.vic.edu.au/kindergarten/campaustralia-beforeandafterschoolcare/). Specific hours of operation were not found in the provided search snippets, but Camp Australia typically offers before and after school care, pupil free day care, and school holiday programs.
+
+4) **School culture:** Box Hill North Primary School runs lunchtime clubs including **choir**, **karaoke club**, and **Kelly Sports Dance** [citation:Music & Performing Arts](https://bhnps.vic.edu.au/music-performing-arts). The school also offers instrumental lessons in guitar, violin, drums, and keyboard/piano during school hours [citation:Music & Performing Arts](https://bhnps.vic.edu.au/music-performing-arts).
+
+5) **Suburb vibe and groceries:** Box Hill North is a quiet, leafy suburb with easy access to the bustling Box Hill Central shopping precinct. For Asian groceries, families can visit **KFL Supermarket** (890 Canterbury Road, Box Hill) or **Hu Hui Supermarket** inside Box Hill Central [citation:Box Hill KFL](https://www.kflsupermarkets.com.au/boxhill-vic) [citation:Hu Hui Supermarket](https://www.boxhillcentral.com.au/stores/hu-hui-supermarket). There are also Indian grocery options such as Tales of India for online delivery [citation:Indian Grocery Store Box Hill](https://talesofindia.com.au/pages/indian-grocery-store-box-hill-3128/).
+
+6) **Weeknight dining:** Family-friendly dining in nearby Box Hill includes **Holy Basil Thai** for Thai cuisine, **DC Dumpling Specialist** for Chinese dumplings, and **Grill'd** for healthy burgers [citation:Discover Affordable Dining](https://boxhillmallmc.com.au/dining/budget-bites-in-box-hill.html). For a quick takeaway, **Dumpling King** offers Chinese dumplings and is well-rated on TripAdvisor [citation:THE 10 BEST Takeaway Restaurants](https://www.tripadvisor.com.au/Restaurants-g552142-zfp10601-Box_Hill_Whitehorse_Greater_Melbourne_Victoria.html).
+
+7) **Tuition and enrichment:** Families can access **Matrix Education** at 6 Ellingworth Parade, Box Hill, which offers tutoring for VCE subjects [citation:Box Hill Tutoring](https://www.matrix.edu.au/box-hill-tutoring/). Another option is **RL Education**, a leading tutoring centre in Box Hill providing K-12 tutoring across all subjects including VCE and IB [citation:RL Education](https://rleducation.com.au/).
+
+8) **Commute:** Box Hill North is served by **Box Hill Station** on the **Belgrave** and **Lilydale** train lines [citation:Flinders Street Station to Box Hill](https://www.rome2rio.com/s/Flinders-Street-Station/Box-Hill-VIC-Australia). The train journey from Box Hill Station to Flinders Street Station in the Melbourne CBD takes approximately **27 minutes** [citation:Box Hill to Flinders Street Station](https://www.rome2rio.com/s/Box-Hill-VIC-Australia/Flinders-Street-Station).
+
+**Sources:**
+- [2021 Box Hill North, Census All persons QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/207031164) - Census data for Box Hill North population, age, and income.
+- [The Hills Shire Demographic and Community Insights](https://app.remplan.com.au/the-hills/community/population/birthplace?locality=box-hill-nsw) - Country of birth data for Box Hill North.
+- [Camp Australia – Before and After School Care](https://bhnps.vic.edu.au/kindergarten/campaustralia-beforeandafterschoolcare/) - OSHC provider information for Box Hill North Primary School.
+- [Music & Performing Arts](https://bhnps.vic.edu.au/music-performing-arts) - Extracurricular activities and instrumental programs at Box Hill North Primary School.
+- [Box Hill KFL](https://www.kflsupermarkets.com.au/boxhill-vic) - Asian supermarket in Box Hill.
+- [Hu Hui Supermarket](https://www.boxhillcentral.com.au/stores/hu-hui-supermarket) - Asian grocery store in Box Hill Central.
+- [Indian Grocery Store Box Hill](https://talesofindia.com.au/pages/indian-grocery-store-box-hill-3128/) - Indian grocery delivery service in Box Hill.
+- [Discover Affordable Dining](https://boxhillmallmc.com.au/dining/budget-bites-in-box-hill.html) - Family-friendly dining options in Box Hill.
+- [THE 10 BEST Takeaway Restaurants](https://www.tripadvisor.com.au/Restaurants-g552142-zfp10601-Box_Hill_Whitehorse_Greater_Melbourne_Victoria.html) - Takeout restaurant recommendations in Box Hill.
+- [Box Hill Tutoring](https://www.matrix.edu.au/box-hill-tutoring/) - Matrix Education tutoring centre in Box Hill.
+- [RL Education](https://rleducation.com.au/) - RL Education tutoring centre in Box Hill.
+- [Flinders Street Station to Box Hill](https://www.rome2rio.com/s/Flinders-Street-Station/Box-Hill-VIC-Australia) - Train travel time from Flinders Street to Box Hill.
+- [Box Hill to Flinders Street Station](https://www.rome2rio.com/s/Box-Hill-VIC-Australia/Flinders-Street-Station) - Train travel time from Box Hill to Flinders Street.
