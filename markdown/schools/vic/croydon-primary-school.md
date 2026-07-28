@@ -1,0 +1,27 @@
+1) **Suburb socio-economic profile:** Croydon is a middle-income, family-oriented suburb. The median weekly household income is $1,615, the median personal income is $816/week, and the median age is 39, with a slightly higher female population (52.9%) [citation:ABS QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2021/SAL20682); [citation:GDP.com.au](https://gdp.com.au/suburb/croydon-vic). The average household size is 2.4 people, and the suburb has a higher-than-average proportion of owned dwellings (45.7% owned outright) [citation:GDP.com.au](https://gdp.com.au/suburb/croydon-vic).
+
+2) **Most common foreign country of birth:** The most common overseas birthplace is England, at 5.1% of residents [citation:GDP.com.au](https://gdp.com.au/suburb/croydon-vic). The suburb is overwhelmingly Australian-born, with 86.3% of residents born in Australia. Other notable overseas-born groups include China (2.9%) and India (2.8%) [citation:GDP.com.au](https://gdp.com.au/suburb/croydon-vic).
+
+3) **Working-parent support:** Croydon Primary School does not appear to operate its own OSHC; however, Croydon Hills Primary School (a nearby school) offers OSHC through the school council [citation:ACECQA](https://www.acecqa.gov.au/resources/national-registers/services/croydon-hills-primary-school-oshc-program). For Croydon Primary School, no OSHC provider was named in the available sources—contact the school directly to confirm.
+
+4) **School culture:** Croydon Primary School offers a wide range of named extracurricular activities including Inter-school Sport, Choir, and Just Brass Music (a free brass instrument program with weekly band practice) [citation:About CPS](https://croydonps.vic.edu.au/about-cps/); [citation:Just Brass](https://croydonps.vic.edu.au/teaching-learning/just-brass/). The school also runs Bike Education, a School Production, and Tournament of the Minds [citation:About CPS](https://croydonps.vic.edu.au/about-cps/).
+
+5) **Suburb vibe and groceries:** Croydon offers a family-friendly suburban atmosphere with a Main Street precinct and Croydon Central shopping centre. For specialty groceries, The Local Asian Grocer is located in Croydon Central opposite Coles [citation:The Local Asian Grocer](https://www.croydoncentral.com.au/stores/local-asian-grocer), and Chin Star Asian Grocery is at 18 Main Street [citation:Chin Star](https://www.croydonmainstreet.com.au/trader/chin-star-asian-grocery/). European Grocery Store at 154 Main Street and Rangoon City Mart at 195-197 Mt Dandenong Road also serve the area.
+
+6) **Weeknight dining:** For casual family-friendly dining, Holy Basil Thai (listed on TripAdvisor) offers Thai cuisine [citation:TripAdvisor](https://www.tripadvisor.com.au/Restaurants-g552158-zfp10601-Croydon_Maroondah_Greater_Melbourne_Victoria.html). Chiraag Indian and Nepalese Restaurant is a popular BYO option for Indian/Nepalese food [citation:TripAdvisor](https://www.tripadvisor.com.au/Restaurants-g552158-zfp10601-Croydon_Maroondah_Greater_Melbourne_Victoria.html). Carlos Cantina on AGFG serves Mexican with takeaway available [citation:AGFG](https://www.agfg.com.au/restaurants/melbourne/croydon/takeaway-category).
+
+7) **Tuition and enrichment:** Not found in available sources for specific tutoring centres in or near Croydon VIC. You may need to search directly for local providers such as those on the Croydon Main Street or contact the school for recommendations.
+
+8) **Commute:** Croydon is served by Croydon Station on the Lilydale train line. Trains run approximately every 30 minutes direct to Flinders Street Station, with an average travel time of 48 minutes (fastest 42 minutes) [citation:Rome2Rio](https://www.rome2rio.com/Train/Croydon-Station-VIC-Australia/Flinders-Street-Station). The fare is approximately $4 [citation:Rome2Rio](https://www.rome2rio.com/Train/Croydon-Station-VIC-Australia/Flinders-Street-Station).
+
+### Sources
+- [ABS QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2021/SAL20682) - 2021 Census QuickStats for Croydon VIC (population, income, age)
+- [GDP.com.au](https://gdp.com.au/suburb/croydon-vic) - Croydon demography including income, birthplace, age, housing
+- [About CPS](https://croydonps.vic.edu.au/about-cps/) - Croydon Primary School extracurricular program list
+- [Just Brass](https://croydonps.vic.edu.au/teaching-learning/just-brass/) - Free brass music program at Croydon Primary School
+- [ACECQA](https://www.acecqa.gov.au/resources/national-registers/services/croydon-hills-primary-school-oshc-program) - OSHC program registration for Croydon Hills Primary School (nearby)
+- [Croydon Central - The Local Asian Grocer](https://www.croydoncentral.com.au/stores/local-asian-grocer) - Asian grocery store in Croydon Central
+- [Croydon Main Street - Chin Star Asian Grocery](https://www.croydonmainstreet.com.au/trader/chin-star-asian-grocery/) - Asian grocery store on Main Street
+- [TripAdvisor - Croydon Takeaway Restaurants](https://www.tripadvisor.com.au/Restaurants-g552158-zfp10601-Croydon_Maroondah_Greater_Melbourne_Victoria.html) - Casual dining options in Croydon
+- [AGFG - Croydon Takeaway](https://www.agfg.com.au/restaurants/melbourne/croydon/takeaway-category) - Restaurant listings including takeaway in Croydon
+- [Rome2Rio - Croydon to Flinders Street](https://www.rome2rio.com/Train/Croydon-Station-VIC-Australia/Flinders-Street-Station) - Train travel time and frequency from Croydon Station to CBD
