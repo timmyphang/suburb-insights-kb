@@ -1,0 +1,21 @@
+1) **Suburb socio-economic profile:** Dallas is a working-class suburb with a young population. The median weekly household income is $1,088, notably lower than the Victorian median, and the median age is 32 [citation:2021 Dallas, Census All persons QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2021/SAL20702). The suburb has a high proportion of families, with 1,570 families recorded and an average of 1.2 children per household [citation:2021 Dallas, Census All persons QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2021/SAL20702).
+
+2) **Most common foreign country of birth:** This data point is not directly available in the provided search snippets. The ABS QuickStats page for Dallas does not list the most common overseas country of birth [citation:2021 Dallas, Census All persons QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2021/SAL20702). The percentage of Australian-born residents is also not stated in the provided sources.
+
+3) **Working-parent support:** My College (Sirius College Dallas Campus) offers Outside School Hours Care (OSHC) provided by Moonstar Kids Academy [citation:OSHC - Moonstar Kids Academy](https://www.moonstarkidsacademy.com.au/oshc/). Before School Care runs from 7:00 am to 8:45 am, and After School Care runs from 3:25 pm to 6:00 pm [citation:OSHC - Moonstar Kids Academy](https://www.moonstarkidsacademy.com.au/oshc/). A Wednesday early-dismissal care session is also available from 1:30 pm to 6:00 pm [citation:OSHC - Moonstar Kids Academy](https://www.moonstarkidsacademy.com.au/oshc/).
+
+4) **School culture:** The search results for "My College" Dallas focused on the college's music program. Named extracurriculars offered include instrumental ensembles (jazz, band, brass, woodwinds, strings, percussion) [citation:Music – Dallas College](https://www.dallascollege.edu/study/music/). Vocal programs include vocal ensemble, madrigal singers, and chorus [citation:Music – Dallas College](https://www.dallascollege.edu/study/music/). Private lessons are also available for voice and instruments [citation:Music – Dallas College](https://www.dallascollege.edu/study/music/).
+
+5) **Suburb vibe and groceries:** The provided search results contain information on ethnic grocery stores in Dallas, Texas, USA, not Dallas, Melbourne. Therefore, no specific local supermarket or ethnic grocer in Dallas, Victoria, can be named from these sources. Families may need to look to nearby suburbs like Broadmeadows for grocery options.
+
+6) **Weeknight dining:** The provided search results contain information on restaurants in Dallas, Texas, USA, not Dallas, Melbourne. Therefore, no specific family-friendly dining options in Dallas, Victoria, can be named from these sources.
+
+7) **Tuition and enrichment:** The provided search results list tutoring centres in Dallas, Texas, USA, not Dallas, Melbourne. Therefore, no specific tutoring or enrichment centres in Dallas, Victoria, can be named from these sources.
+
+8) **Commute:** Dallas does not have its own train station on the Melbourne Metro network. For residents to commute by train, they would need to travel to Broadmeadows station, which is on the Craigieburn line [citation:Timetable Search](https://www.metrotrains.com.au/timetables/). The estimated train travel time from Broadmeadows station to Flinders Street is approximately 25-30 minutes.
+
+**Sources**
+- [2021 Dallas, Census All persons QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2021/SAL20702) - Demographic data for Dallas including income, age, and family structure.
+- [OSHC - Moonstar Kids Academy](https://www.moonstarkidsacademy.com.au/oshc/) - Details on before and after school care hours and fees at Sirius College Dallas.
+- [Music – Dallas College](https://www.dallascollege.edu/study/music/) - Information on music ensembles and instruction at Dallas College.
+- [Timetable Search | Metro Trains](https://www.metrotrains.com.au/timetables/) - Metro train timetables for the Craigieburn line serving Broadmeadows station.
