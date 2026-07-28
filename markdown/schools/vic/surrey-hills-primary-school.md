@@ -1,0 +1,28 @@
+1) **Suburb socio-economic profile:** Surrey Hills is an affluent, white-collar suburb with a strong family orientation. The median weekly household income is $2,503, and the median age is 42 years, indicating a mature, established population [citation:2021 Surrey Hills Census QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL22399). The suburb attracts families, professionals, and retirees, with a high proportion of couples with children and a low unemployment rate [citation:Surrey Hills suburb profile](https://www.compoundinvest.com.au/insights/suburb-profiles/surrey-hills/).
+
+2) **Most common foreign country of birth:** The most common overseas country of birth is not specified in the available search results. The suburb is predominantly Australian-born, but the exact percentage is not provided in the sources we examined.
+
+3) **Working-parent support:** Surrey Hills Primary School offers Outside School Hours Care (OSHC) provided by **TheirCare**. TheirCare operates before school from **7:00am** and after school until **6:00pm**, and bookings can be made online through their website [citation:Surrey Hills Primary School - Community](https://surreyhillsps.vic.edu.au/community).
+
+4) **School culture:** Surrey Hills Primary School provides a range of named extracurricular activities, including an **instrumental music program**, a **school band**, and a **choir** [citation:2024 Annual Report](https://www.surreyhillsps.vic.edu.au/pdf/ARc_2024_2778.pdf). Students also participate in inter-school sports competitions such as summer and winter district sports, as well as school swimming and athletics events [citation:Specialists Subjects](https://www.surreyhillsps.vic.edu.au/specialists-subjects).
+
+5) **Suburb vibe and groceries:** Surrey Hills offers a leafy, family-friendly atmosphere with parks like **Surrey Park** and a thriving café culture [citation:Surrey Hills suburb profile](https://www.compoundinvest.com.au/insights/suburb-profiles/surrey-hills/). For grocery shopping, **Tales of India** provides online home delivery of Indian spices, snacks, and groceries to Surrey Hills [citation:Indian Grocery Store Surrey Hills](https://talesofindia.com.au/pages/indian-grocery-store-surrey-hills-3127). Additional supermarkets are available along Union Road and nearby Box Hill, which has a large Asian grocery precinct.
+
+6) **Weeknight dining:** Family-friendly dining options in Surrey Hills include **Hellenis** (Mediterranean/Greek cuisine), **Old Kingdom Peking Duck Restaurant** (Chinese), and **Tuong Long** (Vietnamese) [citation:TripAdvisor Restaurants in Surrey Hills](https://www.tripadvisor.com.au/Restaurants-g3555197-Surrey_Hills_Boroondara_Greater_Melbourne_Victoria.html). These venues offer takeaway and casual dining in a relaxed setting.
+
+7) **Tuition and enrichment:** Local tutoring centres include **Success Tutoring Surrey Hills**, which provides personalised academic support with 24/7 access to resources [citation:Success Tutoring Surrey Hills](https://successtutoring.com.au/tutoring-surrey-hills). Another option is **NumberWorks'nWords Balwyn**, a long-established maths and English tuition centre a short drive away [citation:Tutors in Surrey Hills](https://www.localbusinessguide.com.au/victoria/surrey-hills/education/tutors/).
+
+8) **Commute:** Surrey Hills is served by **Chatham Station** on the **Belgrave and Lilydale train lines**. The journey to Flinders Street Station takes approximately **21 minutes**, with trains running every 20 minutes during peak times [citation:Surrey Hills to Flinders Street Station](https://www.rome2rio.com/s/Surrey-Hills/Flinders-Street-Station). Alternatively, **Union Station** also provides direct services to the city in about 24 minutes.
+
+**Sources**
+
+- [2021 Surrey Hills, Census All persons QuickStats | Australian Bureau of Statistics](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL22399) - Demographics including median age and household income.
+- [Surrey Hills, VIC 3127 Suburb Profile | CompoundInvest](https://www.compoundinvest.com.au/insights/suburb-profiles/surrey-hills/) - Suburb overview, lifestyle, and school zones.
+- [Surrey Hills Primary School - Community](https://surreyhillsps.vic.edu.au/community) - OSHC provider TheirCare and supervision hours.
+- [2024 Annual Report to the School Community](https://www.surreyhillsps.vic.edu.au/pdf/ARc_2024_2778.pdf) - List of extracurricular programs (instrumental music, band, choir).
+- [Surrey Hills Primary School - Specialists Subjects](https://www.surreyhillsps.vic.edu.au/specialists-subjects) - Details of PE, performing arts, and inter-school sports.
+- [Indian Grocery Store Surrey Hills | Tales Of India](https://talesofindia.com.au/pages/indian-grocery-store-surrey-hills-3127) - Online Indian grocery delivery service.
+- [THE 10 BEST Restaurants in Surrey Hills (TripAdvisor)](https://www.tripadvisor.com.au/Restaurants-g3555197-Surrey_Hills_Boroondara_Greater_Melbourne_Victoria.html) - List of family-friendly restaurants in Surrey Hills.
+- [Success Tutoring Surrey Hills](https://successtutoring.com.au/tutoring-surrey-hills) - Tutoring centre in Surrey Hills.
+- [THE BEST 10 Tutors in Surrey Hills, Victoria](https://www.localbusinessguide.com.au/victoria/surrey-hills/education/tutors/) - Directory including NumberWorks'nWords Balwyn.
+- [Surrey Hills to Flinders Street Station | Rome2rio](https://www.rome2rio.com/s/Surrey-Hills/Flinders-Street-Station) - Train route, station, and travel time.
