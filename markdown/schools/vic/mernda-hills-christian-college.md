@@ -1,0 +1,32 @@
+1) **Suburb socio-economic profile:** Mernda is a fast-growing, family-oriented suburb with a median age of 33, well below the national median of 38 [citation:2021 Mernda QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL21659). The median weekly household income is $2,011, placing it in the middle-income range [citation:2021 Mernda QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL21659). Employment is mixed: 45.3% work full-time, 22.7% part-time, and unemployment sits at just 4.4%, indicating a balanced white-collar/blue-collar workforce [citation:GDP.com.au](https://gdp.com.au/suburb/mernda-vic).
+
+2) **Most common foreign country of birth:** The suburb is predominantly Australian-born, with 78.8% of residents born in Australia. The largest overseas-born group is from India, accounting for 14.0% of the population [citation:GDP.com.au](https://gdp.com.au/suburb/mernda-vic). English is the most common language, followed by Punjabi [citation:GDP.com.au](https://gdp.com.au/suburb/mernda-vic).
+
+3) **Working-parent support:** Mernda Hills Christian College provides its own Outside School Hours Care (OSHC) program. Before School Care runs from 7:00 am to 8:30 am, and After School Care runs from 3:30 pm to 6:00 pm, each school term day [citation:Out of School Hours Care](https://merndahills.vic.edu.au/community/services/out-of-school-hours-care). Vacation Care is also available, and bookings are made through the Xplor app [citation:Out of School Hours Care](https://merndahills.vic.edu.au/community/services/out-of-school-hours-care).
+
+4) **School culture:** The college offers a range of named extracurriculars including interschool sports through School Sports Victoria (SSV) and the Adventist Schools Victoria (ASV) network [citation:Co-Curricular](https://merndahills.vic.edu.au/curriculum/co-curricular). Students can take private instrumental tuition via the Whittlesea Music School, covering instruments such as guitar, piano, drums, and violin [citation:Private Instrumental Tuition](https://merndahills.vic.edu.au/community/services/instrumental-tuition). The Adventurer Club meets monthly on campus for 4–9 year-olds, providing a Christian-based activity program [citation:Mernda Campus Church](https://merndahills.vic.edu.au/community/mernda-campus-church).
+
+5) **Suburb vibe and groceries:** Mernda is a growing suburban community with convenient shopping. For specialty groceries, A&H Indian grocery store (Unit 1/117 Regent St) offers Indian spices, fresh produce, and dairy [citation:A&H Indian grocery store](https://www.dlook.com.au/business/indian-grocery-shop-in-mernda-vic-3754/ah-indian-grocery-store). Tales of India provides online delivery of Indian groceries to Mernda [citation:Tales of India](https://talesofindia.com.au/pages/indian-grocery-store-mernda-3754). Major chain supermarkets are also present in the area.
+
+6) **Weeknight dining:** Several casual, family-friendly takeaway options are available in Mernda. Na Songkhla Thai Mernda offers Thai cuisine with takeaway and BYO wine (03 9717 2046) [citation:Na Songkhla Thai Mernda](https://www.facebook.com/NaSongkhlaMernda/). Seven Star Pizza Pasta Grill serves Italian-style pizzas and pasta for takeaway or dine-in [citation:Seven Star Pizza Pasta Grill Mernda](https://sevenstarpizzeriamernda.com.au/). Shark Shack Fish & Chips is a popular local choice for fish and chips [citation:TuckerFox](https://www.tuckerfox.com.au/takeaway-delivery/mernda).
+
+7) **Tuition and enrichment:** Brainworks Mernda offers one-to-one tutoring in Maths and English for Years 1–10, held at the Mernda Village Community Centre (70 Mernda Village Drive) [citation:Brainworks](https://www.brainworks.com.au/venues/tutoring-mernda). Kip McGrath Mernda provides tutoring across primary and secondary levels with qualified teachers [citation:Kip McGrath Mernda](https://www.kipmcgrath.com.au/mernda).
+
+8) **Commute:** Mernda is served by the Mernda line (red) on the Melbourne train network. The trip from Mernda Station to Flinders Street Station takes approximately 52 minutes, with trains running every 20 minutes [citation:Rome2Rio](https://www.rome2rio.com/Train/Mernda-Station/Flinders-Street-Station); [citation:TransitApp](https://transitapp.com/en/region/melbourne/metro/commuter-rail-mernda). The line stops at 25 stations, including key interchange points.
+
+**Sources**
+- [2021 Mernda QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL21659) – Demographic data including age, income, household composition.
+- [GDP.com.au Mernda profile](https://gdp.com.au/suburb/mernda-vic) – Median income, rent, country of birth, languages, employment.
+- [Out of School Hours Care](https://merndahills.vic.edu.au/community/services/out-of-school-hours-care) – OSHC hours, fees, and booking process at Mernda Hills Christian College.
+- [Co-Curricular](https://merndahills.vic.edu.au/curriculum/co-curricular) – Sports, music, and other programs at the school.
+- [Private Instrumental Tuition](https://merndahills.vic.edu.au/community/services/instrumental-tuition) – Whittlesea Music School details and instruments offered.
+- [Mernda Campus Church](https://merndahills.vic.edu.au/community/mernda-campus-church) – Adventurer Club for 4–9 year-olds.
+- [A&H Indian grocery store](https://www.dlook.com.au/business/indian-grocery-shop-in-mernda-vic-3754/ah-indian-grocery-store) – Address and product range for Indian groceries.
+- [Tales of India](https://talesofindia.com.au/pages/indian-grocery-store-mernda-3754) – Online Indian grocery delivery to Mernda.
+- [Na Songkhla Thai Mernda](https://www.facebook.com/NaSongkhlaMernda/) – Thai restaurant with takeaway and contact details.
+- [Seven Star Pizza Pasta Grill Mernda](https://sevenstarpizzeriamernda.com.au/) – Italian takeaway and dine-in.
+- [TuckerFox Mernda](https://www.tuckerfox.com.au/takeaway-delivery/mernda) – List of takeaway options including Shark Shack Fish & Chips.
+- [Brainworks Mernda](https://www.brainworks.com.au/venues/tutoring-mernda) – Maths and English tutoring location and subjects.
+- [Kip McGrath Mernda](https://www.kipmcgrath.com.au/mernda) – Tutoring centre for primary and secondary students.
+- [Rome2Rio Mernda to Flinders Street](https://www.rome2rio.com/Train/Mernda-Station/Flinders-Street-Station) – Train travel time and frequency.
+- [TransitApp Mernda line](https://transitapp.com/en/region/melbourne/metro/commuter-rail-mernda) – Timetable and station list for the Mernda line.
