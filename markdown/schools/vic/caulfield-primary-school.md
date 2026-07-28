@@ -1,0 +1,34 @@
+1) Suburb socio-economic profile: Caulfield South is an affluent suburb, with 38.9% of residents earning over $3,000 weekly [citation:AreaSearch](https://areasearch.com.au/vic/caulfield_south). The median weekly household income is $2,289 [citation:2021 Caulfield - South QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/208021178). The median age is 41, and the population is a mix of families and singles, with 4,857 families recorded [citation:2021 Caulfield - South QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/208021178).
+
+2) Most common foreign country of birth: The available data does not specify a dominant overseas country for Caulfield South in the provided context. However, based on the 2016 Census for Caulfield South, 29.7% of people had both parents born in Australia, and 50.8% had both parents born overseas [citation:2016 Caulfield South QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2016/SSC20521). The most recent 2021 data for the broader Caulfield area is available but not specifically for Caulfield South.
+
+3) Working-parent support: Caulfield Primary School offers Outside School Hours Care (OSHC) provided by TeamKids [citation:Before and After School Care](https://www.caulfieldps.vic.edu.au/page/238/Before-and-After-School-Care). Specific hours of operation are not listed in the available sources. TeamKids operates before school, after school, and throughout school holidays [citation:Before and After School Care](https://www.caulfieldps.vic.edu.au/page/238/Before-and-After-School-Care).
+
+4) School culture: Caulfield Primary School offers a Japanese bilingual program and runs several named extracurriculars including a Taiko Club (Japanese drumming) for Years 5 and 6, and a Bilingual Choir that performs in English and Japanese [citation:Community engagement](https://www.caulfieldps.vic.edu.au/page/228/Community-engagement). Other activities include a Running Club, School Choir, and a Computer Programming Club with Digimaker [citation:E-news Web](https://www.caulfieldps.vic.edu.au/enews/details/40) [citation:Extra curricular activities](https://www.caulfieldps.vic.edu.au/page/255/Extra-curricular-activities).
+
+5) Suburb vibe and groceries: Caulfield South has a family-friendly suburban feel with parks and local shops. For specialty groceries, Maita by Tang in nearby Caulfield North (7-9 Normanby Road) offers a wide range of Asian grocery products [citation:Tang Food Emporium](https://www.tangfoodemporium.com.au/). Lin's Asian Grocery is located at Monash Caulfield campus [citation:Lin's Asian Grocery](https://studentvip.com.au/monash/caulfield/maps/118230). A Friendly Grocer supermarket is also available in Caulfield South [citation:Friendly Grocer Caulfield South](https://friendlygrocer.com.au/friendly-grocer-caulfield-south).
+
+6) Weeknight dining: For casual family-friendly dining, Curry Queen (Indian cuisine) offers dine-in and takeaway at an unspecified Caulfield South location [citation:Curry Queen](https://www.curryqueen.com.au/indian-restaurant-caulfield-south/). Sala Thai Kitchen at 614 Glen Huntly Road provides Thai takeaway [citation:Sala Thai Kitchen](https://www.tuckerfox.com.au/takeaway-delivery/sala-thai-kitchen-caulfield-south). Additional options can be found on delivery platforms like Uber Eats in Caulfield South [citation:Takeaway in Caulfield South](https://www.ubereats.com/au/neighborhood/caulfield-south-melbourne-vic).
+
+7) Tuition and enrichment: Kip McGrath Caulfield South (Suite 2, Level 1, 342 Hawthorn Road) offers English and Maths tutoring for primary and secondary students, with tailored in-centre and online lessons [citation:KMEC Caulfield South](https://www.kipmcgrath.com.au/caulfield-south). Success Tutoring Caulfield South provides personalized English and Math tutoring mapped to the Australian Curriculum [citation:Tutoring Caulfield South](https://www.successtutoring.com/tutoring-melbourne/caulfield-south).
+
+8) Commute: Caulfield South is served by Caulfield Station on the Frankston, Cranbourne, and Pakenham train lines [citation:Caulfield | Metro Trains](https://www.metrotrains.com.au/stations/caulfield/). The train journey from Caulfield Station to Flinders Street Station takes approximately 14–19 minutes direct, with trains running every 10 minutes [citation:Caulfield | Metro Trains](https://www.metrotrains.com.au/stations/caulfield/) [citation:Caulfield Station to Flinders Street](https://www.rome2rio.com/s/Caulfield-Station/Flinders-Street-Station).
+
+Sources:
+- [AreaSearch](https://areasearch.com.au/vic/caulfield_south) - Caulfield South income and demographic data
+- [2021 Caulfield - South QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/208021178) - ABS Census data for Caulfield South
+- [2016 Caulfield South QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2016/SSC20521) - ABS Census data for Caulfield South (2016)
+- [Before and After School Care](https://www.caulfieldps.vic.edu.au/page/238/Before-and-After-School-Care) - OSHC provider and program details at Caulfield Primary School
+- [Community engagement](https://www.caulfieldps.vic.edu.au/page/228/Community-engagement) - Extracurricular activities like Taiko Club and Bilingual Choir
+- [E-news Web](https://www.caulfieldps.vic.edu.au/enews/details/40) - Additional extracurricular listings
+- [Extra curricular activities](https://www.caulfieldps.vic.edu.au/page/255/Extra-curricular-activities) - Computer Programming Club and other activities
+- [Tang Food Emporium](https://www.tangfoodemporium.com.au/) - Asian grocery store Maita by Tang in Caulfield North
+- [Lin's Asian Grocery](https://studentvip.com.au/monash/caulfield/maps/118230) - Asian grocery at Monash Caulfield
+- [Friendly Grocer Caulfield South](https://friendlygrocer.com.au/friendly-grocer-caulfield-south) - Local supermarket in Caulfield South
+- [Curry Queen](https://www.curryqueen.com.au/indian-restaurant-caulfield-south/) - Indian restaurant in Caulfield South
+- [Sala Thai Kitchen](https://www.tuckerfox.com.au/takeaway-delivery/sala-thai-kitchen-caulfield-south) - Thai takeaway in Caulfield South
+- [Takeaway in Caulfield South](https://www.ubereats.com/au/neighborhood/caulfield-south-melbourne-vic) - Uber Eats restaurant options in Caulfield South
+- [KMEC Caulfield South](https://www.kipmcgrath.com.au/caulfield-south) - Kip McGrath tutoring centre details
+- [Tutoring Caulfield South](https://www.successtutoring.com/tutoring-melbourne/caulfield-south) - Success Tutoring services
+- [Caulfield | Metro Trains](https://www.metrotrains.com.au/stations/caulfield/) - Train station details and journey time
+- [Caulfield Station to Flinders Street](https://www.rome2rio.com/s/Caulfield-Station/Flinders-Street-Station) - Travel options and estimated times
