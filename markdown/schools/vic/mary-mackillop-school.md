@@ -1,0 +1,30 @@
+1) **Suburb socio-economic profile:** Narre Warren North is a middle-to-upper-income, family-oriented suburb. According to the 2021 Census, the median weekly household income is $2,634, the median age is 42, and the average number of children per family is 2.1, indicating a strong family demographic [citation: 2021 Narre Warren North QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL21895). The suburb is classified as premium with an IRSAD score of 1063, reflecting higher socio-economic advantage [citation: Narre Warren North Property Market 2026](https://www.htag.com.au/vic/vic213-casey-city/narre-warren-north-vic-3804/).
+
+2) **Most common foreign country of birth:** The most common country of birth outside Australia is not explicitly stated in the provided census data for Narre Warren North. The suburb is predominantly Australian-born, with 96.3% of residents identifying as non-Indigenous [citation: 2021 Narre Warren North QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL21895).
+
+3) **Working-parent support:** Outside School Hours Care (OSHC) is available at Mary MacKillop School, operated by Camp Australia on school premises. The program runs Monday to Friday from 6:45am–8:45am (before school) and 3:15pm–6:15pm (after school), with curriculum-day hours of 7:00am–6:00pm [citation: Out of Hours School Care – Mary MacKillop Primary School](https://www.marymacnarre.catholic.edu.au/out-of-hours-school-care).
+
+4) **School culture:** Mary MacKillop School offers a range of named extracurriculars. The **Endeavour (STEM) Program** provides enrichment in science, technology, engineering, and mathematics [citation: OPEN NIGHT FLYER](https://www.marymacnarre.catholic.edu.au/_file/media/2554/open_night_a4_flyer_final.pdf). The school also runs a **School Choir** that performs at parish masses and school events [citation: Mary MacKillop eNewsletter](https://www.marymacnarre.catholic.edu.au/newsletter/search/1.shtml?nid=149&obj_id=&phrase=).
+
+5) **Suburb vibe and groceries:** Narre Warren North is a quiet, family-friendly suburb with parks and walking trails, while most amenities are in nearby Narre Warren. For ethnic groceries, **Sari-Sari Asian Groceries** (26A Webb St, Narre Warren) offers Filipino and Asian products [citation: Sari-Sari Asian Groceries Facebook](https://www.facebook.com/SariSariAsianGroceries/), and **East Easy Asian Grocer** (Shop 1160, Westfield Fountain Gate) stocks a wide range of Asian staples [citation: East Easy Asian Grocer](https://easteasy.com.au/).
+
+6) **Weeknight dining:** Specific restaurants within Narre Warren North are not listed in the available sources, but nearby Narre Warren offers family-friendly options. **Oatlands Fish and Chips** (Narre Warren) serves classic fish and chips [citation: TuckerFox Narre Warren North](https://www.tuckerfox.com.au/takeaway-delivery/narre-warren-north), and **Dosa Hut** (Narre Warren) provides Indian cuisine with takeaway and dine-in [citation: Dosa Hut Narre Warren](https://www.dosahut.net.au/indian-restaurant-narre-warren/).
+
+7) **Tuition and enrichment:** **Success Tutoring** has a centre in Narre Warren (address not specified) offering personalised academic support for primary and secondary students [citation: Success Tutoring Narre Warren](https://successtutoring.com.au/tutoring-narre-warren). **Lynn’s Learning** operates an Endeavour Hills centre (10 Raymond McMahon Blvd, Endeavour Hills) that serves Narre Warren North families with selective school and scholarship tutoring for Years 3–9 [citation: Lynn’s Learning Selective Tutoring](https://lynnslearning.com.au/selective-tutoring/narre-warren-north).
+
+8) **Commute:** The nearest train station is Narre Warren Station on the **Pakenham line**. The average train travel time from Narre Warren Station to Flinders Street Station in Melbourne CBD is approximately **53 minutes** [citation: Rome2Rio Narre Warren to Flinders Street](https://www.rome2rio.com/Train/Narre-Warren/Flinders-Street-Station). Trains run every 20 minutes during peak times [citation: Metro Trains Narre Warren Station](https://www.metrotrains.com.au/stations/narre-warren/).
+
+**Sources**
+- [2021 Narre Warren North QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL21895) – Census data: median age, income, family structure, country of birth
+- [Narre Warren North Property Market 2026](https://www.htag.com.au/vic/vic213-casey-city/narre-warren-north-vic-3804/) – Socio-economic IRSAD score and suburb profile
+- [Out of Hours School Care – Mary MacKillop Primary School](https://www.marymacnarre.catholic.edu.au/out-of-hours-school-care) – OSHC provider, hours, and contact
+- [OPEN NIGHT FLYER](https://www.marymacnarre.catholic.edu.au/_file/media/2554/open_night_a4_flyer_final.pdf) – Endeavour (STEM) Program information
+- [Mary MacKillop eNewsletter](https://www.marymacnarre.catholic.edu.au/newsletter/search/1.shtml?nid=149&obj_id=&phrase=) – School choir mention
+- [Sari-Sari Asian Groceries Facebook](https://www.facebook.com/SariSariAsianGroceries/) – Asian grocery store in Narre Warren
+- [East Easy Asian Grocer](https://easteasy.com.au/) – Asian grocery at Westfield Fountain Gate
+- [TuckerFox Narre Warren North](https://www.tuckerfox.com.au/takeaway-delivery/narre-warren-north) – Takeaway options including Oatlands Fish and Chips
+- [Dosa Hut Narre Warren](https://www.dosahut.net.au/indian-restaurant-narre-warren/) – Indian restaurant in Narre Warren
+- [Success Tutoring Narre Warren](https://successtutoring.com.au/tutoring-narre-warren) – Tutoring centre in Narre Warren
+- [Lynn’s Learning Selective Tutoring](https://lynnslearning.com.au/selective-tutoring/narre-warren-north) – Selective tutoring centre in Endeavour Hills
+- [Rome2Rio Narre Warren to Flinders Street](https://www.rome2rio.com/Train/Narre-Warren/Flinders-Street-Station) – Train travel time and frequency
+- [Metro Trains Narre Warren Station](https://www.metrotrains.com.au/stations/narre-warren/) – Station details and line information
