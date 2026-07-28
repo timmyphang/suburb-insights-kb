@@ -1,0 +1,26 @@
+1) **Suburb socio-economic profile:** Spotswood is a family-oriented, middle-to-upper-middle-income suburb with a median weekly household income of $2,460 and a median age of 37 [citation:2021 Spotswood QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL22319). The population of 2,820 includes 775 families, with an average of 1.8 children per family and 2.6 people per household, indicating a strong family presence. The median monthly mortgage repayment is $2,300 and median weekly rent is $456, suggesting a relatively affluent, largely white-collar demographic.
+
+2) **Most common foreign country of birth:** The available sources do not provide the specific percentage share of the most common overseas country of birth for Spotswood. However, the 2021 Census indicates that 95.7% of residents are non-Indigenous, and the suburb is predominantly Australian-born, though exact figures for overseas-born residents are not detailed in the provided data.
+
+3) **Working-parent support:** Spotswood Primary School offers Outside School Hours Care (OSHC) provided by **Kelly Club** [citation:Kelly Club – Spotswood Primary School](https://www.spotswoodps.vic.edu.au/outside-school-hours-care/). Before-school care runs from **7:00am to 8:45am**, after-school care from **3:30pm to 6:30pm**, and vacation care from **7:00am to 6:30pm** on weekdays.
+
+4) **School culture:** Spotswood Primary School participates in the **State Schools Spectacular**, a large-scale performance event involving students from across Victoria [citation:Newsletter 17th May 2024](https://www.spotswoodps.vic.edu.au/wp-content/uploads/2024/05/Newsletter-17th-May-2024.pdf). The school also holds **House Sports Day** events, where students compete in inter-house activities [citation:Newsletter 1st August 2025](https://www.spotswoodps.vic.edu.au/wp-content/uploads/2025/08/Newsletter-1st-August-2025.pdf), and organises **inter-school sport** including soccer on the oval [citation:Newsletter 20th September 2024](https://www.spotswoodps.vic.edu.au/wp-content/uploads/2024/09/Newsletter-20th-September-2024.pdf).
+
+5) **Suburb vibe and groceries:** Spotswood has a relaxed, family-friendly feel with local parks and the nearby Scienceworks museum. For groceries, residents can shop at **IGA Friendly Grocer** (34 Hall Street, Newport) or **Woolworths Williamstown** (71 Kororoit Creek Road) [citation:Yellow Pages Supermarkets](https://www.yellowpages.com.au/spotswood-vic-3015/supermarkets-grocery-stores). For specialty ethnic groceries, **India Spice Corner** (7 Borrack Square, Altona North) offers Indian and Asian products.
+
+6) **Weeknight dining:** Casual family-friendly takeaway options in Spotswood include **River House Pizza & Pasta** (608a Melbourne Road, Italian) [citation:Local Business Guide Takeaway](https://www.localbusinessguide.com.au/victoria/spotswood/food-and-dining/take-away-food/), **Sinbads Fish N Chip Shack** (33 Vernier Street, fish and chips), and **Spring Rolling** (Vietnamese cuisine, available for takeaway) [citation:Spotswood Takeaway Restaurants](https://www.tripadvisor.com.au/Restaurants-g4402909-zfp10601-Spotswood_Hobsons_Bay_Greater_Melbourne_Victoria.html).
+
+7) **Tuition and enrichment:** No specific tutoring or enrichment centres in Spotswood were found in the available sources. Nearby options may exist in Yarraville or Williamstown, but no names or providers were identified in the provided search results.
+
+8) **Commute:** Spotswood is served by the **Werribee line** from **Spotswood Station** to Flinders Street Station, with a typical travel time of **approximately 19 minutes** [citation:Rome2Rio Spotswood to Flinders Street](https://www.rome2rio.com/s/Spotswood-VIC-Australia/Flinders-Street-Station). Trains run every 15 minutes on weekdays.
+
+**Sources**
+- [2021 Spotswood QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL22319) - Census data for Spotswood: income, age, family composition.
+- [Kelly Club – Spotswood Primary School](https://www.spotswoodps.vic.edu.au/outside-school-hours-care/) - OSHC provider and hours.
+- [Newsletter 17th May 2024](https://www.spotswoodps.vic.edu.au/wp-content/uploads/2024/05/Newsletter-17th-May-2024.pdf) - Mentions State Schools Spectacular.
+- [Newsletter 1st August 2025](https://www.spotswoodps.vic.edu.au/wp-content/uploads/2025/08/Newsletter-1st-August-2025.pdf) - Mentions House Sports Day.
+- [Newsletter 20th September 2024](https://www.spotswoodps.vic.edu.au/wp-content/uploads/2024/09/Newsletter-20th-September-2024.pdf) - Mentions inter-school soccer.
+- [Yellow Pages Supermarkets](https://www.yellowpages.com.au/spotswood-vic-3015/supermarkets-grocery-stores) - List of grocery stores in and near Spotswood.
+- [Local Business Guide Takeaway](https://www.localbusinessguide.com.au/victoria/spotswood/food-and-dining/take-away-food/) - Takeaway food options in Spotswood.
+- [Spotswood Takeaway Restaurants](https://www.tripadvisor.com.au/Restaurants-g4402909-zfp10601-Spotswood_Hobsons_Bay_Greater_Melbourne_Victoria.html) - Tripadvisor list of takeaway restaurants in Spotswood.
+- [Rome2Rio Spotswood to Flinders Street](https://www.rome2rio.com/s/Spotswood-VIC-Australia/Flinders-Street-Station) - Train travel time and line from Spotswood Station.
