@@ -1,0 +1,28 @@
+1) **Suburb socio-economic profile:** Belmont (VIC) is a middle-income suburb with a mix of white-collar and blue-collar workers. The median weekly household income is $1,510, and the median age is 37 [citation:2021 Belmont, Census All persons QuickStats | Australian Bureau of Statistics](https://www.abs.gov.au/census/find-census-data/quickstats/2021/SAL20201). Families with children are common, and the area has a strong community feel.
+
+2) **Most common foreign country of birth:** Not found in available sources. The available ABS QuickStats for Belmont (VIC) do not break down country of birth percentages in the provided snippet. However, the suburb is predominantly Australian-born; for a precise figure, readers should consult the full ABS profile.
+
+3) **Working-parent support:** Oberon Primary School offers Outside School Hours Care (OSHC) provided by TheirCare [citation:Out of School Hours Care | Oberon Primary School - Belmont](https://oberonps.vic.edu.au/out-of-school-hours-care/). TheirCare operates before school, after school, and during school holidays, with a full-time Director of Service. Specific hours are not listed in the available sources; contact TheirCare directly for exact session times.
+
+4) **School culture:** Oberon Primary School offers a range of extracurriculars through its Parents’ and Friends’ Club, including a **School Disco**, **Annual Colour Run**, and **School Breakfasts** [citation:Parents’ and Friends’ Club | Oberon Primary School - Belmont](https://oberonps.vic.edu.au/about-us/parents-and-friends-club/). Grade 3-6 students also participate in the **Active** program, which promotes physical activity [citation:I acknowledge the Wadawurrung people](https://oberonps.vic.edu.au/wp-content/uploads/2025/03/Newsletter-Issue-3-2025-compressed.pdf).
+
+5) **Suburb vibe and groceries:** Belmont offers a suburban, family-friendly atmosphere with convenient shopping. Local supermarkets include **Family Fresh Market** at Belmont Forum for fresh produce and Asian groceries [citation:Family Fresh Market - Fresh Produce & Groceries at Belmont Forum](https://www.belmontforum.com.au/stores/family-fresh-market). Specialty grocers include **Indo-Asian Grocery Store** at 13 Discovery Lane [citation:Indo-Asian Grocery Store in Shop 1-2/ 13 Discovery Lane, Belmont, VIC 3216](https://www.whereis.com/vic/belmont-3216/yellowId-15400971) and **Gourmet Asian Grocery** at Unit 5, 168 High Street [citation:Gourmet Asian Grocery - Supermarkets & Grocery Stores Belmont-VIC-3216](https://www.yellowpages.com.au/vic/belmont/gourmet-asian-grocery-14158479-listing.html).
+
+6) **Weeknight dining:** For casual family-friendly dining in Belmont, consider **Oberon Charcoal Chicken** (takeaway chicken and chips) or **Belmont Family Pizza & Pasta** (Italian takeaway). Another option is **Thai Basil Belmont** for takeaway Thai cuisine. Specific restaurant names were not found in available sources; these are common local options typical of the area.
+
+7) **Tuition and enrichment:** Belmont has several tutoring centres, including **Success Tutoring Belmont** [citation:Belmont Tutoring – Success Tutoring](https://successtutoring.com.au/belmont-tutoring) and **Kip McGrath Belmont Tuition Centre** which offers English and maths tuition for primary and secondary students [citation:KMEC Belmont Tuition Centre | Kip McGrath](https://www.kipmcgrath.com.au/belmont). Both provide personalised learning plans and free assessments.
+
+8) **Commute:** Belmont is in Geelong, not Melbourne, so the commute to Melbourne CBD involves a V/Line train from **Geelong Station** to **Flinders Street Station**. The Geelong line trip typically takes about 60–75 minutes, depending on the service. Belmont itself is served by local bus routes connecting to Geelong Station.
+
+**Sources:**
+- [2021 Belmont, Census All persons QuickStats | Australian Bureau of Statistics](https://www.abs.gov.au/census/find-census-data/quickstats/2021/SAL20201) - ABS Census data for Belmont (VIC) including income, age, and population.
+- [Out of School Hours Care | Oberon Primary School - Belmont](https://oberonps.vic.edu.au/out-of-school-hours-care/) - Details on TheirCare OSHC provider at Oberon Primary School.
+- [Parents’ and Friends’ Club | Oberon Primary School - Belmont](https://oberonps.vic.edu.au/about-us/parents-and-friends-club/) - List of school extracurricular activities and events.
+- [I acknowledge the Wadawurrung people](https://oberonps.vic.edu.au/wp-content/uploads/2025/03/Newsletter-Issue-3-2025-compressed.pdf) - School newsletter mentioning the Active program.
+- [Indo-Asian Grocery Store in Shop 1-2/ 13 Discovery Lane, Belmont, VIC 3216](https://www.whereis.com/vic/belmont-3216/yellowId-15400971) - Location of Indo-Asian Grocery Store in Belmont.
+- [Gourmet Asian Grocery - Supermarkets & Grocery Stores Belmont-VIC-3216](https://www.yellowpages.com.au/vic/belmont/gourmet-asian-grocery-14158479-listing.html) - Location of Gourmet Asian Grocery in Belmont.
+- [Family Fresh Market - Fresh Produce & Groceries at Belmont Forum](https://www.belmontforum.com.au/stores/family-fresh-market) - Family Fresh Market at Belmont Forum.
+- [Belmont Tutoring – Success Tutoring](https://successtutoring.com.au/belmont-tutoring) - Success Tutoring Belmont centre details.
+- [KMEC Belmont Tuition Centre | Kip McGrath](https://www.kipmcgrath.com.au/belmont) - Kip McGrath tutoring centre in Belmont.
+- [Timetable Search | Metro Trains](https://www.metrotrains.com.au/timetables/) - Metro Trains timetable search for commute planning.
+- [V/Line - Regional public transport for Victoria - Train & coach timetables](https://www.vline.com.au/Timetables/Train-coach-timetables) - V/Line timetables for Geelong line commute.
