@@ -1,0 +1,39 @@
+1) **Suburb socio-economic profile:**
+Geelong West is a relatively affluent, middle-income suburb with a mix of white-collar and blue-collar workers. The median weekly household income is $1,797, notably higher than the Greater Geelong average of $1,658 [citation:2021 Geelong West QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL20974). The median age is 36, younger than the Geelong region’s median of 40, indicating a family-oriented population; about 22.7% of households have children [citation:2021 Geelong West QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL20974); [citation:2021 Geelong QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2021/203).
+
+2) **Most common foreign country of birth:**
+Geelong West is predominantly Australian-born, with 77.6% of residents born in Australia [citation:REMPLAN Greater Geelong](https://app.remplan.com.au/greater-geelong/community/population/birthplace?locality=geelong-west). For the overseas-born population, the most common country of birth in Greater Geelong is England at 3.2%, followed by India at 1.9% [citation:REMPLAN Greater Geelong](https://app.remplan.com.au/greater-geelong/community/population/birthplace?locality=geelong-west). Specific Geelong West figures for other countries are not available in the provided sources.
+
+3) **Working-parent support:**
+Outside School Hours Care (OSHC) is available on-site at Ashby Primary School, provided by Kelly Club OSHC Ashby Primary School [citation:Kelly Club OSHC Ashby Primary School](https://www.careforkids.com.au/child-care/n1z16/geelong-west-ashby-primary-school-after-school-care-activities-program-3218). While specific hours for this service are not listed in available sources, the centre offers both before and after school care [citation:Kelly Club OSHC Ashby Primary School](https://www.acecqa.gov.au/resources/national-registers/services/kelly-club-oshc-ashby-primary-school). Families are advised to contact the school directly for precise operating hours and fees.
+
+4) **School culture:**
+Ashby Primary School runs specialist programs in five areas, including Indonesian, STEM, Visual Arts, Performing Arts, and Physical Education [citation:Student Life - Ashby Primary School](https://www.ashbyps.vic.edu.au/student-life/). Students can also participate in instrumental music lessons through a teaching contractor that visits the school [citation:Student Life - Ashby Primary School](https://www.ashbyps.vic.edu.au/student-life/). The school has a dedicated parent group called Friends of Ashby, which supports fundraising and community events [citation:Student Life - Ashby Primary School](https://www.ashbyps.vic.edu.au/student-life/).
+
+5) **Suburb vibe and groceries:**
+Geelong West has a village feel centred on Pakington Street, offering cafes, boutiques, and a strong sense of community. Local grocery options include Geelong Fresh Foods at 171 Pakington Street for everyday produce and speciality items [citation:Geelong Fresh Foods](https://www.localsearch.com.au/find/supermarkets-grocery-stores/geelong-vic). For Asian or Indian groceries, Indo-Asian Grocery is located in Belmont near Coles, and an Indian grocery store is at 64 Elizabeth Street in Geelong West [citation:Indian Grocery Stores in Geelong](https://singh.com.au/indian-grocery-stores-in-geelong-victoria/); [citation:Indo-Asian Grocery Geelong](https://singh.com.au/indo-asian-grocery-geelong/).
+
+6) **Weeknight dining:**
+Geelong West offers several family-friendly takeaway and dining options. For pizza, try Enzo's On Pako, which serves pizza and takeaway on Pakington Street [citation:Enzo's On Pako](https://www.agfg.com.au/restaurants/geelong-bellarine-peninsula/geelong-west/takeaway-category). For Thai cuisine, Panny Thai is a popular casual restaurant in the Pakington Street precinct [citation:Panny Thai](https://www.geelongrestaurants.com.au/west/). For pub-style meals, the Telegraph Hotel on Pakington Street offers modern Australian food and takeaway options [citation:Telegraph Hotel](https://www.agfg.com.au/restaurants/geelong-bellarine-peninsula/geelong-west/takeaway-category).
+
+7) **Tuition and enrichment:**
+For tutoring, Kip McGrath Geelong is located at 2/396 Latrobe Terrace in nearby Newtown, offering English and maths support for primary and secondary students [citation:Kip McGrath Geelong](https://www.kipmcgrath.com.au/geelong). For general maths and English enrichment, iCode School provides tutoring in Geelong West, including small group and one-on-one sessions [citation:iCode School Geelong West](https://icodeschool.com.au/maths-english-tutoring-geelong-west/).
+
+8) **Commute:**
+Geelong West is served by the Geelong railway station, which is on the V/Line Geelong line. Trains from Geelong station to Melbourne's Southern Cross Station run frequently, with the total travel time to Flinders Street Station averaging approximately 1 hour 16 minutes, including a transfer at Southern Cross [citation:Rome2Rio Train Geelong to Flinders Street](https://www.rome2rio.com/Train/Geelong/Flinders-Street-Station). The station is a short drive or bus ride from the Ashby Primary School area, with bus routes connecting the suburb.
+
+**Sources:**
+- [2021 Geelong West QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL20974) - ABS demographic data for Geelong West including income, age, and country of birth.
+- [2021 Geelong QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2021/203) - ABS demographic data for the Geelong region used for comparison.
+- [REMPLAN Greater Geelong](https://app.remplan.com.au/greater-geelong/community/population/birthplace?locality=geelong-west) - Birthplace demographics for Geelong West and Greater Geelong.
+- [Kelly Club OSHC Ashby Primary School](https://www.careforkids.com.au/child-care/n1z16/geelong-west-ashby-primary-school-after-school-care-activities-program-3218) - OSHC provider listing with contact details and service type.
+- [Kelly Club OSHC Ashby Primary School ACECQA](https://www.acecqa.gov.au/resources/national-registers/services/kelly-club-oshc-ashby-primary-school) - Regulatory registration for the OSHC service.
+- [Student Life - Ashby Primary School](https://www.ashbyps.vic.edu.au/student-life/) - School website detailing extracurricular activities, specialist programs, and parent groups.
+- [Geelong Fresh Foods](https://www.localsearch.com.au/find/supermarkets-grocery-stores/geelong-vic) - Local grocery listing in Geelong West.
+- [Indian Grocery Stores in Geelong](https://singh.com.au/indian-grocery-stores-in-geelong-victoria/) - List of Indian grocery stores in Geelong and Geelong West.
+- [Indo-Asian Grocery Geelong](https://singh.com.au/indo-asian-grocery-geelong/) - Details on Indo-Asian Grocery in Belmont.
+- [Geelong West Restaurants Guide](https://www.geelongrestaurants.com.au/west/) - Restaurant listings in Geelong West including Panny Thai.
+- [AGFG Geelong West Restaurants with Takeaway](https://www.agfg.com.au/restaurants/geelong-bellarine-peninsula/geelong-west/takeaway-category) - List of takeaway restaurants, including Enzo's On Pako and Telegraph Hotel.
+- [Kip McGrath Geelong](https://www.kipmcgrath.com.au/geelong) - Tutoring centre details for English and maths in Newtown.
+- [iCode School Geelong West](https://icodeschool.com.au/maths-english-tutoring-geelong-west/) - Maths and English tutoring services in Geelong West.
+- [Rome2Rio Train Geelong to Flinders Street](https://www.rome2rio.com/Train/Geelong/Flinders-Street-Station) - Estimated train travel time from Geelong to Melbourne CBD.
