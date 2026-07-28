@@ -1,0 +1,36 @@
+1) **Suburb socio-economic profile**  
+Wheelers Hill is an affluent, family-oriented suburb with a median weekly household income of $1,818 (well above the national median of $1,746) and a median age of 48, indicating an older demographic [citation:2021 Wheelers Hill, Census All persons QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL22766). The suburb has 5,934 families and an average of 0.8 children per household; the population is 20,652, with a high proportion of owner-occupiers and a low unemployment rate [citation:Wheelers Hill, VIC 3150 - Suburb Profile](https://www.inthesuburbs.com.au/suburb/wheeler-hill-vic-3150.html). While specific white-collar/blue-collar breakdown is not provided, the income and housing data point to a predominantly professional, middle-to-upper-income community.
+
+2) **Most common foreign country of birth**  
+The available sources do not explicitly list the single most common overseas country of birth for Wheelers Hill. However, the 2016 Census shows that 59.0% of residents had both parents born overseas and only 27.6% had both parents born in Australia, reflecting a highly multicultural population [citation:2016 Wheelers Hill, Census All persons QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2016/SSC22752). For the most recent data, the 2021 QuickStats page is available but does not display the country-of-birth table in the provided extract.
+
+3) **Working-parent support**  
+Jells Park Primary School’s Out of School Hours Care (OSHC) is provided by **TeamKids**, operating from the school grounds at 17-33 Petronella Avenue. Morning care runs from **7:00 am to 9:00 am**; afternoon care hours (typically until 6:00 pm) are not specified in the available sources [citation:TeamKids - Jells Park Primary - Wheelers Hill 3150](https://kindicare.com/childcare/centres/Australia/VIC/3150/wheelers-hill/teamkids-jells-park-primary). The program also offers holiday care and pupil-free day care, with an emphasis on active play and school-facility use.
+
+4) **School culture**  
+Jells Park Primary School offers a strong extracurricular program that includes **JP Racing** (Level 6 Energy Breakthrough Challenge – designing and racing a human-powered vehicle), **Wakakirri** (a biennial school story-dance event performed in professional theatres), and the **Victorian State School Spectacular** (choir and dance troupe for Levels 3–4, culminating at John Cain Arena) [citation:Extra Curricular — Jells Park Primary School](https://www.jpps.vic.edu.au/extra-curricular). The school also runs lunch-time clubs, inter-school sport, and a Maths Talent Quest, all free of charge and overseen by teachers.
+
+5) **Suburb vibe and groceries**  
+Wheelers Hill is a quiet, leafy suburb centred around Jells Park (with walking trails, playgrounds, and a lake) and the Wheelers Hill Hotel. For groceries, residents can shop at mainstream stores like Woolworths or visit **Astee Asian Grocery** at Brandon Park Shopping Centre, which offers a wide range of fresh produce, frozen foods, sauces, and spices [citation:Astee Asian Grocer, Wheelers Hill - Reviews - Word of Mouth](https://www.wordofmouth.com.au/reviews/astee-asian-grocer). Additional international grocers, such as Chinese supermarkets, are also available in the area.
+
+6) **Weeknight dining**  
+Family-friendly dining in Wheelers Hill includes the **Wheelers Hill Hotel** (pub fare with a kids’ playground and views of the Dandenongs) [citation:Wheelers Hill Hotel, Wheelers Hill, VIC](https://www.wheelershillhotel.com.au/), **Mulgrave Country Club** (pizza, bar meals, and a relaxed atmosphere) [citation:THE 10 BEST Restaurants in Wheelers Hill (Updated June 2026)](https://www.tripadvisor.com.au/Restaurants-g2686202-Wheelers_Hill_Monash_Greater_Melbourne_Victoria.html), and **Il Desiderio** (Italian cuisine, pastas, and pizza, also well-rated for takeaway). These venues offer casual dine-in or takeaway options suitable for families.
+
+7) **Tuition and enrichment**  
+**Success Tutoring** in Wheelers Hill provides in-centre tutoring for primary and secondary students, focusing on English, maths, and study skills with 24/7 online resource access [citation:Wheelers Hill – Success Tutoring](https://successtutoring.com.au/tutoring-wheelers-hill). Another option is **Math Minds Learning Centre**, which offers maths tutoring tailored to the Victorian curriculum, with a focus on conceptual understanding for primary and secondary levels [citation:Maths Tutoring Wheelers Hill — Math💡Minds • Learning Centre](https://mathminds.com.au/maths-tutor-wheelers-hill/). Both are located within or near Wheelers Hill.
+
+8) **Commute**  
+Wheelers Hill does not have its own train station. The nearest station is **Glen Waverley** on the **Glen Waverley line**. According to Rome2Rio, the train journey from Flinders Street Station to Glen Waverley Station takes approximately **1 hour 3 minutes** [citation:Flinders Street Station to Wheelers Hill - 6 ways to travel](https://www.rome2rio.com/s/Flinders-Street-Station/Wheelers-Hill). Alternatively, bus route 693 from Oakleigh Station or route 754 from Glen Waverley Station can be used to reach Wheelers Hill, adding extra travel time.
+
+**Sources**  
+- [2021 Wheelers Hill, Census All persons QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL22766) – Median income, age, and demographic data for Wheelers Hill.  
+- [Wheelers Hill, VIC 3150 - Suburb Profile](https://www.inthesuburbs.com.au/suburb/wheeler-hill-vic-3150.html) – Median income, population, rent, and census summary.  
+- [2016 Wheelers Hill, Census All persons QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2016/SSC22752) – Country of birth and parentage statistics.  
+- [TeamKids - Jells Park Primary - Wheelers Hill 3150](https://kindicare.com/childcare/centres/Australia/VIC/3150/wheelers-hill/teamkids-jells-park-primary) – OSHC provider and morning hours at Jells Park Primary.  
+- [Extra Curricular — Jells Park Primary School](https://www.jpps.vic.edu.au/extra-curricular) – JP Racing, Wakakirri, State School Spectacular, and other activities.  
+- [Astee Asian Grocer, Wheelers Hill - Reviews](https://www.wordofmouth.com.au/reviews/astee-asian-grocer) – Asian grocery store at Brandon Park.  
+- [Wheelers Hill Hotel, Wheelers Hill, VIC](https://www.wheelershillhotel.com.au/) – Family bistro with playground.  
+- [THE 10 BEST Restaurants in Wheelers Hill (Updated June 2026)](https://www.tripadvisor.com.au/Restaurants-g2686202-Wheelers_Hill_Monash_Greater_Melbourne_Victoria.html) – List of local restaurants including Mulgrave Country Club and Il Desiderio.  
+- [Wheelers Hill – Success Tutoring](https://successtutoring.com.au/tutoring-wheelers-hill) – Tutoring centre in Wheelers Hill.  
+- [Maths Tutoring Wheelers Hill — Math Minds Learning Centre](https://mathminds.com.au/maths-tutor-wheelers-hill/) – Maths tutoring centre.  
+- [Flinders Street Station to Wheelers Hill - 6 ways to travel](https://www.rome2rio.com/s/Flinders-Street-Station/Wheeler-hill) – Train and bus travel times to Wheelers Hill.
