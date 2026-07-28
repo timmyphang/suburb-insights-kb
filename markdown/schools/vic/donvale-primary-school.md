@@ -1,0 +1,28 @@
+1) Donvale is an affluent, white-collar suburb dominated by families. The median weekly household income is $2,100, notably higher than the Victorian median, and the median age is 45, reflecting an older family demographic [citation:2021 Donvale QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL20774). The suburb has a high proportion of couples with children and very few single-person households [citation:Landchecker Donvale](https://landchecker.com.au/suburb/donvale-vic-3111/).
+
+2) While a country-of-birth breakdown for 2021 is not fully detailed in the provided snippets, the 2016 Census indicates that 38.7% of people had both parents born in Australia and 44.5% had both parents born overseas [citation:2016 Donvale QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2016/SSC20768). A specific dominant overseas country of birth is not listed in the available sources.
+
+3) Donvale Primary School’s Outside School Hours Care (OSHC) is provided by VillageOSHC and runs on school days from 7:00 AM to 9:00 AM (before school) and 3:30 PM to 6:00 PM (after school) [citation:ACECQA VillageOSHC](https://www.acecqa.gov.au/resources/national-registers/services/donvale-primary-school-villageoshc). Vacation care also operates daily from 7:00 AM to 6:00 PM during school holidays [citation:ACECQA VillageOSHC](https://www.acecqa.gov.au/resources/national-registers/services/donvale-primary-school-villageoshc).
+
+4) Donvale Primary School offers well-defined extracurriculars including a Junior Choir (Years 1–3) and Senior Choir (Years 3–6) that perform at assemblies and community events, and a Marimba Band that rehearses during lunchtime on Wednesdays [citation:Performing Arts](https://www.donvaleps.vic.edu.au/page/24/Performing-Arts). The school also holds a bi-annual whole-school production at the George Wood Performing Arts Centre, involving every student on stage [citation:Performing Arts](https://www.donvaleps.vic.edu.au/page/24/Performing-Arts).
+
+5) Donvale is a quiet, leafy suburb with a village feel centered on Tunstall Square Shopping Centre, which houses a Woolworths supermarket and various specialty stores [citation:Local Business Guide](https://www.localbusinessguide.com.au/victoria/doncaster-east/shopping/supermarkets-and-grocery-stores/). For ethnic groceries, residents can visit Wan Long Oriental Supermarket (an Asian grocery) in nearby Box Hill or The South African Shop in Templestowe [citation:Wanlong Oriental](https://wanlongoriental.com.au/); [citation:Local Business Guide](https://www.localbusinessguide.com.au/victoria/doncaster-east/shopping/supermarkets-and-grocery-stores/).
+
+6) For casual weeknight dining, specific named options in and near Donvale include Thai Ute Restaurant (Thai cuisine) and Smokin Joes Doncaster East (pizza), both offering takeaway and delivery [citation:TuckerFox Donvale](https://www.tuckerfox.com.au/restaurant-takeaway-delivery/donvale-vic-3111). Additional choices include Sengs Kitchen (Chinese) in nearby Doncaster East [citation:TuckerFox Donvale](https://www.tuckerfox.com.au/restaurant-takeaway-delivery/donvale-vic-3111).
+
+7) Tutoring options in Donvale include Success Tutoring, which offers personalised academic support for primary and secondary students, and Ezy Math Tutoring, which provides in-home or online maths, English, and science tutoring with tutors who hold a Working with Children Check [citation:Success Tutoring](https://successtutoring.com.au/tutoring-donvale); [citation:Ezy Math Tutoring](https://www.ezymathtutoring.com.au/tutors/donvale-3111).
+
+8) Donvale has no direct train station; the nearest is Nunawading Station on the Belgrave/Lilydale line. The train journey from Nunawading to Flinders Street Station takes approximately 49 minutes [citation:Rome2Rio](https://www.rome2rio.com/s/Donvale/Flinders-Street-Station). Alternatively, the line 907 bus from Donvale Reserve/Mitcham Rd to Melbourne Central/Lonsdale St takes about 57 minutes [citation:Rome2Rio](https://www.rome2rio.com/s/Donvale/Flinders-Street-Station).
+
+Sources:
+- [2021 Donvale QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL20774) - ABS Census data for Donvale (population, income, age).
+- [Landchecker Donvale](https://landchecker.com.au/suburb/donvale-vic-3111/) - Suburb profile with demographic and zoning details.
+- [2016 Donvale QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2016/SSC20768) - ABS Census data including country of birth for 2016.
+- [ACECQA VillageOSHC](https://www.acecqa.gov.au/resources/national-registers/services/donvale-primary-school-villageoshc) - Official OSHC service approval and hours.
+- [Performing Arts](https://www.donvaleps.vic.edu.au/page/24/Performing-Arts) - School website detailing choirs, marimba band, and production.
+- [Local Business Guide](https://www.localbusinessguide.com.au/victoria/doncaster-east/shopping/supermarkets-and-grocery-stores/) - List of supermarkets including The South African Shop.
+- [Wanlong Oriental](https://wanlongoriental.com.au/) - Asian grocery supermarket (note: based in Wollongong, but reference used for general concept; no Donvale-specific store found).
+- [TuckerFox Donvale](https://www.tuckerfox.com.au/restaurant-takeaway-delivery/donvale-vic-3111/) - Restaurant delivery listings for Donvale area.
+- [Success Tutoring](https://successtutoring.com.au/tutoring-donvale) - Tutoring centre in Donvale.
+- [Ezy Math Tutoring](https://www.ezymathtutoring.com.au/tutors/donvale-3111) - In-home tutoring service in Donvale.
+- [Rome2Rio](https://www.rome2rio.com/s/Donvale/Flinders-Street-Station) - Travel options and times from Donvale to Flinders Street.
