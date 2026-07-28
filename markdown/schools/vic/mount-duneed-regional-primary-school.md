@@ -1,0 +1,38 @@
+1) **Suburb socio-economic profile**
+Mount Duneed is a fast-growing, middle-income suburban area with a median age of just 32, heavily skewed toward young families and first-home buyers [citation:InTheSuburbs](https://www.inthesuburbs.com.au/suburb/mount-duneed-vic-3217.html). The median weekly household income is $2,274 (approximately $118,248 annually), and the average household size is 2.8 persons, reflecting a family-oriented population [citation:2021 QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL21790). The workforce is predominantly white-collar, with the area’s growth driven by new housing estates and proximity to Geelong’s employment centres [citation:InTheSuburbs](https://www.inthesuburbs.com.au/suburb/mount-duneed-vic-3217.html).
+
+2) **Most common foreign country of birth**
+Mount Duneed is overwhelmingly Australian-born: 87.0% of residents were born in Australia according to the 2011 Census, with the top overseas country of birth being England at 3.3% [citation:2011 QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2011/SSC20937). More recent 2021 Census data confirm that English remains the most common foreign birthplace, though exact updated percentages for Mount Duneed specifically were not found in the available sources [citation:2021 QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL21790).
+
+3) **Working-parent support**
+Outside School Hours Care (OSHC) at Mount Duneed Regional Primary School is provided by **TheirCare**, which operates before and after school care on-site [citation:Outside School Hours Care](https://www.mtduneedregps.vic.edu.au/community/outside-school-hours-care/). Specific operating hours (e.g., 7:00 AM–6:00 PM) were not stated in the available material; families are directed to contact TheirCare directly on 1300 072 410 or visit their website [citation:Outside School Hours Care](https://www.mtduneedregps.vic.edu.au/community/outside-school-hours-care/). The school also lists a second OSHC provider, Big Childcare – Mirripoa PS OSHC, located at 80 Unity Drive in the same suburb [citation:Toddle](https://toddle.com.au/oshc/vic/mount-duneed).
+
+4) **School culture**
+Mount Duneed Regional Primary School offers a **senior choir** that performs at the school concert and the nationwide ‘Music Count Us In’ initiative [citation:The Arts](https://www.mtduneedregps.vic.edu.au/learning/the-arts/). Students can also participate in **lunchtime clubs** and a **swimming program** [citation:Extra Curricular](https://www.mtduneedregps.vic.edu.au/learning/extra-curricular/). Additionally, the school hosts individual and group music lessons provided by two external companies: **Music Bus** and **Oxygen Tuition** [citation:Extra Curricular](https://www.mtduneedregps.vic.edu.au/learning/extra-curricular/).
+
+5) **Suburb vibe and groceries**
+Mount Duneed is a developing family-oriented suburb with emerging retail precincts, parks, and easy access to Geelong’s amenities via the Geelong Ring Road [citation:InTheSuburbs](https://www.inthesuburbs.com.au/suburb/mount-duneed-vic-3217.html). For groceries, residents rely on nearby supermarkets such as **Champions IGA Plus Liquor Grovedale** (15-17 Grovedale Square Shopping Centre) and **Woolworths Grovedale** (173-199 Pioneer Road) [citation:Yellow Pages](https://www.yellowpages.com.au/mt-duneed-vic-3217/supermarkets-grocery-stores). Specialty ethnic grocers in the area include **Best Indian Grocery Store** (Shop 5, 63 Thomson Street, Belmont) and **Gourmet Asian Grocery** (Unit 5, 168 High Street, Belmont) [citation:Yellow Pages](https://www.yellowpages.com.au/mt-duneed-vic-3217/supermarkets-grocery-stores).
+
+6) **Weeknight dining**
+Casual family-friendly dining options in and near Mount Duneed include **Smokin Joe's Pizza & Grill** (Shop 24/500-540 Torquay Road, Armstrong Creek) offering American-style pizzas and grilled meats [citation:Localsearch](https://www.localsearch.com.au/find/takeaway-food/mount-duneed-vic-3217), **The Slippery Mackerel** (33 Central Bvd, Armstrong Creek) serving traditional fish and chips with takeaway and dine-in [citation:Localsearch](https://www.localsearch.com.au/find/takeaway-food/mount-duneed-vic-3217), and **Amalfi Pizza** providing pizza and pasta delivery in Mount Duneed [citation:Amalfi Pizza](https://amalfipizza.com.au/mountduneed/).
+
+7) **Tuition and enrichment**
+In the immediate Mount Duneed area, tutoring options include **Ezy Math Tutoring**, which provides in-home maths and English tutoring with a qualified primary teacher and other screened tutors [citation:Ezy Math Tutoring](https://www.ezymathtutoring.com.au/tutors/mount-duneed-3217). For a centre-based option, **Kip McGrath Education Centres** operates a location at Shop 5, 155 High Street, Belmont (approximately 10 minutes’ drive from Mount Duneed), offering after-school tutoring in English and maths [citation:Whereis](https://www.whereis.com/mount-duneed-vic-3217/tuition-tutoring).
+
+8) **Commute**
+The closest train station to Mount Duneed is **Waurn Ponds Station** on the **Geelong V/Line** line, a 5–10 minute drive from the suburb [citation:Reddit](https://www.reddit.com/r/Geelong/comments/18sqxvr/commute_from_mount_duneed_to_melbourne/). The typical train journey from Waurn Ponds to **Southern Cross Station** (Melbourne CBD) takes approximately 1 hour and 15 minutes [citation:Reddit](https://www.reddit.com/r/Geelong/comments/18sqxvr/commute_from_mount_duneed_to_melbourne/). No bus or tram route replacing the train was noted in available sources.
+
+**Sources**
+- [InTheSuburbs](https://www.inthesuburbs.com.au/suburb/mount-duneed-vic-3217.html) – Suburb profile with population, income, age, and growth data.
+- [2021 QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL21790) – ABS 2021 Census data for Mount Duneed (demographics, income, household size).
+- [2011 QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2011/SSC20937) – ABS 2011 Census data for Mount Duneed (country of birth, language).
+- [Outside School Hours Care](https://www.mtduneedregps.vic.edu.au/community/outside-school-hours-care/) – School’s OSHC page mentioning TheirCare provider and contact details.
+- [Toddle](https://toddle.com.au/oshc/vic/mount-duneed) – OSHC centre listings for Mount Duneed (Big Childcare, TheirCare).
+- [The Arts](https://www.mtduneedregps.vic.edu.au/learning/the-arts/) – School arts program details (senior choir, Music Count Us In).
+- [Extra Curricular](https://www.mtduneedregps.vic.edu.au/learning/extra-curricular/) – School extracurriculars (lunchtime clubs, swimming program, music lessons).
+- [Yellow Pages](https://www.yellowpages.com.au/mt-duneed-vic-3217/supermarkets-grocery-stores) – List of supermarkets and ethnic grocers in/near Mount Duneed.
+- [Localsearch](https://www.localsearch.com.au/find/takeaway-food/mount-duneed-vic-3217) – Takeaway restaurants in Mount Duneed and Armstrong Creek.
+- [Amalfi Pizza](https://amalfipizza.com.au/mountduneed/) – Pizza delivery option in Mount Duneed.
+- [Ezy Math Tutoring](https://www.ezymathtutoring.com.au/tutors/mount-duneed-3217) – Maths tutoring availability in Mount Duneed.
+- [Whereis](https://www.whereis.com/mount-duneed-vic-3217/tuition-tutoring) – Tutoring centre listings (Kip McGrath Belmont).
+- [Reddit](https://www.reddit.com/r/Geelong/comments/18sqxvr/commute_from_mount_duneed_to_melbourne/) – Commute information (Waurn Ponds station, 1h15min to Southern Cross).
