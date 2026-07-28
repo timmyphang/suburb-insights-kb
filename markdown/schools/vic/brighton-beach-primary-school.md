@@ -1,0 +1,29 @@
+1) **Suburb socio-economic profile:** Brighton is an affluent, white-collar suburb with a median weekly household income of $2,710, well above the national median [citation:2021 Brighton (Vic.), Census All persons QuickStats]. The median age is 48, notably older than the national median of 38, and families make up 6,406 of the 23,252 residents [citation:2021 Brighton (Vic.), Census All persons QuickStats]. The suburb has a high proportion of professionals and managers, reflecting its high socio-economic advantage.
+
+2) **Most common foreign country of birth:** In 2021, the most common overseas country of birth in Brighton was China, with 5.1% of residents born there [citation:2021 Brighton (Vic.), Census All persons QuickStats]. Australia-born residents account for 73.8% of the population, making the suburb predominantly Australian-born [citation:2021 Brighton (Vic.), Census All persons QuickStats].
+
+3) **Working-parent support:** Brighton Beach Primary School offers Outside School Hours Care (OSHC) provided by Camp Australia [citation:BEFORE & AFTER SCHOOL CARE | Australia | Brighton Beach Primary School]. The service runs before school from 7:00 am to 8:30 am and after school from 3:10 pm to 6:30 pm, as confirmed on the school's website [citation:BEFORE & AFTER SCHOOL CARE | Australia | Brighton Beach Primary School].
+
+4) **School culture:** Brighton Beach Primary School offers a range of named extracurriculars including a Choir, a Rock band, and a Band/Orchestra program [citation:PERFORMING ARTS | Australia | Brighton Beach Primary School]. Students can also join a Dance group, a Recorder ensemble, or a Ukulele club [citation:PERFORMING ARTS | Australia | Brighton Beach Primary School]. Additionally, the school runs a Running club twice a week in warmer months [citation:PE & SPORTS | Australia | Brighton Beach Primary School].
+
+5) **Suburb vibe and groceries:** Brighton has a village-like feel with family-friendly amenities including parks, a beach, and the bustling Bay Street shopping strip. For groceries, Brighton Asian Grocery (341 Bay Street) offers Asian ingredients, while Fresh Connection (a local Brighton grocer) supplies fresh produce and Australian food online with delivery [citation:Brighton Asian Grocery][citation:Brighton Grocery Store — Fresh Connection]. Other supermarkets like Coles and Woolworths are also present in the area.
+
+6) **Weeknight dining:** For casual family dining, Siriphen Thai (Bay Street) offers dine-in and takeaway Thai cuisine [citation:Siriphen Thai Restaurant]. Indian Palace Restaurant provides reliable Indian dishes for takeaway or dine-in [citation:THE 10 BEST Takeaway Restaurants in Brighton]. Brighton Seafoods (Bay Street) serves fresh fish and chips, a classic family-friendly takeaway option [citation:Restaurants in Brighton,VIC With Takeaway | AGFG].
+
+7) **Tuition and enrichment:** Bayside Academics in Brighton offers face-to-face and online 1-on-1 tutoring for Prep to Year 12 students across all subjects, aligned with the VCAA curriculum [citation:Bayside Academics - Premium Tutoring in Brighton, VIC]. Team Tutor Melbourne, located in nearby Moorabbin, provides tutoring for primary through adult learners, including VCE subjects [citation:Tutoring | Brighton Secondary College].
+
+8) **Commute:** Brighton is served by the Sandringham line, with North Brighton Station being the closest station to the school [citation:North Brighton to Flinders Street Station - 6 ways to travel]. The train from North Brighton Station to Flinders Street Station takes approximately 21 minutes and runs every 20 minutes [citation:North Brighton to Flinders Street Station - 6 ways to travel].
+
+Sources:
+- [2021 Brighton (Vic.), Census All persons QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL20337) - ABS census data for demographics, income, age, and country of birth.
+- [BEFORE & AFTER SCHOOL CARE | Australia | Brighton Beach Primary School](https://www.brightonbeachps.vic.edu.au/before-after-school-care) - OSHC provider and hours at the school.
+- [PERFORMING ARTS | Australia | Brighton Beach Primary School](https://www.brightonbeachps.vic.edu.au/performing-arts) - List of performing arts extracurriculars at the school.
+- [PE & SPORTS | Australia | Brighton Beach Primary School](https://www.brightonbeachps.vic.edu.au/pe-sports) - Details on sports programs including Running club.
+- [Brighton Asian Grocery](https://www.instagram.com/brighton.asiangrocery/?hl=en) - Instagram page for a local Asian grocery store.
+- [Brighton Grocery Store — Fresh Connection](https://www.freshconnection.com.au/pages/brighton-grocery-store) - Local grocery delivery service in Brighton.
+- [Siriphen Thai Restaurant](https://www.siriphenthai.com.au/) - Thai restaurant offering takeaway and dine-in.
+- [THE 10 BEST Takeaway Restaurants in Brighton](https://www.tripadvisor.com.au/Restaurants-g954016-zfp10601-Brighton_Bayside_Greater_Melbourne_Victoria.html) - TripAdvisor list including Indian Palace and other takeaway options.
+- [Restaurants in Brighton,VIC With Takeaway | AGFG](https://www.agfg.com.au/restaurants/melbourne/brighton/takeaway-category) - AGFG list including Brighton Seafoods.
+- [Bayside Academics - Premium Tutoring in Brighton, VIC](https://baysideacademics.com.au/) - Tutoring centre in Brighton.
+- [Tutoring | Brighton Secondary College](https://brightonsc.vic.edu.au/project_category/tutoring/) - Page listing Team Tutor Melbourne as a tutoring provider.
+- [North Brighton to Flinders Street Station - 6 ways to travel](https://www.rome2rio.com/s/North-Brighton-VIC-Australia/Flinders-Street-Station) - Train line, station, and travel time from North Brighton to Flinders Street.
