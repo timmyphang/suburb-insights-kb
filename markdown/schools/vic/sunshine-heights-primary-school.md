@@ -1,0 +1,27 @@
+1) **Suburb socio-economic profile**: Sunshine is a middle-income, working-class suburb with a mix of families and singles. According to 2021 Census data, the median weekly household income is $1,566 and the median age is 35, indicating a relatively young population [citation:2021 Sunshine (Vic.), Census All persons QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL22395). The area has a high proportion of blue-collar and service industry workers, with many residents employed in manufacturing, transport, and healthcare.
+
+2) **Most common foreign country of birth**: The most common overseas country of birth for Sunshine residents is not explicitly listed in the available sources. However, the suburb has a notably high proportion of residents born in non-English-speaking countries, with a substantial Vietnamese-born community often reported in other profiles. For the specific percentage, data from the 2021 Census QuickStats for Sunshine (Vic.) does not include country-of-birth details in the provided excerpts.
+
+3) **Working-parent support**: Outside School Hours Care (OSHC) at Sunshine Heights Primary School is provided by TeamKids. The program operates from 6:45 am to 8:45 am for before-school care and from 3:15 pm to 6:30 pm for after-school care on school days [citation:Parent Information | SHPS](https://www.sunshineheightsps.vic.edu.au/parent-information-1). Vacation care is also available through TeamKids.
+
+4) **School culture**: Sunshine Heights Primary School offers several named extracurricular activities. The Performing Arts program includes a Talent Show, an Australian Ballet partnership, and an end-of-year Festive Concert [citation:Performing Arts | SHPS](https://www.sunshineheightsps.vic.edu.au/performing-arts). In physical education, students in Years 4–6 participate in a senior athletics carnival, while Prep–Year 3 enjoy a sports fun day [citation:Community | SHPS](https://www.sunshineheightsps.vic.edu.au/community). These activities complement a strong STEM and Spanish program.
+
+5) **Suburb vibe and groceries**: Sunshine has a lively, multicultural atmosphere with a range of ethnic grocers. Tai Phat Asian Grocery at 286b Hampshire Road offers fresh exotic fruits, vegetables, and Asian groceries [citation:Tai Phat Asian Grocery](https://www.sunshinebusiness.com.au/business_listing/tai-phat-asian-grocery/). Sunshine Supermarket (Thuan Hung) at the same business location provides authentic Asian products including an in-house butcher [citation:Sunshine Supermarket (Thuan Hung)](https://www.sunshinebusiness.com.au/business_listing/sunshine-supermarket/). Mainstream supermarkets like Coles and Woolworths are also nearby.
+
+6) **Weeknight dining**: Specific family-friendly restaurants in Sunshine are not listed in the provided search results. However, the area has numerous takeaway options, including pizza, fish and chips, and Asian cuisine from local eateries. For concrete recommendations, families may consult local directories or the suburb’s business association.
+
+7) **Tuition and enrichment**: ABC to VCE operates a learning centre in Sunshine, offering tutoring for primary and secondary students [citation:Tutor Sunshine | ABC to VCE](https://www.abctovce.com.au/tutors-sunshine/). Emu Education also provides tutoring near Sunshine, specialising in VCE Maths, English, and Sciences [citation:Tutor Sunshine | Emu Education](https://www.emueducation.com.au/tutor-sunshine/). These centres supplement the school’s academic program.
+
+8) **Commute**: Sunshine Station is served by the Sunbury train line, with direct Metro Trains to Flinders Street Station. The typical travel time is 24 minutes one way [citation:Sunshine Station to Flinders Street Station](https://www.rome2rio.com/s/Sunshine-Station/Flinders-Street-Station). Trains run every 15–20 minutes during peak times [citation:Sunshine | Metro Trains](https://www.metrotrains.com.au/stations/sunshine/).
+
+**Sources**:
+- [2021 Sunshine (Vic.), Census All persons QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL22395) – demographic data including income and age
+- [Parent Information | SHPS](https://www.sunshineheightsps.vic.edu.au/parent-information-1) – TeamKids OSHC hours and provider details
+- [Performing Arts | SHPS](https://www.sunshineheightsps.vic.edu.au/performing-arts) – extracurricular activities (Talent Show, Australian Ballet, Festive Concert)
+- [Community | SHPS](https://www.sunshineheightsps.vic.edu.au/community) – physical education events (senior athletics carnival)
+- [Tai Phat Asian Grocery](https://www.sunshinebusiness.com.au/business_listing/tai-phat-asian-grocery/) – Asian grocery store in Sunshine
+- [Sunshine Supermarket (Thuan Hung)](https://www.sunshinebusiness.com.au/business_listing/sunshine-supermarket/) – Asian supermarket with butcher
+- [Tutor Sunshine | ABC to VCE](https://www.abctovce.com.au/tutors-sunshine/) – tutoring centre in Sunshine
+- [Tutor Sunshine | Emu Education](https://www.emueducation.com.au/tutor-sunshine/) – tutoring services near Sunshine
+- [Sunshine Station to Flinders Street Station](https://www.rome2rio.com/s/Sunshine-Station/Flinders-Street-Station) – train travel time and route
+- [Sunshine | Metro Trains](https://www.metrotrains.com.au/stations/sunshine/) – station information and line
