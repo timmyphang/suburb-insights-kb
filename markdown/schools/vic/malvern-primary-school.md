@@ -1,0 +1,29 @@
+1. **Suburb socio-economic profile:** Malvern East is an affluent, predominantly white-collar suburb with a median weekly household income of $2,386 and a median age of 38 [citation:2021 Malvern East, Census All persons QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/208041195). It has 5,595 families and an average of 0.7 children per household, indicating a mix of families and singles, with a strong family presence. The suburb scores highly on affluence metrics, reflecting a wealthy, high-income population [citation:Affluence & Economy Malvern East Vic 3145](https://www.microburbs.com.au/Affluence-Economy/Malvern-East).
+
+2. **Most common foreign country of birth:** In the 2021 Census, the specific percentage of Australian-born residents for Malvern East was not provided in available sources. However, 2016 data shows 68.7% of residents spoke only English at home, and the most common overseas language was Mandarin (8.0%), suggesting China is a significant country of birth [citation:2016 Malvern East, Census All persons QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2016/SSC21577). The suburb has a diverse population with Greek (5.4%) and Cantonese (1.8%) also present.
+
+3. **Working-parent support:** Malvern Primary School offers Outside School Hours Care through the provider TheirCare [citation:Before and After School – Malvern Primary School](https://www.malvernps.vic.edu.au/parents/before-and-after-school-program/). The program runs from 7:15 am to 8:45 am before school and from 3:30 pm to 6:00 pm after school, providing coverage for working parents.
+
+4. **School culture:** Malvern Primary School offers a Human Powered Racing Team as a named extracurricular activity [citation:Extra Curricular Activities – Malvern Primary School](https://www.malvernps.vic.edu.au/curriculum/extra-curricular-activities/). The school also runs Year 5 and 6 Interschool Sports and a Swimming Carnival for Years 3–6 at the Monash Aquatic & Recreation Centre [citation:Sports – Malvern Primary School](https://www.malvernps.vic.edu.au/curriculum/sports/). Additionally, a Cross Country event is held for Years 3–6 at Central Park.
+
+5. **Suburb vibe and groceries:** Malvern East has a family-friendly vibe with local parks like Central Park and easy access to Chadstone Shopping Centre. For groceries, Mr Mama International Grocery (28 Burke Road) offers Asian and international foods, while IGA Local Grocer Malvern East provides everyday essentials [citation:Mr Mama International Grocery](https://mrmama.com.au/)[citation:IGA Local Grocer Malvern East](https://www.iga.com.au/stores/iga-local-grocer-malvern-east/). Press & Grocers Co. is another local supermarket option.
+
+6. **Weeknight dining:** For casual family-friendly takeaway, Belle Rose Wood Fired Pizza (85 Chadstone Road) serves pizza, and Chadstone Fish and Chips (81 Chadstone Road) offers classic fish and chips [citation:Best Takeaways in Malvern East](https://www.kravein.com.au/places/malvern-east-victoria-3145). Ocean Delights Fish & Chippery (285 Waverley Road) is another local choice for seafood takeaway.
+
+7. **Tuition and enrichment:** Ezy Math Tutoring provides in-home and online maths tutoring for primary and secondary students in Malvern East [citation:330 Maths Tutors in Malvern East](https://www.ezymathtutoring.com.au/tutors/malvern-east-3145). Math Minds Learning Centre offers maths tutoring and VCE coaching specifically in the Malvern area [citation:Maths Tutoring Malvern – Math Minds](https://mathminds.com.au/maths-tutor-malvern/).
+
+8. **Commute:** The nearest train station is East Malvern, on the Glen Waverley line. A direct train from East Malvern Station to Flinders Street Station takes approximately 19 minutes, with services running every 20 minutes [citation:Malvern East to Flinders Street Station](https://www.rome2rio.com/s/Malvern-East/Flinders-Street-Station). Alternatively, Malvern Station (on the Cranbourne/Pakenham lines) is also nearby and offers a similar travel time of about 15 minutes.
+
+**Sources**
+- [2021 Malvern East, Census All persons QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/208041195) - ABS demographic data including income, age, and family structure.
+- [Affluence & Economy Malvern East Vic 3145](https://www.microburbs.com.au/Affluence-Economy/Malvern-East) - Suburb affluence scoring.
+- [2016 Malvern East, Census All persons QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2016/SSC21577) - Language and country of birth statistics from 2016.
+- [Before and After School – Malvern Primary School](https://www.malvernps.vic.edu.au/parents/before-and-after-school-program/) - TheirCare OSHC provider and hours.
+- [Extra Curricular Activities – Malvern Primary School](https://www.malvernps.vic.edu.au/curriculum/extra-curricular-activities/) - Human Powered Racing Team.
+- [Sports – Malvern Primary School](https://www.malvernps.vic.edu.au/curriculum/sports/) - Interschool Sports, Swimming Carnival, Cross Country.
+- [Mr Mama International Grocery](https://mrmama.com.au/) - Asian grocery store in Malvern East.
+- [IGA Local Grocer Malvern East](https://www.iga.com.au/stores/iga-local-grocer-malvern-east/) - Local supermarket.
+- [Best Takeaways in Malvern East](https://www.kravein.com.au/places/malvern-east-victoria-3145) - Family-friendly takeaway options.
+- [330 Maths Tutors in Malvern East](https://www.ezymathtutoring.com.au/tutors/malvern-east-3145) - Ezy Math Tutoring.
+- [Maths Tutoring Malvern – Math Minds](https://mathminds.com.au/maths-tutor-malvern/) - Math Minds Learning Centre.
+- [Malvern East to Flinders Street Station](https://www.rome2rio.com/s/Malvern-East/Flinders-Street-Station) - Train travel time from Malvern East to CBD.
