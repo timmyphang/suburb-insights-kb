@@ -1,0 +1,28 @@
+1) **Suburb socio-economic profile:** Officer is a rapidly growing outer-suburban family area, with a mix of middle-income households. According to the 2021 Census, the median weekly household income in Officer was $2,228, and the median age was 31 years, indicating a young, family-oriented population [citation:QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL22006). The suburb has a high proportion of families with children and a relatively low proportion of singles, reflecting its appeal to families.
+
+2) **Most common foreign country of birth:** In Officer, 65.4% of residents were born in Australia [citation:QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL22006). Among overseas-born residents, the most common country of birth was India, accounting for 7.5% of the population, followed by Sri Lanka (3.2%) and New Zealand (2.2%) [citation:QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL22006).
+
+3) **Working-parent support:** Outside School Hours Care (OSHC) is available at Officer Primary School, provided by OSHClub [citation:OSHClub](https://www.oshclub.com.au/find-us/officer-primary-school/). The service operates before school from 7:00 am to 8:45 am and after school from 3:30 pm to 6:00 pm on school days, following the typical OSHC hours [citation:Victorian OSHC Policy](https://www2.education.vic.gov.au/pal/outside-school-hours-care-decision-making-regarding-provision-oshc/guidance/about-outside-hours).
+
+4) **School culture:** Officer Primary School offers a range of named extracurricular activities. Students can participate in the **State School Spectacular**, a large-scale performance event, and **Interschool Sport Yr 5/6** (e.g., matches against Kurran Primary School) [citation:Extra Curricular](https://www.officerps.vic.edu.au/curriculum/extra-curricular/). The school also runs an **Instrumental Music Program** with weekly lessons in guitar, keyboard/piano, and drums, taught by a qualified instructor during school hours [citation:Instrumental Music Program](https://www.officerps.vic.edu.au/curriculum/instrumental-music-program/).
+
+5) **Suburb vibe and groceries:** Officer is a modern, family-friendly suburb with several parks and the Lakeside Square Shopping Centre for everyday needs. For specialty groceries, specific ethnic supermarkets are not listed in the provided sources for Officer itself, but nearby Pakenham (5–10 minutes drive) offers Indian grocery stores such as **Usha Food Imports** (wholesaler) and Asian supermarkets like **Wanlong Oriental** [citation:Usha Food Imports](http://www.ushaimports.com.au/). Major supermarkets (Coles, Woolworths) are also available in Officer.
+
+6) **Weeknight dining:** Officer and nearby Pakenham offer several casual family-friendly takeaway options. **Dosa Hut** (Indian) at Lakeside Square Shopping Centre in Pakenham serves a wide menu of dosas, biryanis, and curries for dine-in or takeaway [citation:Dosa Hut](https://www.dosahut.net.au/indian-restaurant-officer/). **Royal Golden Spoon** (Indian) also provides dine-in and takeaway in the area, and **Burgers and Pizza** chains are available in Officer [citation:Royal Golden Spoon](https://www.royalgoldenspoon.com.au/).
+
+7) **Tuition and enrichment:** **Success Tutoring Officer** offers English and Math tutoring services for primary and high school students, located in Officer itself [citation:Success Tutoring](https://successtutoring.com.au/tutoring-officer). For more advanced enrichment, **Realus Education** provides K–12 tutoring in Mathematics, English, and Science, with online and potentially in-person options in the broader region [citation:Realus Education](https://realus.com.au/).
+
+8) **Commute:** Officer is served by **Officer Station** on the **Pakenham line** (Metro Trains Melbourne). The train journey from Officer Station to Flinders Street Station takes approximately 62 minutes, with trains running every 20 minutes during peak times [citation:Rome2Rio Flinders to Officer](https://www.rome2rio.com/s/Flinders-Street-Station/Officer-Station). Driving from Officer to the Melbourne CBD takes about 39 minutes.
+
+**Sources**
+- [QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL22006) - 2021 Census demographic data for Officer (income, age, birthplace).
+- [OSHClub](https://www.oshclub.com.au/find-us/officer-primary-school/) - OSHC provider at Officer Primary School.
+- [Victorian OSHC Policy](https://www2.education.vic.gov.au/pal/outside-school-hours-care-decision-making-regarding-provision-oshc/guidance/about-outside-hours) - Standard OSHC operating hours.
+- [Extra Curricular](https://www.officerps.vic.edu.au/curriculum/extra-curricular/) - List of named extracurricular activities at Officer Primary School.
+- [Instrumental Music Program](https://www.officerps.vic.edu.au/curriculum/instrumental-music-program/) - Details of the instrumental music program.
+- [Usha Food Imports](http://www.ushaimports.com.au/) - Indian food wholesaler near Officer.
+- [Dosa Hut](https://www.dosahut.net.au/indian-restaurant-officer/) - Indian restaurant and takeaway serving Officer.
+- [Royal Golden Spoon](https://www.royalgoldenspoon.com.au/) - Indian restaurant and catering in the Officer area.
+- [Success Tutoring](https://successtutoring.com.au/tutoring-officer) - English and Math tutoring in Officer.
+- [Realus Education](https://realus.com.au/) - K–12 tutoring and enrichment services.
+- [Rome2Rio Flinders to Officer](https://www.rome2rio.com/s/Flinders-Street-Station/Officer-Station) - Train travel time and route details.
