@@ -1,0 +1,26 @@
+1) **Suburb socio-economic profile:** Upwey is a middle-income, family-oriented suburb with an average age of 41 and a high proportion of couples with children [citation:Landchecker](https://landchecker.com.au/suburb/upwey-vic-3158/). The median weekly household income is not explicitly stated in available sources, though the median monthly mortgage repayment is $1,950 and the median weekly rent is $390 [citation:Landchecker](https://landchecker.com.au/suburb/upwey-vic-3158/). Most residents commute by car (88.1%), and the area is predominantly low-density residential, reflecting a family-friendly, semi-rural character [citation:Landchecker](https://landchecker.com.au/suburb/upwey-vic-3158/).
+
+2) **Most common foreign country of birth:** Upwey is overwhelmingly Australian-born, with 84.3% of residents born in Australia according to the 2021 ABS QuickStats [citation:ABS QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2021/SAL22620). The most common overseas country of birth is England, at 3.2% of the population [citation:ABS QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2021/SAL22620).
+
+3) **Working-parent support:** Upwey Primary School offers Outside School Hours Care (OSHC) provided by TheirCare, a Department of Education approved provider [citation:Upwey PS OSHC](https://www.upweyps.vic.edu.au/copy-of-news-parent-information). Before-school care runs from 7:00am to 8:45am, and after-school care runs from 3:30pm to 6:30pm on weekdays [citation:Upwey PS OSHC](https://www.upweyps.vic.edu.au/copy-of-news-parent-information).
+
+4) **School culture:** Upwey Primary School offers an instrumental music program through "In Schools Music," with tuition available on a voluntary fee-for-service basis [citation:Upwey PS Music](https://www.upweyps.vic.edu.au/copy-of-library). The school also runs a bi-annual whole school production for Prep to Grade 6, held in a professional theatre [citation:Upwey PS Performing Arts](https://www.upweyps.vic.edu.au/copy-of-music). For students in years 3-6, a highly successful Aerobics program provides opportunities to compete at a national level [citation:Upwey PS Performing Arts](https://www.upweyps.vic.edu.au/copy-of-music).
+
+5) **Suburb vibe and groceries:** Upwey has a relaxed, family-friendly vibe set in the forested Dandenong Ranges, with local amenities centred around its main street [citation:Landchecker](https://landchecker.com.au/suburb/upwey-vic-3158/). Specific specialty or ethnic grocery stores in Upwey are not listed in the available search results, but nearby options include Jade Pavilion and Four Seasons BBQ House in Ferntree Gully and Bayswater [citation:TuckerFox](https://www.tuckerfox.com.au/restaurant-takeaway-delivery/upwey-vic-3158/).
+
+6) **Weeknight dining:** For casual family-friendly dining, Pearl Garden Restaurant (Chinese) and Tamarind Thai Cuisine (Thai) are both rated highly for takeaway and dine-in in Upwey [citation:TripAdvisor Upwey](https://www.tripadvisor.com.au/Restaurants-g3610867-zfp10601-Upwey_Greater_Melbourne_Victoria.html). Upwey Pizza is a longstanding local favourite for takeaway pizza, serving the community for over 40 years [citation:Upwey Pizza](https://upweypizza.au/).
+
+7) **Tuition and enrichment:** Specific tutoring or enrichment centres located in Upwey were not found in the available search results. Nearby options may be available in surrounding suburbs such as Belgrave or Ferntree Gully, but no names are provided in the current data.
+
+8) **Commute:** Upwey is served by the Belgrave train line, with the Upwey Station providing direct services to the city. The typical train travel time from Upwey to Flinders Street Station is approximately 1 hour, with some services taking 52 minutes [citation:Rome2Rio](https://www.rome2rio.com/Train/Upwey/Flinders-Street-Station). Trains run every 30 minutes and all services are direct with no transfers required [citation:Rome2Rio](https://www.rome2rio.com/Train/Upwey/Flinders-Street-Station).
+
+**Sources:**
+- [Landchecker](https://landchecker.com.au/suburb/upwey-vic-3158/) - Upwey suburb profile with demographic and property data.
+- [ABS QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2021/SAL22620) - 2021 Census All persons QuickStats for Upwey.
+- [Upwey PS OSHC](https://www.upweyps.vic.edu.au/copy-of-news-parent-information) - Outside School Hours Care details at Upwey Primary School.
+- [Upwey PS Music](https://www.upweyps.vic.edu.au/copy-of-library) - Instrumental music program at Upwey Primary School.
+- [Upwey PS Performing Arts](https://www.upweyps.vic.edu.au/copy-of-music) - Performing Arts program including production and aerobics.
+- [TuckerFox](https://www.tuckerfox.com.au/restaurant-takeaway-delivery/upwey-vic-3158/) - Takeaway and delivery options in Upwey.
+- [TripAdvisor Upwey](https://www.tripadvisor.com.au/Restaurants-g3610867-zfp10601-Upwey_Greater_Melbourne_Victoria.html) - Best takeaway restaurants in Upwey reviews.
+- [Upwey Pizza](https://upweypizza.au/) - Upwey Pizza restaurant website.
+- [Rome2Rio](https://www.rome2rio.com/Train/Upwey/Flinders-Street-Station) - Train schedule and travel time from Upwey to Flinders Street Station.
