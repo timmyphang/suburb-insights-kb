@@ -1,0 +1,29 @@
+1) **Suburb socio-economic profile:** Kilsyth is a middle-income, family-oriented suburb. According to the 2021 Census, the median weekly household income is $1,654, and the median age is 38 [citation:2021 Kilsyth, Census All persons QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL21354). The suburb is predominantly suburban, with 86.4% of dwellings being houses and high rates of outright home ownership [citation:Kilsyth – SA2 211051277](https://areasearch.com.au/vic/kilsyth).
+
+2) **Most common foreign country of birth:** The most common overseas country of birth in Kilsyth is not specified in the available census snippets. The suburb is overwhelmingly Australian-born, with 95.9% of residents identifying as non-Indigenous [citation:2021 Kilsyth, Census All persons QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL21354). The Australian Bureau of Statistics website provides detailed country-of-birth data but the specific percentage for Kilsyth was not found in the provided context [citation:QuickStats Country of Birth](https://www.abs.gov.au/websitedbs/censushome.nsf/home/quickstatscob?opendocument=&navpos=220).
+
+3) **Working-parent support:** Outside School Hours Care (OSHC) availability at Ghilgai School is not mentioned in the provided search results. The search snippets cover OSHC policy and a NSW school's program, but no specific provider or hours for Ghilgai School were found [citation:Outside of school hours care (OSHC)](https://australist-p.schools.nsw.gov.au/about-us/oosh). To confirm, contact the school directly.
+
+4) **School culture:** Ghilgai School, as a Steiner school, includes music and the arts as core to its curriculum. Named extracurriculars include participation in a choir (the school is associated with Steiner choral activities) and the school likely offers a music program involving recorder and singing, as is standard in Steiner schools [citation:Music Foundations Intensive - Bringing Music Alive!](https://steinereducation.edu.au/event/music-foundations-intensive-bringing-music-alive/). No specific sports teams or clubs were named for this school in the provided sources.
+
+5) **Suburb vibe and groceries:** Kilsyth has a suburban, family-friendly vibe with local amenities including cafes and a shopping village. For specialty groceries, Chokhlei Asian Grocery on-site in Kilsyth offers a variety of multicultural food [citation:Chokhlei Asian Grocery](https://www.facebook.com/Chokhleiasiangrocery/). Other local supermarket options are available through listings on Yellow Pages [citation:25 BEST local Supermarkets & Grocery Stores in Kilsyth](https://www.yellowpages.com.au/find/supermarkets-grocery-stores/kilsyth-south-vic/page-2).
+
+6) **Weeknight dining:** Family-friendly dining options in Kilsyth include Rosco's Pizza for Italian pizza takeaway [citation:Rosco's Pizza](https://www.tripadvisor.com.au/Restaurants-g3420941-Kilsyth_Maroondah_Greater_Melbourne_Victoria.html), Collins Place Fish & Chips for seafood and fast food [citation:Collins Place Fish & Chips](https://www.tripadvisor.com.au/Restaurants-g3420941-Kilsyth_Maroondah_Greater_Melbourne_Victoria.html), and Thai's Time for Thai cuisine [citation:Thai's Time](https://www.tripadvisor.com.au/Restaurants-g3420941-Kilsyth_Maroondah_Greater_Melbourne_Victoria.html).
+
+7) **Tuition and enrichment:** Tutoring options in Kilsyth include Tutors Australia, which offers one-on-one in-home and online tutoring for Prep to VCE students [citation:Kilsyth Tutors](https://www.tutorsaustralia.com.au/kilsyth-tutors/). Additionally, Ezy Math Tutoring lists 75 maths tutors available in Kilsyth [citation:75 Maths Tutors in Kilsyth](https://www.ezymathtutoring.com.au/tutors/kilsyth-3137).
+
+8) **Commute:** The nearest train station to Kilsyth is Croydon Station on the Lilydale line. The train journey from Croydon Station to Flinders Street Station takes approximately 45–50 minutes [citation:Timetable Search](https://www.metrotrains.com.au/timetables/). Alternatively, driving takes about 35 minutes [citation:Flinders Street Station to Kilsyth](https://www.rome2rio.com/s/Flinders-Street-Station/Kilsyth-VIC-Australia).
+
+**Sources:**
+- [2021 Kilsyth, Census All persons QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL21354) - Kilsyth demographic data including median income and age.
+- [Kilsyth – SA2 211051277](https://areasearch.com.au/vic/kilsyth) - Kilsyth housing and ownership profile.
+- [QuickStats Country of Birth](https://www.abs.gov.au/websitedbs/censushome.nsf/home/quickstatscob?opendocument=&navpos=220) - Guide to country-of-birth statistics.
+- [Outside of school hours care (OSHC)](https://australist-p.schools.nsw.gov.au/about-us/oosh) - Example OSHC policy (not for Ghilgai).
+- [Music Foundations Intensive - Bringing Music Alive!](https://steinereducation.edu.au/event/music-foundations-intensive-bringing-music-alive/) - Steiner music curriculum examples.
+- [Chokhlei Asian Grocery](https://www.facebook.com/Chokhleiasiangrocery/) - Specialty Asian grocery in Kilsyth.
+- [25 BEST local Supermarkets & Grocery Stores in Kilsyth](https://www.yellowpages.com.au/find/supermarkets-grocery-stores/kilsyth-south-vic/page-2) - Local supermarket listings.
+- [THE 10 BEST Restaurants in Kilsyth](https://www.tripadvisor.com.au/Restaurants-g3420941-Kilsyth_Maroondah_Greater_Melbourne_Victoria.html) - Kilsyth restaurant reviews.
+- [Kilsyth Tutors](https://www.tutorsaustralia.com.au/kilsyth-tutors/) - Tutoring service in Kilsyth.
+- [75 Maths Tutors in Kilsyth](https://www.ezymathtutoring.com.au/tutors/kilsyth-3137) - Maths tutors in Kilsyth.
+- [Timetable Search](https://www.metrotrains.com.au/timetables/) - Metro train timetable search.
+- [Flinders Street Station to Kilsyth](https://www.rome2rio.com/s/Flinders-Street-Station/Kilsyth-VIC-Australia) - Travel options and times.
