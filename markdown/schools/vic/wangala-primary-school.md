@@ -1,0 +1,27 @@
+1) **Suburb socio-economic profile:** Belmont in Geelong (VIC 3216) is a middle-income suburb. According to the 2021 Census, the median weekly household income is $1,510 [citation:ABS QuickStats 2021 Belmont (Vic.)](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL20201), and the median age is 37 years, indicating a mix of families and singles. Detailed breakdowns of white‑collar versus blue‑collar occupations are not found in the available sources.
+
+2) **Most common foreign country of birth:** The predominant country‑of‑birth data for Belmont (Vic.) is not available in the provided sources. The 2021 Census QuickStats page for Belmont (Vic.) does not include a specific table on country of birth in the snippets or page content, so this information is not found.
+
+3) **Working-parent support:** Wangala Primary School runs its own Outside School Hours Care (OSHC) program, operated by the Wangala Primary School Council [citation:ACECQA Wangala Primary School OSHC](https://www.acecqa.gov.au/resources/national-registers/services/wangala-primary-school-oshc). The before‑school program begins at 7:30 am and includes breakfast, while the after‑school program picks students up from the classroom and runs until 6:00 pm each evening [citation:Outside School Hours Care - Wangala Primary School](https://wangalaps.vic.edu.au/outside-school-hours-care/). The service also offers vacation care dependent on enrolment numbers.
+
+4) **School culture:** Specific extracurricular programs at Wangala Primary School are not listed in the provided search results or page content. The available sources cover OSHC and general school information but do not name any specific sports teams, clubs, or enrichment activities. Therefore, this data is not found in the available sources.
+
+5) **Suburb vibe and groceries:** Belmont offers a range of family‑friendly amenities. The Belmont Forum Shopping Centre hosts a Family Fresh Market for fresh produce and Asian groceries [citation:Family Fresh Market at Belmont Forum](https://www.belmontforum.com.au/stores/family-fresh-market). Specialty ethnic grocery options include Indo‑Asian Grocery Store at Shop 1‑2/13 Discovery Lane, which stocks Asian, Indian, and other international products [citation:Indo-Asian Grocery Store on Whereis](https://www.whereis.com/vic/belmont-3216/yellowId-15400971). Another option is Gourmet Asian Grocery, also in Belmont [citation:Gourmet Asian Grocery on Yellow Pages](https://www.yellowpages.com.au/vic/belmont/gourmet-asian-grocery-14158479-listing.html).
+
+6) **Weeknight dining:** Specific casual, family‑friendly takeaway or dining options in Belmont (Vic.) are not detailed in the provided sources. The AGFG page lists “Restaurants in Belmont,VIC With Takeaway” but does not name individual venues in the snippets [citation:AGFG Belmont Takeaway](https://www.agfg.com.au/restaurants/geelong-bellarine-peninsula/belmont/takeaway-category). No restaurant names or cuisine types can be confirmed from the available content.
+
+7) **Tuition and enrichment:** Two tutoring centres are identified in or near Belmont. Success Tutoring has a centre in Belmont (Vic.) offering personalised programs in English, Maths, and other subjects [citation:Success Tutoring Belmont](https://successtutoring.com.au/belmont-tutoring). Learning Works Hub also provides tutoring in Belmont, focusing on filling knowledge gaps for primary and secondary students [citation:Learning Works Hub Tutoring Belmont](https://www.learningworkshub.com.au/tutoring-belmont/).
+
+8) **Commute:** Belmont (Vic.) is part of the Geelong region. The nearest train station is South Geelong, on the Geelong line operated by V/Line [citation:V/Line Train & Coach Timetables](https://www.vline.com.au/Timetables/Train-coach-timetables). The typical travel time from South Geelong to Flinders Street Station in Melbourne’s CBD is approximately 60–70 minutes, depending on the service.
+
+Sources:
+- [ABS QuickStats 2021 Belmont (Vic.)](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL20201) - 2021 Census data for Belmont VIC (population, income, age)
+- [ACECQA Wangala Primary School OSHC](https://www.acecqa.gov.au/resources/national-registers/services/wangala-primary-school-oshc) - Service approval, hours, and provider details for Wangala OSHC
+- [Outside School Hours Care - Wangala Primary School](https://wangalaps.vic.edu.au/outside-school-hours-care/) - School’s official OSHC description with hours
+- [Family Fresh Market at Belmont Forum](https://www.belmontforum.com.au/stores/family-fresh-market) - Fresh produce and Asian grocery store at Belmont Forum
+- [Indo-Asian Grocery Store on Whereis](https://www.whereis.com/vic/belmont-3216/yellowId-15400971) - Indo-Asian Grocery Store in Belmont VIC
+- [Gourmet Asian Grocery on Yellow Pages](https://www.yellowpages.com.au/vic/belmont/gourmet-asian-grocery-14158479-listing.html) - Gourmet Asian Grocery in Belmont VIC
+- [AGFG Belmont Takeaway](https://www.agfg.com.au/restaurants/geelong-bellarine-peninsula/belmont/takeaway-category) - List of restaurants with takeaway in Belmont VIC
+- [Success Tutoring Belmont](https://successtutoring.com.au/belmont-tutoring) - Tutoring centre in Belmont VIC
+- [Learning Works Hub Tutoring Belmont](https://www.learningworkshub.com.au/tutoring-belmont/) - Tutoring service in Belmont VIC
+- [V/Line Train & Coach Timetables](https://www.vline.com.au/Timetables/Train-coach-timetables) - Regional train timetables including Geelong line
