@@ -1,0 +1,25 @@
+1) **Suburb socio-economic profile:** Kallista is a middle-income, established suburb with a median weekly household income of $2,003 and a median age of 47, indicating a mature population with fewer young children compared to the state average [citation:2021 Kallista QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL21286). The suburb has a high proportion of couples with children (families with children average 1.7 per family) and a mix of white-collar and blue-collar workers, though specific occupation data is not available in provided sources.
+
+2) **Most common foreign country of birth:** The most common foreign country of birth is not explicitly listed in the available 2021 Census data. However, 55.3% of Kallista residents had both parents born in Australia in the 2016 Census, suggesting a predominantly Australian-born population [citation:2016 Kallista QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2016/SSC21278).
+
+3) **Working-parent support:** Kallista Primary School partners with TheirCare to provide Before and After School Care programs, located in the General Purpose Room on the school grounds [citation:Kallista PS OSH Club](https://kallistaps.vic.edu.au/osh-club/). Specific operation hours are not stated in the provided sources, but the service is eligible for the Child Care Subsidy.
+
+4) **School culture:** Kallista Primary School offers a **Stephanie Alexander Kitchen Garden program** that integrates gardening and cooking into the curriculum [citation:Kallista PS Enrolments](https://kallistaps.vic.edu.au/index.php/enrolments). Students can also join the **Coding and Robotics Club** at lunchtime as part of the STEM program [citation:Kallista PS Enrolments](https://kallistaps.vic.edu.au/index.php/enrolments). Additionally, the school provides **Instrumental Music Lessons** for Piano, Guitar, Drums, Singing, Ukulele, Bass, and Violin [citation:Kallista PS Music & Performing Arts](https://kallistaps.vic.edu.au/our-curriculum/music-performing-arts/).
+
+5) **Suburb vibe and groceries:** Kallista has a village feel centred around the historic **Kallista General Store and Cellars**, which offers coffee, gourmet food, wine, and daily essentials [citation:Kallista General Store](https://kallistageneralstore.com.au/). A monthly **Kallista Village Market** (first Saturday of each month) features local, handmade, and homegrown products [citation:Kallista Village Market Facebook](https://www.facebook.com/kallistavillagemarket/). No specialty ethnic supermarkets are located in Kallista; the nearest major supermarkets are in nearby Belgrave (e.g., IGA, Coles).
+
+6) **Weeknight dining:** For casual family-friendly dining, try **Mad Raven Hot Stone Pizza** for pizza in Kallista, **Grants On Sherbrooke** for Modern Australian cuisine, or **Kallista Deli and Cafe** for café meals and takeaway [citation:AGFG Kallista Restaurants](https://www.agfg.com.au/restaurants/melbourne/kallista). Several nearby options in Belgrave (e.g., La Collina Pizzeria, Belgrave Fish & Chips) are also accessible.
+
+7) **Tuition and enrichment:** No specific tutoring or enrichment centres in Kallista were identified in the available search results. Families may consider private instrumental music lessons offered at the school (see point 4) or look for providers in neighbouring suburbs such as Belgrave or Monbulk.
+
+8) **Commute:** Kallista has no train station. The nearest station is **Belgrave** on the **Belgrave line**, approximately 5 km away. The train journey from Belgrave to Flinders Street Station takes about **55 minutes** on average. Bus route information was not found in the provided sources; a direct bus service may connect Kallista to Belgrave station (check PTV for current routes).
+
+**Sources:**
+- [2021 Kallista QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL21286) - ABS demographic profile for Kallista (income, age, family data).
+- [2016 Kallista QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2016/SSC21278) - ABS 2016 demographic profile with country of birth data.
+- [Kallista PS OSH Club](https://kallistaps.vic.edu.au/osh-club/) - School page detailing TheirCare before/after school care partner.
+- [Kallista PS Enrolments](https://kallistaps.vic.edu.au/index.php/enrolments) - School page listing Kitchen Garden, Coding & Robotics Club, and STEM program.
+- [Kallista PS Music & Performing Arts](https://kallistaps.vic.edu.au/our-curriculum/music-performing-arts/) - School page listing Instrumental Music Lessons.
+- [Kallista General Store](https://kallistageneralstore.com.au/) - Local grocer and café information.
+- [Kallista Village Market Facebook](https://www.facebook.com/kallistavillagemarket/) - Monthly market details.
+- [AGFG Kallista Restaurants](https://www.agfg.com.au/restaurants/melbourne/kallista) - List of restaurants in Kallista including cuisine types.
