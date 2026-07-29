@@ -1,0 +1,30 @@
+1) **Suburb socio-economic profile:** Ringwood North is a middle-income, family-oriented suburb with a median weekly household income of $2,330 and a median age of 43 [citation:2021 Ringwood North QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/211031268). The area is predominantly composed of houses (98.3%) with above-average rates of outright home ownership, indicating a stable, settled community [citation:AreaSearch Ringwood North](https://areasearch.com.au/vic/ringwood_north). Families are common, with an average of 1.8 children per family and 2.8 people per household [citation:2021 Ringwood North QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/211031268).
+
+2) **Most common foreign country of birth:** The most common foreign country of birth for Ringwood North residents is not specified in the available sources. However, 53.3% of people had both parents born in Australia (2016 data), suggesting a predominantly Australian-born population with a significant minority of overseas-born families [citation:2016 Ringwood North QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2016/SSC22164). The exact percentage for the top overseas country is not found in the provided context.
+
+3) **Working-parent support:** Ringwood Heights Primary School’s Outside School Hours Care is provided by Kelly Club, which operates before and after school care aligned with the school’s values [citation:OHSC page](https://ringwoodheights.vic.edu.au/ohsc). Specific operating hours are not detailed in the provided sources, but the program is described as an extension of the school.
+
+4) **School culture:** Ringwood Heights Primary School offers several named extracurricular activities, including the **Breakfast Club** (run by senior students), a **school choir** (rehearsing Tuesday mornings, performing at assemblies and events), and **instrumental lessons** in keyboard, guitar, and saxophone [citation:Specialist Learning](https://ringwoodheights.vic.edu.au/specialists) [citation:Our School](https://ringwoodheights.vic.edu.au/our-school). Lunchtime sporting clubs also rotate each term based on student interests.
+
+5) **Suburb vibe and groceries:** Ringwood North has a suburban, family-friendly feel with extensive parks and bushland. For specialty groceries, families can visit **Soon Lee Asian Grocery** at 103 Maroondah Highway, Ringwood, offering a wide range of Asian ingredients [citation:Soon Lee](https://ringwood-vic.aussiestoresonline.com/soon-lee-asian-grocery/). Another option is **Crown Asian Supermarket** inside Eastland Shopping Centre, providing authentic Asian groceries and spices [citation:Crown Asian](https://www.dlook.com.au/business/asian-grocery-shop-in-ringwood-vic-3134/crown-asian-supermarket).
+
+6) **Weeknight dining:** For casual family takeaway in Ringwood North, try **North Ringwood Fish & Chips** (186 Warrandyte Rd) for classic fish and chips [citation:Take Away Food](https://www.localbusinessguide.com.au/victoria/ringwood-north/food-and-dining/take-away-food/). **999 Noodle House** (Shop 15/204 Warrandyte Rd) offers Chinese and Asian noodle dishes. **Goldies BBQ Chicken & Gourmet Salads** (Shop 9 Oban Road, North Ringwood Shopping Centre) provides BBQ chicken and salads for a quick meal.
+
+7) **Tuition and enrichment:** Two specific tutoring centres near Ringwood North are **NRICH Learning** (Ringwood flagship centre) offering small-group maths and English tuition for primary to VCE students [citation:NRICH Learning](https://nrichlearning.com.au/). **Kip McGrath Ringwood** (2 Murray Place, Ringwood) provides personalised English and maths tutoring with qualified teachers, including support for dyslexia and ADHD [citation:Kip McGrath](https://www.kipmcgrath.com.au/ringwood).
+
+8) **Commute:** Ringwood North is served by **Ringwood Station** on the **Belgrave/Lilydale line**. The train journey from Ringwood Station to Flinders Street Station in the Melbourne CBD takes approximately **42 minutes**, with trains running every 15 minutes on weekdays [citation:Rome2rio Ringwood to Flinders](https://www.rome2rio.com/s/Ringwood-Station/Flinders-Street-Station) [citation:Metro Trains](https://www.metrotrains.com.au/timetables/).
+
+**Sources**
+- [2021 Ringwood North QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/211031268) – ABS demographic data for Ringwood North (population, income, age).
+- [AreaSearch Ringwood North](https://areasearch.com.au/vic/ringwood_north) – Housing profile and home ownership rates.
+- [2016 Ringwood North QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2016/SSC22164) – 2016 Census data on country of birth.
+- [Ringwood Heights Primary School OHSC](https://ringwoodheights.vic.edu.au/ohsc) – Information on Kelly Club OSHC provider.
+- [Ringwood Heights Primary School Specialist Learning](https://ringwoodheights.vic.edu.au/specialists) – Details of choir, instrumental lessons, and lunchtime sports clubs.
+- [Ringwood Heights Primary School Our School](https://ringwoodheights.vic.edu.au/our-school) – Description of Breakfast Club and leadership programs.
+- [Soon Lee Asian Grocery](https://ringwood-vic.aussiestoresonline.com/soon-lee-asian-grocery/) – Address and details of Asian grocery store.
+- [Crown Asian Supermarket](https://www.dlook.com.au/business/asian-grocery-shop-in-ringwood-vic-3134/crown-asian-supermarket) – Details of Asian supermarket in Eastland.
+- [Take Away Food in Ringwood North](https://www.localbusinessguide.com.au/victoria/ringwood-north/food-and-dining/take-away-food/) – List of specific takeaway restaurants with addresses.
+- [NRICH Learning](https://nrichlearning.com.au/) – Tutoring centre details for Ringwood.
+- [Kip McGrath Ringwood](https://www.kipmcgrath.com.au/ringwood) – Tutoring centre details for Ringwood.
+- [Rome2rio Ringwood Station to Flinders Street](https://www.rome2rio.com/s/Ringwood-Station/Flinders-Street-Station) – Train travel time and frequency.
+- [Metro Trains Timetables](https://www.metrotrains.com.au/timetables/) – Train line information.
