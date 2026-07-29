@@ -1,0 +1,29 @@
+1) **Suburb socio-economic profile**: Baxter is a middle-income, family-oriented suburb on the Mornington Peninsula. The 2021 Census reports a median weekly household income of $1,493 and a median age of 40, with 622 families and an average of 1.6 children per family [citation:2021 Baxter, Census All persons QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2021/SAL20169). Detailed occupational data (white‑collar vs blue‑collar) is not available in the provided sources, but the income and family structure point to a stable, middle‑income community.
+
+2) **Most common foreign country of birth**: The specific country‑of‑birth breakdown for Baxter is not included in the extracted Census data. The 2021 QuickStats page shows that 93.7% of residents are non‑Indigenous, but the percentage born in Australia and the leading overseas‑born country are not provided in the available content [citation:2021 Baxter, Census All persons QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2021/SAL20169). For precise figures, families should consult the full Community Profile for Baxter.
+
+3) **Working‑parent support**: Outside School Hours Care (OSHC) at Baxter Primary School is provided by **TeamKids**. The service operates on school grounds and includes before‑school, after‑school, and holiday programs, though exact opening and closing hours are not listed in the available search snippets [citation:TeamKids - Baxter Primary](https://www.teamkids.com.au/venues/baxter-primary-oshc/). Families should contact TeamKids directly for current session times.
+
+4) **School culture**: Baxter Primary School offers a range of named extracurricular activities, including **instrumental music**, **environmental initiatives** (e.g., a sensory garden and environmental clubs), and a weekly **Breakfast Club** [citation:Our School | Baxter Primary School](https://baxterps.vic.edu.au/our-school/) [citation:Our School – Option 2 | Baxter Primary School](https://baxterps.vic.edu.au/our-school-2/). The school also participates in the **Victorian State Schools Spectacular** mass choir [citation:Victorian State Schools Spectacular Rehearsal](https://baxterps.vic.edu.au/project/victorian-state-schools-spectacular-rehearsal/).
+
+5) **Suburb vibe and groceries**: Baxter is a quiet, semi‑rural suburb with a strong family feel. No specialty or ethnic supermarkets are explicitly named in the provided sources; residents typically shop at major supermarkets in nearby Somerville or Frankston. The **Baxter Family Market** appears as a local market but lacks publicly listed details in the extracted content [citation:Baxter Family Market](https://baxterfamilymarket.com/).
+
+6) **Weeknight dining**: Casual family‑friendly options in Baxter include **Indian Mahal** (Indian cuisine, takeaway and dine‑in at 636A Frankston‑Flinders Rd) [citation:Indian Mahal Baxter Indian Restaurant](https://www.indianmahal.com.au/), **Pizza This Pizza That** (pizza, takeaway and delivery at 84 Baxter‑Tooradin Rd) [citation:Pizza This Pizza That Baxter](https://www.agfg.com.au/restaurant/pizza-this-pizza-that-baxter-80424), and the **Baxter Tavern** (pub meals and family dining on Baxter‑Tooradin Rd) [citation:The 8 Best Baxter,VIC Restaurants](https://www.agfg.com.au/restaurants/mornington-peninsula/baxter).
+
+7) **Tuition and enrichment**: Local options include **Baxter Learning Centre** (offers coding, robotics, Olympic maths, and English support) [citation:Baxter Learning Centre | Facebook](https://www.facebook.com/BLCKDPJ/). Additionally, **Ezy Math Tutoring** provides one‑on‑one in‑home maths and English tutors serving the Baxter area [citation:55 Maths Tutors in Baxter](https://www.ezymathtutoring.com.au/tutors/baxter-3911).
+
+8) **Commute**: Baxter is served by **Baxter Station** on the **Stony Point line** (Metro Trains). Passengers travel from Baxter Station to Frankston Station (approx. 10‑15 minutes), then change to a Frankston‑line train to Flinders Street. The total journey time from Baxter to Melbourne CBD is approximately **1 hour 33 minutes** [citation:Baxter to Flinders Street Station](https://www.rome2rio.com/s/Baxter-VIC-Australia/Flinders-Street-Station).
+
+**Sources**
+- [2021 Baxter, Census All persons QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2021/SAL20169) – Demographic and income data for Baxter (Census 2021)
+- [TeamKids - Baxter Primary](https://www.teamkids.com.au/venues/baxter-primary-oshc/) – OSHC provider at Baxter Primary School
+- [Our School | Baxter Primary School](https://baxterps.vic.edu.au/our-school/) – School overview and extracurricular activities
+- [Our School – Option 2 | Baxter Primary School](https://baxterps.vic.edu.au/our-school-2/) – Additional extracurriculars including Breakfast Club
+- [Victorian State Schools Spectacular Rehearsal](https://baxterps.vic.edu.au/project/victorian-state-schools-spectacular-rehearsal/) – School participation in state choir event
+- [Baxter Family Market](https://baxterfamilymarket.com/) – Local market listing (no detailed content)
+- [Indian Mahal Baxter Indian Restaurant](https://www.indianmahal.com.au/) – Indian restaurant details and location
+- [Pizza This Pizza That Baxter](https://www.agfg.com.au/restaurant/pizza-this-pizza-that-baxter-80424) – Pizza restaurant with takeaway
+- [The 8 Best Baxter,VIC Restaurants](https://www.agfg.com.au/restaurants/mornington-peninsula/baxter) – List of dining options including Baxter Tavern
+- [Baxter Learning Centre | Facebook](https://www.facebook.com/BLCKDPJ/) – Enrichment centre offering coding, maths, and robotics
+- [55 Maths Tutors in Baxter](https://www.ezymathtutoring.com.au/tutors/baxter-3911) – Tutoring service with in‑home options
+- [Baxter to Flinders Street Station](https://www.rome2rio.com/s/Baxter-VIC-Australia/Flinders-Street-Station) – Travel time and route via Stony Point line
