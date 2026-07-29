@@ -22,5 +22,5 @@ Updated whenever the suburb-research-memes regeneration pipeline produces new po
 
 ## Stats
 
-- Suburbs: 1806 (nsw: 1466, qld: 315, sa: 5, vic: 11, wa: 9)
-- Schools: 1714 (qld: 584, nsw: 1091, vic: 39)
+- Suburbs: 1724 (nsw: 1406, qld: 293, sa: 5, vic: 11, wa: 9)
+- Schools: 2675 (nsw: 1091, qld: 584, vic: 1000)
