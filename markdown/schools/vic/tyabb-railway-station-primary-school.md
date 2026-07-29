@@ -1,0 +1,27 @@
+1) **Suburb socio-economic profile:** Tyabb is a middle-income, family-oriented suburb with a mix of white-collar and blue-collar workers. The median weekly household income is $1,858, and the median age is 42 [citation:2021 Tyabb, Census All persons QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL22594). Couples with children are the dominant household type, and most homes are owned with a mortgage [citation:TYABB suburb profile](https://landchecker.com.au/suburb/tyabb-vic-3913/).
+
+2) **Most common foreign country of birth:** Tyabb is overwhelmingly Australian-born, with 85.6% of residents born in Australia [citation:2021 Tyabb, Census All persons QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL22594). The most common overseas country of birth is England, at 3.9% of the population [citation:2021 Tyabb, Census All persons QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL22594).
+
+3) **Working-parent support:** Outside School Hours Care (OSHC) is provided by TheirCare at Tyabb Railway Station Primary School, operating from 6:30 AM to 8:45 AM in the mornings and 3:15 PM to 6:15 PM in the afternoons, Monday to Friday during school terms [citation:Tyabb Railway PS TheirCare | ACECQA](https://www.acecqa.gov.au/resources/national-registers/services/camp-australia-tyabb-railway-station-primary-school-oshc). Vacation care is not listed as available on the ACECQA register for this service [citation:Tyabb Railway PS TheirCare | ACECQA](https://www.acecqa.gov.au/resources/national-registers/services/camp-australia-tyabb-railway-station-primary-school-oshc).
+
+4) **School culture:** Tyabb Railway Station Primary School offers a Physical Education and Sport Program that includes competitive team games and inter-school sporting championships for Years 3-6 [citation:Physical Education](https://www.tyabbrailps.vic.edu.au/page/95/Physical-Education). The school also has a specialist program in Indonesian and Cultural Studies, as well as a uniform shop run by the All Aboard Parents and Friends Group [citation:School Profile](https://www.tyabbrailps.vic.edu.au/page/54/School-Profile) [citation:All Aboard Parents and Friends Group](https://www.tyabbrailps.vic.edu.au/page/62/All-Aboard-Parents-and-Friends-Group).
+
+5) **Suburb vibe and groceries:** Tyabb has a small-town, semi-rural feel with low-density housing and green wedge zones [citation:TYABB suburb profile](https://landchecker.com.au/suburb/tyabb-vic-3913/). Local grocery shopping is available at Tyabb Friendly Grocer (1537 Frankston-Flinders Road) [citation:Supermarkets in Tyabb, VIC 3913](https://www.yellowpages.com.au/tyabb-vic-3913/supermarkets-grocery-stores); no specialty or ethnic supermarkets were specifically identified in Tyabb itself in available sources.
+
+6) **Weeknight dining:** Family-friendly dining options in Tyabb include Mitch & Co Cafe for modern Australian meals and Flatties Finest Fish & Chips for seafood takeaway [citation:Restaurants in Tyabb,VIC With Takeaway | AGFG](https://www.agfg.com.au/restaurants/mornington-peninsula/tyabb/takeaway-category). The Hungry Peacock & The Busy Peacock is another local cafe option [citation:Restaurants in Tyabb,VIC With Takeaway | AGFG](https://www.agfg.com.au/restaurants/mornington-peninsula/tyabb/takeaway-category).
+
+7) **Tuition and enrichment:** In-home tutoring is available through Ezy Math Tutoring, which offers maths, English, and other subjects for Tyabb [citation:25 Maths Tutors in Tyabb | Ezy Math Tutoring](https://www.ezymathtutoring.com.au/tutors/tyabb-3913). A specific named tutoring centre in Tyabb was not found in available sources, but detailed services can be arranged locally.
+
+8) **Commute:** Tyabb is served by the Stony Point line train, with the nearest station being Tyabb Station, located on Frankston-Flinders Road. The typical train travel time to Flinders Street Station in Melbourne CBD is approximately 2 hours and 24 minutes [citation:Flinders Street Station to Tyabb](https://www.rome2rio.com/s/Flinders-Street-Station/Tyabb).
+
+**Sources**
+- [2021 Tyabb, Census All persons QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL22594) - Demographic and income data for Tyabb
+- [TYABB suburb profile](https://landchecker.com.au/suburb/tyabb-vic-3913/) - Suburb characteristics and property information
+- [Tyabb Railway PS TheirCare | ACECQA](https://www.acecqa.gov.au/resources/national-registers/services/camp-australia-tyabb-railway-station-primary-school-oshc) - OSHC provider details and hours
+- [Physical Education](https://www.tyabbrailps.vic.edu.au/page/95/Physical-Education) - School PE and sport program description
+- [School Profile](https://www.tyabbrailps.vic.edu.au/page/54/School-Profile) - School specialist programs listing
+- [All Aboard Parents and Friends Group](https://www.tyabbrailps.vic.edu.au/page/62/All-Aboard-Parents-and-Friends-Group) - School parent group and uniform shop information
+- [Supermarkets in Tyabb, VIC 3913](https://www.yellowpages.com.au/tyabb-vic-3913/supermarkets-grocery-stores) - Local grocery store listings
+- [Restaurants in Tyabb,VIC With Takeaway | AGFG](https://www.agfg.com.au/restaurants/mornington-peninsula/tyabb/takeaway-category) - Local dining options
+- [25 Maths Tutors in Tyabb | Ezy Math Tutoring](https://www.ezymathtutoring.com.au/tutors/tyabb-3913) - Tutoring services in Tyabb
+- [Flinders Street Station to Tyabb](https://www.rome2rio.com/s/Flinders-Street-Station/Tyabb) - Train route and travel time
