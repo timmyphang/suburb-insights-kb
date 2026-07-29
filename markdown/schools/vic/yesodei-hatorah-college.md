@@ -1,0 +1,31 @@
+1) **Suburb socio-economic profile:** Elwood is an affluent, white-collar suburb. According to the 2021 Census, the median weekly household income is $2,096 [citation:ABS QuickStats 2021](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL20867), well above the national median of $1,746 [citation:ABS QuickStats Australia](https://www.abs.gov.au/census/find-census-data/quickstats/2021/AUS). The median age is 38 years [citation:GDP.com.au](https://gdp.com.au/suburb/elwood-vic), and the suburb has a high proportion of professionals, with 52% of residents employed full-time [citation:GDP.com.au](https://gdp.com.au/suburb/elwood-vic).
+
+2) **Most common foreign country of birth:** The most common overseas birthplace in Elwood is England, with 7.4% of residents born there [citation:GDP.com.au](https://gdp.com.au/suburb/elwood-vic). The suburb is overwhelmingly Australian-born, with 86.7% of residents born in Australia [citation:GDP.com.au](https://gdp.com.au/suburb/elwood-vic).
+
+3) **Working-parent support:** Yesodei HaTorah College does not offer Outside School Hours Care (OSHC) for before school, after school, or vacation care [citation:ACECQA](https://www.acecqa.gov.au/resources/national-registers/services/yesodei-hatorah-college). The school operates a Long Day Care program from 8:15 am to 4:15 pm, Monday to Friday, for up to 45 children [citation:ACECQA](https://www.acecqa.gov.au/resources/national-registers/services/yesodei-hatorah-college). Information on alternative OSHC providers in Elwood was not found in the available sources.
+
+4) **School culture:** Yesodei HaTorah College offers a range of extracurriculars including basketball, football (soccer), and a chess club [citation:AroundSchools](https://www.aroundschools.com.au/schools/yesodei-hatorah-college-elwood-vic). The school also provides opportunities in music and drama, such as school productions and choirs [citation:AroundSchools](https://www.aroundschools.com.au/schools/yesodei-hatorah-college-elwood-vic).
+
+5) **Suburb vibe and groceries:** Elwood is a leafy, family-friendly suburb with a village atmosphere centred around Ormond Village [citation:Leaf Village Grocer](https://www.theleafstore.com.au/elwood). Local grocery options include FoodWorks Elwood Village at 109 Ormond Road [citation:FoodWorks](https://elwoodvillage.foodworks.com.au/) and Elwood Licensed Supermarket at 168 Tennyson Street [citation:Yellow Pages](https://www.yellowpages.com.au/vic/elwood/elwood-licensed-supermarket-15668322-listing.html). For specialty items, India At Home in Elwood offers Indian groceries [citation:India At Home](https://www.indiaathome.com.au/pages/indian-grocery-store-elwood).
+
+6) **Weeknight dining:** For casual, family-friendly dining, Baked in Elwood offers pizza and pasta for takeaway or delivery [citation:Baked in Elwood](https://bakedinelwood.com.au/). Tasty Asian serves Asian cuisine and is rated 4.9 on Tripadvisor [citation:Tripadvisor](https://www.tripadvisor.com.au/Restaurant_Review-g1006517-d14125131-Reviews-Tasty_Asian-Elwood_Port_Phillip_Greater_Melbourne_Victoria.html). Additional family-friendly options can be found on Ormond Road and Tennyson Street.
+
+7) **Tuition and enrichment:** Alchemy Tuition provides one-on-one in-home and online tutoring in Elwood, covering primary and high school subjects, and has been operating since 2005 [citation:Alchemy Tuition](https://alchemytuition.com.au/melbourne-tutoring-elwood/). Success Tutoring also offers personalised tutoring in Elwood with 24/7 access to academic resources [citation:Success Tutoring](https://successtutoring.com.au/tutoring-elwood).
+
+8) **Commute:** The closest train station to Elwood is Ripponlea Station, on the Sandringham line. The train journey from Ripponlea Station to Flinders Street Station in the Melbourne CBD takes approximately 15 minutes, with services departing every 20 minutes [citation:Rome2Rio](https://www.rome2rio.com/s/Elwood-VIC-Australia/Flinders-Street-Station). Elwood also has tram and bus options, including the Route 67 tram and Route 246 bus [citation:Rome2Rio](https://www.rome2rio.com/s/Elwood-VIC-Australia/Flinders-Street-Station).
+
+**Sources:**
+- [ABS QuickStats 2021](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL20867) - Population, income, and demographics for Elwood.
+- [ABS QuickStats Australia](https://www.abs.gov.au/census/find-census-data/quickstats/2021/AUS) - National median household income.
+- [GDP.com.au](https://gdp.com.au/suburb/elwood-vic) - Suburb profile with median income, age, country of birth, and employment.
+- [ACECQA](https://www.acecqa.gov.au/resources/national-registers/services/yesodei-hatorah-college) - Service approval details and OSHC availability at Yesodei HaTorah College.
+- [AroundSchools](https://www.aroundschools.com.au/schools/yesodei-hatorah-college-elwood-vic) - School overview, extracurriculars, and culture.
+- [FoodWorks Elwood Village](https://elwoodvillage.foodworks.com.au/) - Location and offerings of a local supermarket.
+- [Yellow Pages](https://www.yellowpages.com.au/find/supermarkets-grocery-stores/elwood-vic-3184) - List of supermarkets and grocery stores in Elwood.
+- [Leaf Village Grocer](https://www.theleafstore.com.au/elwood) - Description of a local grocer and Ormond Village.
+- [India At Home](https://www.indiaathome.com.au/pages/indian-grocery-store-elwood) - Specialty Indian grocery store in Elwood.
+- [Baked in Elwood](https://bakedinelwood.com.au/) - Takeaway pizza and pasta restaurant.
+- [Tripadvisor](https://www.tripadvisor.com.au/Restaurant_Review-g1006517-d14125131-Reviews-Tasty_Asian-Elwood_Port_Phillip_Greater_Melbourne_Victoria.html) - Review and rating for Tasty Asian restaurant.
+- [Alchemy Tuition](https://alchemytuition.com.au/melbourne-tutoring-elwood/) - In-home and online tutoring service in Elwood.
+- [Success Tutoring](https://successtutoring.com.au/tutoring-elwood/) - Tutoring service in Elwood.
+- [Rome2Rio](https://www.rome2rio.com/s/Elwood-VIC-Australia/Flinders-Street-Station) - Train and transport options from Elwood to Flinders Street Station.
