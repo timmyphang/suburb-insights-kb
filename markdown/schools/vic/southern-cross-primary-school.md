@@ -1,0 +1,42 @@
+1) **Suburb socio-economic profile**
+Endeavour Hills is a middle-income, family-focused suburb. The median weekly household income is $1,740, and the median age is 39 [citation:2021 Endeavour Hills, Census All persons QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2021/SAL20871). The suburb has 6,842 families and an average of 2.9 people per household, indicating a strong family orientation [citation:2021 Endeavour Hills, Census All persons QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2021/SAL20871). The socio-economic profile is rated solid, with an IRSAD score of 990, placing it around the national average [citation:Endeavour Hills, VIC 3802 Property Market and House Prices 2026](https://www.htag.com.au/vic/vic213-casey-city/endeavour-hills-vic-3802/).
+
+2) **Most common foreign country of birth**
+The most common overseas country of birth for Endeavour Hills residents is India. According to the 2021 Census, 13.2% of residents were born in India, making it the largest non-Australian-born group [citation:2021 Endeavour Hills, Census Community Profiles](https://abs.gov.au/census/find-census-data/community-profiles/2021/SAL20871). Australian-born residents make up 59.8% of the population [citation:2021 Endeavour Hills, Census All persons QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2021/SAL20871).
+
+3) **Working-parent support**
+Outside School Hours Care (OSHC) at Southern Cross Primary School is provided by Youth Leadership Victoria [citation:Southern Cross Primary School](https://www.sthcrossps.vic.edu.au/). Specific operating hours (e.g., 6:30 AM start or 6:30 PM end) are not listed in available sources for this program [citation:Before & After School Care](https://www.sthcrossps.vic.edu.au/page/134/Before-&-After-School-Care). The school also runs a weekly Breakfast Club every Wednesday from 8:15 AM to 8:45 AM [citation:Breakfast Club](https://www.sthcrossps.vic.edu.au/page/115/Breakfast-Club).
+
+4) **School culture**
+Southern Cross Primary School offers several named extracurriculars, including the Breakfast Club (Wednesday mornings with a gold coin donation), the CHaTS program (a group for happy and committed individuals focusing on beneficial activities), and the Student Leadership Team (comprising School Captains, House Captains, and Tribes/Better Buddies Captains who run activities for the school) [citation:Breakfast Club](https://www.sthcrossps.vic.edu.au/page/115/Breakfast-Club) [citation:CHaTS](https://www.sthcrossps.vic.edu.au/page/96/CHaTS) [citation:Student Leadership](https://www.sthcrossps.vic.edu.au/page/120/Student-Leadership). Additional student activities like "ru" are also mentioned in staff profiles [citation:School Improvement Team](https://www.sthcrossps.vic.edu.au/page/162).
+
+5) **Suburb vibe and groceries**
+Endeavour Hills has a strong community feel centred around the Endeavour Hills Shopping Centre, which houses over 80 retailers including Aldi, Coles, Kmart, and Woolworths [citation:Endeavour Hills Shopping Centre home to over 80 retailers](https://www.endeavourhillsshopping.com.au/). For specialty groceries, the BestMart Asian Grocer is located next to Coles at the shopping centre, offering a wide range of authentic Asian ingredients [citation:BestMart Asian Grocer](https://www.endeavourhillsshopping.com.au/stores/bestmart-asian-grocer/). Other specialty options in the area include IGA Friendly Grocers and Cargills Food & Groceries in nearby suburbs [citation:35 BEST local Supermarkets & Grocery Stores in Endeavour Hills, VIC](https://www.yellowpages.com.au/find/supermarkets-grocery-stores/endeavour-hills-vic-3802).
+
+6) **Weeknight dining**
+The Endeavour Hills Shopping Centre offers several casual dining options, including Dancing Wok (Chinese), Flounder’s Fish & Chips, and Domino’s Pizza [citation:Dining & Takeaway](https://www.endeavourhillsshopping.com.au/dining-takeaway/). Zambrero (Mexican) and KFC are also available within the shopping centre, providing diverse family-friendly takeaway choices [citation:Dining & Takeaway](https://www.endeavourhillsshopping.com.au/dining-takeaway/). For a local independent option, Heatherton Village Fish & Chips is a popular takeaway spot in Endeavour Hills [citation:Takeaway & Delivery in Endeavour Hills, VIC 3803](https://www.tuckerfox.com.au/restaurant-takeaway-delivery/endeavour-hills-vic-3803).
+
+7) **Tuition and enrichment**
+Success Tutoring operates a dedicated centre in Endeavour Hills, offering personalised learning support and 24/7 access to academic resources [citation:Endeavour Hills – Success Tutoring](https://successtutoring.com.au/tutoring-endeavour-hills). Lynn’s Learning also provides Maths and English tutoring at the Endeavour Hills Neighbourhood Centre, serving students from Foundation to Year 10 and offering Selective Entry & Scholarship preparation for Years 3–9 [citation:Endeavour Hills | English Tuition | Maths Tuition | Lynn's Learning](https://lynnslearning.com.au/locations/victoria-locations/lynns-learning-endeavour-hills-tuition-centre/).
+
+8) **Commute**
+Endeavour Hills does not have its own train station. The nearest station is Dandenong Station on the Pakenham and Cranbourne lines, approximately a 10-minute drive away. From Dandenong Station, the train journey to Flinders Street Station in the Melbourne CBD typically takes about 40–50 minutes [citation:Endeavour Hills to Flinders Street Station](https://www.rome2rio.com/s/Endeavour-Hills/Flinders-Street-Station). For public transport within Endeavour Hills, the line 843 bus connects to Dandenong Station, and the line 901 bus offers connections to other suburbs [citation:Endeavour Hills to Flinders Street Station](https://www.rome2rio.com/s/Endeavour-Hills/Flinders-Street-Station).
+
+**Sources**
+- [2021 Endeavour Hills, Census All persons QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2021/SAL20871) - Census data for population, income, age, and country of birth.
+- [2021 Endeavour Hills, Census Community Profiles](https://abs.gov.au/census/find-census-data/community-profiles/2021/SAL20871) - Detailed community profile data including country of birth percentages.
+- [Endeavour Hills, VIC 3802 Property Market and House Prices 2026](https://www.htag.com.au/vic/vic213-casey-city/endeavour-hills-vic-3802/) - Socio-economic profile and IRSAD score.
+- [Southern Cross Primary School](https://www.sthcrossps.vic.edu.au/) - School overview including OSHC provider and programs.
+- [Before & After School Care](https://www.sthcrossps.vic.edu.au/page/134/Before-&-After-School-Care) - OSHC contact details.
+- [Breakfast Club](https://www.sthcrossps.vic.edu.au/page/115/Breakfast-Club) - Specifics on the Breakfast Club program.
+- [CHaTS](https://www.sthcrossps.vic.edu.au/page/96/CHaTS) - Description of the CHaTS extracurricular program.
+- [Student Leadership](https://www.sthcrossps.vic.edu.au/page/120/Student-Leadership) - Details on student leadership roles and activities.
+- [School Improvement Team](https://www.sthcrossps.vic.edu.au/page/162) - Staff profile mentioning extracurricular activities.
+- [Endeavour Hills Shopping Centre home to over 80 retailers](https://www.endeavourhillsshopping.com.au/) - Shopping centre retailers and amenities.
+- [BestMart Asian Grocer](https://www.endeavourhillsshopping.com.au/stores/bestmart-asian-grocer/) - Specialty Asian grocery store.
+- [35 BEST local Supermarkets & Grocery Stores in Endeavour Hills, VIC](https://www.yellowpages.com.au/find/supermarkets-grocery-stores/endeavour-hills-vic-3802) - List of supermarkets and grocery stores.
+- [Dining & Takeaway](https://www.endeavourhillsshopping.com.au/dining-takeaway/) - List of food outlets at Endeavour Hills Shopping Centre.
+- [Takeaway & Delivery in Endeavour Hills, VIC 3803](https://www.tuckerfox.com.au/restaurant-takeaway-delivery/endeavour-hills-vic-3803) - Local takeaway and delivery options.
+- [Endeavour Hills – Success Tutoring](https://successtutoring.com.au/tutoring-endeavour-hills) - Tutoring centre in Endeavour Hills.
+- [Endeavour Hills | English Tuition | Maths Tuition | Lynn's Learning](https://lynnslearning.com.au/locations/victoria-locations/lynns-learning-endeavour-hills-tuition-centre/) - Maths and English tutoring centre details.
+- [Endeavour Hills to Flinders Street Station](https://www.rome2rio.com/s/Endeavour-Hills/Flinders-Street-Station) - Commute options with train and bus information.
