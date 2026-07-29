@@ -1,0 +1,26 @@
+1) **Suburb socio-economic profile:** Reservoir is a middle-to-working-class suburb in Melbourne's north. According to the 2021 Census, the median weekly household income was $1,541, and the median age was 38 [citation:2021 Reservoir (Vic.), Census All persons QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL22161). The suburb has a mix of families and singles, with 13,259 families recorded, and an average of 0.6 children per family [citation:2021 Reservoir (Vic.), Census All persons QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL22161).
+
+2) **Most common foreign country of birth:** The 2021 Census data for Reservoir indicates that the suburb is predominantly Australian-born, though specific percentages for country of birth are not fully detailed in the provided snippets. The Australian-born percentage is not explicitly stated in the available search results, but the data shows a diverse population with some overseas-born residents.
+
+3) **Working-parent support:** William Ruthven Primary School partners with TheirCare to provide Outside School Hours Care (OSHC) [citation:William Ruthven Primary School](https://www.williamruthvenps.vic.edu.au/). Specific hours for the service are not detailed in the available sources, but typical OSHC programs run before and after school; you would need to confirm exact times directly with the school or TheirCare.
+
+4) **School culture:** William Ruthven Primary School offers a Breakfast Club program to support student wellbeing, as noted on their Wellbeing page [citation:William Ruthven Primary School](https://www.williamruthvenps.vic.edu.au/). The school also has an extensive Extra-curricular activities section on its website, though specific named activities (e.g., sports teams or band) are not listed in the provided search snippets.
+
+5) **Suburb vibe and groceries:** Reservoir has a diverse, family-friendly vibe with several specialty grocery stores. For Asian groceries, Broadway Asian Supermarket Toko at 264 Broad Way offers Indonesian and other Asian products [citation:Broadway Asian Supermarket Toko](https://www.yellowpages.com.au/vic/reservoir/broadway-asian-supermarket-toko-15299659-listing.html). For Indian groceries, options include Star India Spices & Groceries at 3 Edwardes Street and Pickles and Spices at 149 Keon Parade [citation:Indian Grocery Stores Reservoir, VIC](https://singh.com.au/indian-grocery-stores-reservoir-vic/).
+
+6) **Weeknight dining:** For casual family-friendly dining in Reservoir, try Indian Accent for Indian cuisine at an exclusive fine dining setting [citation:Indian Accent](https://indianaccentcuisine.com.au/). For takeaway, Bam Bams Fried Chicken & Burger offers vegetarian, vegan, and fried chicken options [citation:Takeaway & Delivery in Reservoir](https://www.tuckerfox.com.au/restaurant-takeaway-delivery/reservoir-vic-3073). Stuffed Lamb provides Middle Eastern takeaway [citation:Takeaway & Delivery in Reservoir](https://www.tuckerfox.com.au/restaurant-takeaway-delivery/reservoir-vic-3073).
+
+7) **Tuition and enrichment:** In Reservoir, Cluey Learning offers private tutoring for primary and high school students in subjects like English, Maths, and Chemistry [citation:Tutoring Reservoir / Top Private Primary & High School Tutors](https://clueylearning.com.au/lts/tutoring-reservoir/). The Tutor Place on Taylor Avenue provides tuition services as well [citation:35 BEST local Tuition & Tutoring in Reservoir, VIC](https://www.yellowpages.com.au/find/tuition-tutoring/reservoir-vic-3073).
+
+8) **Commute:** Reservoir is served by the Mernda train line, with Reservoir Station providing direct trains to Flinders Street Station. The journey takes approximately 29 minutes, with trains running every 20 minutes [citation:Reservoir to Flinders Street Station](https://www.rome2rio.com/s/Reservoir/Flinders-Street-Station).
+
+**Sources**
+- [2021 Reservoir (Vic.), Census All persons QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL22161) - 2021 Census data for Reservoir including income, age, and family demographics.
+- [William Ruthven Primary School](https://www.williamruthvenps.vic.edu.au/) - School website with OSHC provider info and wellbeing programs.
+- [Broadway Asian Supermarket Toko](https://www.yellowpages.com.au/vic/reservoir/broadway-asian-supermarket-toko-15299659-listing.html) - Asian grocery store in Reservoir.
+- [Indian Grocery Stores Reservoir, VIC](https://singh.com.au/indian-grocery-stores-reservoir-vic/) - List of Indian grocery stores in Reservoir.
+- [Indian Accent](https://indianaccentcuisine.com.au/) - Indian fine dining restaurant in Reservoir.
+- [Takeaway & Delivery in Reservoir, VIC 3073](https://www.tuckerfox.com.au/restaurant-takeaway-delivery/reservoir-vic-3073) - Takeaway options in Reservoir.
+- [Tutoring Reservoir / Top Private Primary & High School Tutors](https://clueylearning.com.au/lts/tutoring-reservoir/) - Tutoring service in Reservoir.
+- [35 BEST local Tuition & Tutoring in Reservoir, VIC](https://www.yellowpages.com.au/find/tuition-tutoring/reservoir-vic-3073) - List of tutoring services in Reservoir.
+- [Reservoir to Flinders Street Station](https://www.rome2rio.com/s/Reservoir/Flinders-Street-Station) - Commute details for Reservoir to Melbourne CBD.
