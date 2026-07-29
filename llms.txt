@@ -12,51 +12,6 @@ Source: suburb-insights.com.au  |  Refresh: as new suburb/school profiles are ge
 
 ---
 
-### Suburbs / NSW (1406 files)
-
-Samples (fetch full folder via GitHub API if more are needed):
-- markdown/suburbs/nsw/abbotsford-nsw.md
-- markdown/suburbs/nsw/aberfeldie-nsw.md
-- markdown/suburbs/nsw/aberfoyle-park-nsw.md
-- markdown/suburbs/nsw/abermain-nsw.md
-- markdown/suburbs/nsw/acacia-gardens-nsw.md
-
-### Suburbs / QLD (293 files)
-
-Samples (fetch full folder via GitHub API if more are needed):
-- markdown/suburbs/qld/acacia-ridge-qld.md
-- markdown/suburbs/qld/albany-creek-qld.md
-- markdown/suburbs/qld/alexandra-hills-qld.md
-- markdown/suburbs/qld/algester-qld.md
-- markdown/suburbs/qld/annerley-qld.md
-
-### Suburbs / VIC (11 files)
-
-Samples (fetch full folder via GitHub API if more are needed):
-- markdown/suburbs/vic/abbotsford-vic.md
-- markdown/suburbs/vic/aspendale-gardens-vic.md
-- markdown/suburbs/vic/bennettswood-vic.md
-- markdown/suburbs/vic/ferntree-gully-vic.md
-- markdown/suburbs/vic/frankston-north-vic.md
-
-### Suburbs / SA (5 files)
-
-Samples (fetch full folder via GitHub API if more are needed):
-- markdown/suburbs/sa/allenby-gardens-sa.md
-- markdown/suburbs/sa/colonel-light-gardens-sa.md
-- markdown/suburbs/sa/glengowrie-sa.md
-- markdown/suburbs/sa/hallett-cove-sa.md
-- markdown/suburbs/sa/old-reynella-sa.md
-
-### Suburbs / WA (9 files)
-
-Samples (fetch full folder via GitHub API if more are needed):
-- markdown/suburbs/wa/ardross-wa.md
-- markdown/suburbs/wa/cooloongup-wa.md
-- markdown/suburbs/wa/cottesloe-wa.md
-- markdown/suburbs/wa/halls-head-wa.md
-- markdown/suburbs/wa/hammond-park-wa.md
-
 ### Schools / NSW (1091 files)
 
 Samples (fetch full folder via GitHub API if more are needed):
@@ -84,4 +39,50 @@ Samples (fetch full folder via GitHub API if more are needed):
 - markdown/schools/vic/ainslie-parklands-primary-school.md
 - markdown/schools/vic/aintree-primary-school.md
 
-Last regenerated: 2026-07-29T14:58:19Z
+### Suburbs / NSW (1406 files)
+
+Samples (fetch full folder via GitHub API if more are needed):
+- markdown/suburbs/nsw/abbotsford-nsw.md
+- markdown/suburbs/nsw/aberfeldie-nsw.md
+- markdown/suburbs/nsw/aberfoyle-park-nsw.md
+- markdown/suburbs/nsw/abermain-nsw.md
+- markdown/suburbs/nsw/acacia-gardens-nsw.md
+
+### Suburbs / QLD (293 files)
+
+Samples (fetch full folder via GitHub API if more are needed):
+- markdown/suburbs/qld/acacia-ridge-qld.md
+- markdown/suburbs/qld/albany-creek-qld.md
+- markdown/suburbs/qld/alexandra-hills-qld.md
+- markdown/suburbs/qld/algester-qld.md
+- markdown/suburbs/qld/annerley-qld.md
+
+### Suburbs / SA (5 files)
+
+Samples (fetch full folder via GitHub API if more are needed):
+- markdown/suburbs/sa/allenby-gardens-sa.md
+- markdown/suburbs/sa/colonel-light-gardens-sa.md
+- markdown/suburbs/sa/glengowrie-sa.md
+- markdown/suburbs/sa/hallett-cove-sa.md
+- markdown/suburbs/sa/old-reynella-sa.md
+
+### Suburbs / VIC (11 files)
+
+Samples (fetch full folder via GitHub API if more are needed):
+- markdown/suburbs/vic/abbotsford-vic.md
+- markdown/suburbs/vic/aspendale-gardens-vic.md
+- markdown/suburbs/vic/bennettswood-vic.md
+- markdown/suburbs/vic/ferntree-gully-vic.md
+- markdown/suburbs/vic/frankston-north-vic.md
+
+### Suburbs / WA (9 files)
+
+Samples (fetch full folder via GitHub API if more are needed):
+- markdown/suburbs/wa/ardross-wa.md
+- markdown/suburbs/wa/cooloongup-wa.md
+- markdown/suburbs/wa/cottesloe-wa.md
+- markdown/suburbs/wa/halls-head-wa.md
+- markdown/suburbs/wa/hammond-park-wa.md
+
+---
+Last regenerated: 2026-07-29T15:32:22.289471+00:00
