@@ -1,0 +1,27 @@
+1) **Suburb socio-economic profile:** The Basin is a middle-income, family-oriented suburb. The median weekly household income is $2,019, and the median age is 40 years [citation:QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL22496). Families with children make up a significant portion of the population, and the area has a mix of white-collar and blue-collar workers, though specific occupation breakdowns are not provided in the available sources.
+
+2) **Most common foreign country of birth:** The suburb is overwhelmingly Australian-born; 83.2% of residents were born in Australia [citation:QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL22496). The most common overseas country of birth is England at 3.7%, followed by New Zealand (1.1%) and India (0.9%) [citation:QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL22496).
+
+3) **Working-parent support:** Outside School Hours Care (OSHC) is available at Fernbrook School, operated by Kelly Club OSHC [citation:CareforKids](https://www.careforkids.com.au/child-care/v561d/kelly-club-oshc-fernbrook-school-the-basin-3154). The specific hours of operation are not detailed in the available sources, so interested families should contact Kelly Club OSHC Fernbrook School directly for current hours and fees.
+
+4) **School culture:** According to AroundSchools, Fernbrook School offers "a broad range of extracurricular options (sports, clubs, arts)" and notes "Netball, soccer, basketball, cricket, athletics, and AFL-style activities" as well as "Robotics, coding, chess, debating" clubs [citation:AroundSchools](https://www.aroundschools.com.au/schools/fernbrook-school-the-basin-vic). However, the school's own website (fernbrook.com.au) does not list specific named extracurriculars, so while these activities are reported, they may vary by year; the school's website also mentions "play and exploration" and "child led learning" as core to its philosophy [citation:Fernbrook School](https://www.fernbrook.com.au/).
+
+5) **Suburb vibe and groceries:** The Basin has a quiet, bushland setting with a strong community feel, offering local amenities like The Basin Pantry for fresh produce and pantry goods [citation:The Basin Pantry](https://thebasinpantry.com.au/). For specialty groceries, nearby Boronia (approx. 3 km away) has Haodi Asian Supermarket for Asian goods and IGA Everyday Boronia for general groceries [citation:Yellow Pages](https://www.yellowpages.com.au/find/supermarkets-grocery-stores/the-basin-vic-3154).
+
+6) **Weeknight dining:** For casual family dining in The Basin, specific restaurants are limited, but nearby Boronia offers options such as Kingsland Chinese Restaurant (Chinese cuisine) and Diamond Pavillion Chinese Restaurant (Chinese) [citation:Local Business Guide](https://www.localbusinessguide.com.au/victoria/the-basin/food-and-dining/restaurants/). For Thai cuisine, Lime Leaf Thai in Boronia is noted for takeaway [citation:Word of Mouth](https://www.wordofmouth.com.au/vic/the-basin/thai-restaurant).
+
+7) **Tuition and enrichment:** In nearby Boronia, Kumon Boronia Education Centre offers tutoring in maths and English [citation:True Local](https://www.truelocal.com.au/find/tuition-tutoring/the-basin-vic-3154). Also in Knoxfield (approx. 4 km away), Strive For Excellence Tutoring provides academic support [citation:True Local](https://www.truelocal.com.au/find/tuition-tutoring/the-basin-vic-3154). No tutoring centres were found specifically within The Basin itself.
+
+8) **Commute:** The Basin is not served by a train station; the nearest station is Boronia on the Belgrave/Lilydale line. A typical train journey from Boronia Station to Flinders Street Station takes about 45–55 minutes, depending on express services [citation:Metro Trains](https://www.metrotrains.com.au/timetables/). Local buses (e.g., Route 693) connect The Basin to Boronia Station.
+
+**Sources:**
+- [QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL22496) - 2021 Census demographics for The Basin, including income, age, country of birth.
+- [CareforKids](https://www.careforkids.com.au/child-care/v561d/kelly-club-oshc-fernbrook-school-the-basin-3154) - Kelly Club OSHC Fernbrook School listing with contact details.
+- [AroundSchools](https://www.aroundschools.com.au/schools/fernbrook-school-the-basin-vic) - School overview including extracurriculars and programs.
+- [Fernbrook School](https://www.fernbrook.com.au/) - School's official website with philosophy and contact info.
+- [Yellow Pages](https://www.yellowpages.com.au/find/supermarkets-grocery-stores/the-basin-vic-3154) - Directory of supermarkets and grocers in The Basin and nearby.
+- [The Basin Pantry](https://thebasinpantry.com.au/) - Local grocer offering fresh produce and pantry goods.
+- [Local Business Guide](https://www.localbusinessguide.com.au/victoria/the-basin/food-and-dining/restaurants/) - List of restaurants in The Basin and surrounding suburbs.
+- [Word of Mouth](https://www.wordofmouth.com.au/vic/the-basin/thai-restaurant) - Reviews for Lime Leaf Thai in Boronia.
+- [True Local](https://www.truelocal.com.au/find/tuition-tutoring/the-basin-vic-3154) - Tutoring centres near The Basin.
+- [Metro Trains](https://www.metrotrains.com.au/timetables/) - Train timetables for the Belgrave/Lilydale line.
