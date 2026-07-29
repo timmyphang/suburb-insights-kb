@@ -1,0 +1,33 @@
+1) **Suburb socio-economic profile:** Ferntree Gully is a middle-income, family-oriented suburb with a median weekly household income of $1,770 (2021 Census) [citation:2021 Ferntree Gully QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL20917). The median age is 40, and there are 7,721 families among 11,068 private dwellings, indicating a strong family presence [citation:2021 Ferntree Gully QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL20917). The suburb has a mix of white-collar and blue-collar workers, with above-average rates of outright home ownership in the northern area [citation:Ferntree Gully - North Area Profile](https://areasearch.com.au/vic/ferntree_gully_north).
+
+2) **Most common foreign country of birth:** Ferntree Gully is predominantly Australian-born, with 50.1% of people having both parents born in Australia and 31.6% having both parents born overseas (2016 Census) [citation:2016 Ferntree Gully QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2016/SSC20911). The most common overseas country of birth is not specified in the provided sources, so this detail is not available.
+
+3) **Working-parent support:** Outside School Hours Care (OSHC) at Fairhills Primary School is provided by After The Bell Aus [citation:Parent Information](https://fairhillsps.vic.edu.au/parent-information/). The program offers Before School Care, After School Care, and Vacation Care, though specific hours are not listed in the available content [citation:Parent Information](https://fairhillsps.vic.edu.au/parent-information/).
+
+4) **School culture:** Fairhills Primary School offers an instrumental music program delivered by Noise Craft Studio, with group lessons of only 2 children per class or private lessons [citation:Learning](https://fairhillsps.vic.edu.au/learning/). The school also runs a Breakfast Club from 8:30am to 8:50am on Monday and Tuesday mornings, operated by the School Chaplain [citation:Community](https://fairhillsps.vic.edu.au/community/). Additionally, students participate in a Foundation (Prep) Transition Program [citation:Fairhills Primary School](https://fairhillsps.vic.edu.au/).
+
+5) **Suburb vibe and groceries:** Ferntree Gully has a suburban feel with local amenities including FoodWorks Ferntree Gully at 11-13 Alpine Street [citation:FoodWorks Ferntree Gully](https://ferntreegully.foodworks.com.au/). Specialty grocery options include Curry Creations Indian Grocery at 13a Hayward Road [citation:Indian Grocery Shops](https://singh.com.au/indian-grocery-shops-in-ferntree-gully-vic/) and Haodi Asian Supermarket, listed among top local supermarkets [citation:THE BEST 10 SUPERMARKETS](https://www.yelp.com.au/search?cflt=grocery&find_loc=Ferntree+Gully+Victoria+3156). Major supermarkets like Coles, Woolworths, and ALDI are also available [citation:THE BEST 10 SUPERMARKETS](https://www.yelp.com.au/search?cflt=grocery&find_loc=Ferntree+Gully+Victoria+3156).
+
+6) **Weeknight dining:** Casual family-friendly takeaway options in Ferntree Gully include Ferntree Thai Restaurant (Thai cuisine, open for takeaway and pick-up from 4:45pm) [citation:Ferntree Thai Restaurant](https://www.ferntreethai.com.au/), Flame Trees Burger Bar (burgers) [citation:Restaurants in Ferntree Gully](https://www.agfg.com.au/restaurants/melbourne/ferntree-gully/takeaway-category), and Indian Rogan Josh (Indian cuisine, opens at 4:00pm) [citation:Restaurants in Ferntree Gully](https://www.agfg.com.au/restaurants/melbourne/ferntree-gully/takeaway-category).
+
+7) **Tuition and enrichment:** Kip McGrath Ferntree Gully at 1a, 1880 Ferntree Gully Road offers personalised tutoring in English and maths for primary and secondary students [citation:KMEC Ferntree Gully](https://www.kipmcgrath.com.au/ferntree-gully). Ezy Math Tutoring provides in-home maths tutors in Ferntree Gully, with tutors including a Master's-qualified teacher and a John Monash Science School graduate with a 99.55 ATAR [citation:90 Maths Tutors](https://www.ezymathtutoring.com.au/tutors/ferntree-gully-3156).
+
+8) **Commute:** Ferntree Gully is served by the Belgrave line on the Metro Trains network, with Ferntree Gully Station providing direct trains to Melbourne CBD [citation:Metro Trains](https://www.metrotrains.com.au/stations/ferntree-gully/). The typical train travel time from Ferntree Gully Station to Flinders Street Station is approximately 54 minutes, with services running every 30 minutes [citation:Ferntree Gully to Flinders Street Station](https://www.rome2rio.com/s/Ferntree-Gully/Flinders-Street-Station).
+
+**Sources**
+- [2021 Ferntree Gully QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL20917) - Demographic data including median income, age, and family counts
+- [Ferntree Gully - North Area Profile](https://areasearch.com.au/vic/ferntree_gully_north) - Housing and ownership profile for northern Ferntree Gully
+- [2016 Ferntree Gully QuickStats](https://www.abs.gov.au/census/find-census-data/quickstats/2016/SSC20911) - Country of birth data (both parents)
+- [Parent Information](https://fairhillsps.vic.edu.au/parent-information/) - OSHC provider details and school tour info
+- [Learning](https://fairhillsps.vic.edu.au/learning/) - Instrumental music program and curriculum details
+- [Community](https://fairhillsps.vic.edu.au/community/) - Breakfast Club program details
+- [Fairhills Primary School](https://fairhillsps.vic.edu.au/) - School overview and transition program
+- [FoodWorks Ferntree Gully](https://ferntreegully.foodworks.com.au/) - Local grocery store address
+- [Indian Grocery Shops](https://singh.com.au/indian-grocery-shops-in-ferntree-gully-vic/) - Curry Creations Indian Grocery
+- [THE BEST 10 SUPERMARKETS](https://www.yelp.com.au/search?cflt=grocery&find_loc=Ferntree+Gully+Victoria+3156) - List of supermarkets including Haodi Asian
+- [Ferntree Thai Restaurant](https://www.ferntreethai.com.au/) - Thai takeaway details and hours
+- [Restaurants in Ferntree Gully](https://www.agfg.com.au/restaurants/melbourne/ferntree-gully/takeaway-category) - Family-friendly dining options with names
+- [KMEC Ferntree Gully](https://www.kipmcgrath.com.au/ferntree-gully) - Tutoring centre address and subjects
+- [90 Maths Tutors](https://www.ezymathtutoring.com.au/tutors/ferntree-gully-3156) - Maths tutor qualifications and services
+- [Metro Trains](https://www.metrotrains.com.au/stations/ferntree-gully/) - Ferntree Gully station and Belgrave line
+- [Ferntree Gully to Flinders Street Station](https://www.rome2rio.com/s/Ferntree-Gully/Flinders-Street-Station) - Train travel time (54 min) and frequency
