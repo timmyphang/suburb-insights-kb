@@ -1,0 +1,25 @@
+1) **Suburb socio-economic profile**: Hastings is a middle-income suburb with a median weekly household income of $1,197, notably lower than the Victorian median of $1,759 [citation:2021 Hastings (Vic.), Census All persons QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL21145). The median age is 41, slightly older than the national median of 38, and the population is 10,369 [citation:Hastings VIC — Population, Median Income, Rent & Demographics (2026) | GDP.com.au](https://gdp.com.au/suburb/hastings-vic). Occupation data (white- vs blue-collar) is not available in the provided sources.
+
+2) **Most common foreign country of birth**: The overwhelming majority of Hastings residents are Australian-born, at 91.1% [citation:Hastings VIC — Population, Median Income, Rent & Demographics (2026) | GDP.com.au](https://gdp.com.au/suburb/hastings-vic). Among overseas-born residents, the most common country of birth is England (7.0%) [citation:Hastings VIC — Population, Median Income, Rent & Demographics (2026) | GDP.com.au](https://gdp.com.au/suburb/hastings-vic).
+
+3) **Working-parent support**: Wallaroo Primary School partners with **Elysium OSHC** to provide Before School Care, After School Care, and Vacation Care [citation:OSHC | Wallaroo Primary School Hastings](https://wallaroops.vic.edu.au/?page_id=379) [citation:Elysium OSHC - Wallaroo in Hastings, VIC 3915 | CareforKids.com.au](https://www.careforkids.com.au/child-care/6y1qrg). Specific operating hours for this service are not stated in the available search results.
+
+4) **School culture**: Specific named extracurricular activities offered at Wallaroo Primary School (e.g., sports teams, band, Kitchen Garden) are not listed in the provided search snippets or page content. The available sources do not contain this information.
+
+5) **Suburb vibe and groceries**: Hastings offers basic family amenities including supermarkets, but no specific specialty or ethnic grocers are named in the provided sources. The Yellow Pages directory lists general grocery stores in Hastings, but no individual names or ethnic-focused stores are detailed [citation:16 BEST local Supermarkets & Grocery Stores in Hastings, VIC | Yellow Pages®](https://www.yellowpages.com.au/find/supermarkets-grocery-stores/hastings-vic-3915).
+
+6) **Weeknight dining**: Family-friendly takeaway options in Hastings include **La Porchetta Pizza Restaurant** (Italian), **Himalayan Indian & Nepalese Restaurant** (Indian), and **Hastings Fish & Chip Shop** (seafood) [citation:THE 10 BEST Takeaway Restaurants in Hastings - Tripadvisor](https://www.tripadvisor.com.au/Restaurants-g552180-zfp10601-Hastings_Mornington_Peninsula_Victoria.html). All offer casual dining suitable for families.
+
+7) **Tuition and enrichment**: Specific tutoring centres located in Hastings itself are not named in the provided sources. Nearby options include **Brainwaves Education Studio** in Balnarring (approx. 10 km away) and **Mornington Peninsula Tutoring** in Tootgarook [citation:30 Best Local Tuition Tutoring in Hastings, VIC 3915 | Whereis®](https://www.whereis.com/hastings-vic-3915/tuition-tutoring) [citation:30 Best Local Tuition Tutoring in Hastings, VIC | Yellow Pages](https://www.yellowpages.com.au/hastings-vic/tuition-tutoring?page=7).
+
+8) **Commute**: The specific train line serving Hastings (e.g., Stony Point line) and the typical travel time to Melbourne CBD (Flinders Street) are not provided in the search results. No bus or tram route is specified either.
+
+**Sources**
+- [2021 Hastings (Vic.), Census All persons QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL21145) - Census demographics for Hastings including income, age, and population.
+- [Hastings VIC — Population, Median Income, Rent & Demographics (2026) | GDP.com.au](https://gdp.com.au/suburb/hastings-vic) - Socio-economic data including median income, rent, age, and country of birth.
+- [OSHC | Wallaroo Primary School Hastings](https://wallaroops.vic.edu.au/?page_id=379) - Confirms OSHC partnership with Elysium OSHC.
+- [Elysium OSHC - Wallaroo in Hastings, VIC 3915 | CareforKids.com.au](https://www.careforkids.com.au/child-care/6y1qrg) - Lists OSHC services offered at Wallaroo Primary School.
+- [16 BEST local Supermarkets & Grocery Stores in Hastings, VIC | Yellow Pages®](https://www.yellowpages.com.au/find/supermarkets-grocery-stores/hastings-vic-3915) - Directory of supermarkets in Hastings.
+- [THE 10 BEST Takeaway Restaurants in Hastings - Tripadvisor](https://www.tripadvisor.com.au/Restaurants-g552180-zfp10601-Hastings_Mornington_Peninsula_Victoria.html) - List of takeaway restaurants in Hastings.
+- [30 Best Local Tuition Tutoring in Hastings, VIC 3915 | Whereis®](https://www.whereis.com/hastings-vic-3915/tuition-tutoring) - Tuition tutoring options near Hastings.
+- [30 Best Local Tuition Tutoring in Hastings, VIC | Yellow Pages](https://www.yellowpages.com.au/hastings-vic/tuition-tutoring?page=7) - Additional tutoring listings near Hastings.
