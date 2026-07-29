@@ -1,0 +1,26 @@
+1) **Suburb socio-economic profile**: Geelong East is a middle-income suburb with a median weekly household income of $1,782, above the national median [citation:2021 East Geelong QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL20829). The median age is 40, and the area has a mix of families and singles, with 15.6% of the population aged 0–14 years. Occupations are mixed, but the suburb leans slightly white-collar, with a high proportion of professionals and managers based on the income profile.
+
+2) **Most common foreign country of birth**: The most common overseas country of birth for Geelong East is not specified in the provided sources, but the area is overwhelmingly Australian-born—96.0% of residents are non-Indigenous, and the Australian-born proportion is likely above 80% [citation:2021 East Geelong QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL20829). For exact percentages, the Census data would need to be reviewed.
+
+3) **Working-parent support**: Outside School Hours Care (OSHC) at Tate Street Primary School is provided by Kelly Club Geelong East, operating Monday to Friday [citation:Outside School Hours Care –](https://www.geeastps.vic.edu.au/information-for-parents/oshc/). Specific before- and after-school hours are not listed in the available sources, but typical OSHC programs run from 7:00 am to 9:00 am and 3:00 pm to 6:00 pm.
+
+4) **School culture**: Tate Street Primary School offers several named extracurriculars, including the MarimbaTaters (a marimba performance group for grades 4–6) and the Training Taters (for grade 2) [citation:Tate Street Primary School](https://www.tatestps.vic.edu.au/). The school also runs daily recess and lunch clubs such as Basketball Club, Chess Club, and Garden Club [citation:Inclusion](https://www.tatestps.vic.edu.au/inclusion).
+
+5) **Suburb vibe and groceries**: Geelong East is a family-friendly suburb with large parks, the nearby Eastern Park, and a mix of local shops and cafes. Specialty grocery options include Chung Vinh Phat Asian Groceries in central Geelong and Indo-Asian Grocery in nearby Belmont, both offering a wide range of Asian and Indian ingredients [citation:10 BEST Supermarkets & Grocery Stores in Geelong VIC](https://www.localsearch.com.au/find/supermarkets-grocery-stores/geelong-vic). Major supermarkets like Coles and Woolworths are also accessible.
+
+6) **Weeknight dining**: For casual family-friendly dining or takeaway in Geelong East, consider Charles St Pizza & Pasta (Italian pizza and pasta), YangJi Dumpling (Chinese dumplings and noodles), and Cheeky Chicken (burgers and fried chicken) [citation:Restaurants in East Geelong,VIC With Takeaway](https://www.agfg.com.au/restaurants/geelong-bellarine-peninsula/east-geelong/takeaway-category). All offer takeaway options and are well-rated for families.
+
+7) **Tuition and enrichment**: Near Geelong East, Kip McGrath Geelong at 2/396 Latrobe Terrace, Newtown provides English and maths tutoring for primary and secondary students [citation:KMEC Geelong Tuition Centre](https://www.kipmcgrath.com.au/geelong). Also nearby, iCode School at 1/124 High St, Belmont offers coding, robotics, maths, and English enrichment for kids [citation:Maths & English Tutoring for Kids in Geelong](https://icodeschool.com.au/geelong/).
+
+8) **Commute**: The closest train station is Geelong Railway Station, served by the V/Line Geelong–Melbourne line. Trains run every 20 minutes, with a journey to Flinders Street Station taking approximately 1 hour and 16 minutes, including a transfer at Footscray Station [citation:Train Geelong to Flinders Street Station](https://www.rome2rio.com/Train/Geelong/Flinders-Street-Station). The station is about a 5-minute drive or 20-minute walk from Tate Street Primary School.
+
+**Sources**:
+- [2021 East Geelong QuickStats](https://abs.gov.au/census/find-census-data/quickstats/2021/SAL20829) - Census data for East Geelong suburb, including income, age, and birthplace.
+- [Outside School Hours Care –](https://www.geeastps.vic.edu.au/information-for-parents/oshc/) - OSHC provider details for Tate Street Primary School.
+- [Tate Street Primary School](https://www.tatestps.vic.edu.au/) - School homepage listing MarimbaTaters and facilities.
+- [Inclusion](https://www.tatestps.vic.edu.au/inclusion) - School inclusion page listing recess and lunch clubs.
+- [10 BEST Supermarkets & Grocery Stores in Geelong VIC](https://www.localsearch.com.au/find/supermarkets-grocery-stores/geelong-vic) - List of Asian grocery stores in Geelong.
+- [Restaurants in East Geelong,VIC With Takeaway](https://www.agfg.com.au/restaurants/geelong-bellarine-peninsula/east-geelong/takeaway-category) - East Geelong takeaway and dining options.
+- [KMEC Geelong Tuition Centre](https://www.kipmcgrath.com.au/geelong) - Kip McGrath tutoring centre in Newtown, Geelong.
+- [Maths & English Tutoring for Kids in Geelong](https://icodeschool.com.au/geelong/) - iCode School in Belmont, Geelong, offering enrichment programs.
+- [Train Geelong to Flinders Street Station](https://www.rome2rio.com/Train/Geelong/Flinders-Street-Station) - Train schedule and travel time from Geelong to Melbourne.
