@@ -59,7 +59,7 @@ import re
 sch = {s: c for (k, s), c in counts.items() if k == "schools"}
 sub = {s: c for (k, s), c in counts.items() if k == "suburbs"}
 stats_lines = (
-    f"- Suburbs: {totals[suburbs]} ("
+    f"- Suburbs: {totals["suburbs"]} ("
     + ", ".join(f"{s}: {sub[s]}" for s in sorted(sub))
     + ")\n- Schools: " + str(totals["schools"]) + " ("
     + ", ".join(f"{s}: {sch[s]}" for s in sorted(sch)) + ")"
