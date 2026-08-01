@@ -1,0 +1,15 @@
+# Olinda (VIC)
+
+Slug: `olinda-vic`
+
+Soon as the temperature hits 26 degrees in Melbourne, the Subaru XVs start snaking up the Mountain Highway with one mission: to find a parking spot outside the Olinda Tea House & Restaurant before the queue hits an hour. We know the drill. You pay $58 for the Asian-inspired high tea, you Instagram the delicate petit fours, you quietly mourn the fact that the only thing separating Olinda from a full-blown shire war is a rhododendron hedge and a shared hatred for Puffing Billy’s whistle.
+
+Yes, we are the damp nerve centre of the Dandenong Ranges. A town bound by “rich natural landscapes and community spirit,” as Sitchu politely put it. But let’s be real — Olinda is essentially a bougie bed-and-breakfast ecosystem with a quaint village problem. You’ve got Billabong Falls, the treehouse villa on Holden Road where Phillip and Sarah Johnson turned their own home into a private waterfall sanctuary (we’ve all had a peek at the website and mentally renounced our apartment leases). You’ve got Wild Orchard Cottage, which Concrete Playground recommends for couples who like “quirky on the outside, lush on the inside” and don’t mind paying $350 a night for the privilege of a log fire.
+
+And then there’s Only Mine Chocolate. This Olinda-based artisan operation — run by couple Jason and Anya — makes handmade “intergalactic chocolate orbs” that somehow ended up at the Queen Victoria Market precinct. That’s right: Olinda’s finest confectionery is now slinging space-themed truffles in the city. Meanwhile, back on the mountain, we’re still dealing with a water warning that stretches 88 suburbs including us after the 2020 storms. Nothing says “pastoral escape” like boiling your tap water for baby formula.
+
+Petty local drama? The real tension is between the day-trippers who clog the Olinda-Monbulk Road on a Saturday and the locals who just want to buy a retro homeware from Olinda Collective without explaining to a tourist that yes, we do live here, no, you can’t use our driveway. Also, the National Rhododendron Garden on The Georgian Road is beautiful, but someone needs to tell visitors that the giant waratah sculpture at the Chelsea Australian Garden is not a photo booth prop.
+
+Who would hate Olinda? Anyone who thinks “10-minute walk through shaded forest to a waterfall” is a hike. Anyone who resents paying $350 a night for a cottage that shares a driveway with a landscape designer’s studio. And anyone who orders a flat white with oat milk and expects the town’s sole coffee shop to have a micro-roaster.
+
+Who would love it? Couples who want to stay at Billabong Falls, brag about the private natural swimming pool, and then drive 20 minutes to the Yarra Valley for a proper wine. People who genuinely enjoy browsing recycled copper pipe jewellery made by a guy named Jaccob. And anyone who has ever looked at a rhododendron and thought, “That’s it. That’s my whole personality now.” Welcome to Olinda. The mist is our moisturiser, and the high tea is non-negotiable.

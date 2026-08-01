@@ -1,0 +1,13 @@
+# Essendon (VIC)
+
+Slug: `essendon-vic`
+
+The Bombers are inside you, mate. You know the drill: Saturday morning, you’re queuing at Bam on Albion Street for a “better corner store” experience – a chicken club so tall it’s a structural hazard – while trying to decide if that $8 milk bun is worth the mortgage stress. Then you swing past LaManna Essendon Fields for your weekly shop and somehow leave with a tub of olives, a bag of Fancy Hank’s sauce and zero self control. And if you’re feeling boujee, you book Make It Boujee on Fletcher Street for bottomless brunch and stagger out $79 lighter, asking yourself “was that actually worth it?”
+
+Yes, we know what they say about Essendon. That we’re just a big airport with a footy problem and a surprising number of bathhouses. That anyone who actually lives here is either a pie-and-sauce tradie or a Pilates mum who only drinks matcha from Sóma Bathhouse’s tea menu. And look, the Whirlpool forums have at least a dozen threads about confused drivers on our roundabouts – we’re not proud, we’re just too busy deciding between 3 Salamis’ namesake sandwich or Neverland Gelato to read a road sign.
+
+The drama? Well, the Essendon Footy Club had to apologise to Eddie Betts for racist abuse from a fan. And our beloved Bombers keep giving us hope, then blowing it in the final quarter – we’ve learned to treat September like a theoretical concept. Meanwhile, the ANZAC Day poisoning mystery at the MCG that mysteriously felled 30 people before the Collingwood game? Classic Essendon: nothing goes smoothly, not even a pre-match snack.
+
+You’d hate it here if you value straight roads, predictable coffee prices (Uber fares are apparently spiking even on our routes), or the ability to leave the house without someone asking “so what’s your take on the ruckman situation?” You’d also hate it if you’re opposed to having a bowl cafe, a Parisian patisserie, and a retro motel named after Sin City all within a 2km radius.
+
+But you’d love it if you’re ready to embrace the chaos – the screaming seagulls at the airport park, the calisthenics legacy of Anne Edmonds, and the deep, unshakable belief that this year the Bombers will finally do it (they won’t, but go off, champ). We’ve got a milk bar that sells City Larder pâté, a sandwich shop that restores 1920s stained glass, and a community playgroup at 10 Fletcher Street that keeps the local kids off the streets. Come for the schiacciata, stay for the existential dread of never leaving the suburb because your mate’s cousin’s dog sitter knows everyone. Essendon: you can fly from here, but you’ll never truly leave.

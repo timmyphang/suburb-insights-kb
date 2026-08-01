@@ -1,0 +1,9 @@
+# Frankston South (VIC)
+
+Slug: `frankston-south-vic`
+
+You know you’re in Frankston South when the biggest local drama is whether your FTTP NBN is faster than Mount Eliza’s. Meanwhile, down on the Nepean Highway, Commonfolk is serving zhooshed-up eggs Benny with crispy kale to the morning crew who’ve just dropped the kids at the bush kinder that definitely has a waitlist. We don’t do drama here – we let the sand sculptors handle that. The Australian Sand Sculpting Championships just turned the Waterfront into a 400-tonne open-air gallery of dragons and castles, which is the most action we’ve seen since the pier snapped off.
+
+But don’t get it twisted. We might be the quiet, tree-change sibling of Frankston proper, but we still claim the good bits. South Side Festival brings ten days of neon installations at Beauty Park, the Human Library, and a Sea Soak that’ll freeze your nips off. Hotel Lona is cranking tunes on its rooftop until 3am, and The Hop Shop has 18 taps of ale plus Bang Bang’s sticky beef short ribs in its satellite kitchen. Yes, we know what they say about Frankston. They’re not entirely wrong – there was a machete incident at Bayside Shopping Centre last year and the Nepean Highway can feel like Mad Max at 5pm. But that’s Frankston proper. Up here in the hills, we’ve got Two Boys One Beagle and a Coffee Shop with pink interiors and Commonfolk coffee. We’re the suburbs’ suburbs: dull enough to keep the gentrifiers guessing, close enough to the beach to pretend we’re coastal.
+
+Who’d hate it here? Anyone who needs a late-night kebab after 10pm. Anyone who thinks "leafy canopy" is boring. Anyone who wants a city skyline. But if you want 16 hectares of bushland art at McClelland, a sandcastle competition that makes your kids’ eyes pop, and the smug satisfaction of saying "I live in Frankston South" when people ask – come on up. Just bring your own fibre connection.

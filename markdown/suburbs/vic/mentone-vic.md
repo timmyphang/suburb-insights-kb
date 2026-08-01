@@ -1,0 +1,11 @@
+# Mentone (VIC)
+
+Slug: `mentone-vic`
+
+We know what they say about Mentone. That it is basically Brighton’s broke cousin who still insists on going to the beach, even though the EPA once ranked our water quality rock bottom — number 36 out of 36 — thanks to “stormwater runoff” (read: everything that washes down Nepean Highway directly into our gob). We own it. Our beach failed the bacteria test. The Mentone Hotel still has an onsite bottle shop for a reason.
+
+On a sunny Mentone morning, the ritual is specific. You hit The Corner Store on Swanston St, right opposite the station, for corn chilli fritters with sweet tomato relish while pretending the helicopter that crashed into a roof less than a kilometre from Moorabbin Airport in 2022 didn’t rattle your entire street. Then you wander down to Huff Bagelry for an Allpress coffee and a garlic salt and rosemary bagel with smoked salmon, but you’re still haunted by the memory of Gâteaux by Marc Frissard, the French patisserie that relocated here in 2023 but which we now fear we’ve already taken for granted.
+
+Our petty local drama is the ongoing existential crisis about whether we’re “up and coming” or just “up.” The Kingston City Council spent years talking up the “Mentone Renaissance” — a grand piazza at the Florence Street triangle anchored by The Longroom, which opened in 2017 with Latin American sharing dishes from a Rockpool alum. But we’re still waiting for the council’s vision to fully land, while a new wave of cafes like Busy Boy (from the team behind Cheltenham’s Drip) and Applehead Deli keep opening anyway. Meanwhile, there’s a 24-hour off-leash dog beach between Charman and Plummer Roads, but honestly, we’re not sure the council wants the dogs voting.
+
+You would hate it here if you want your beach to be scientifically safe for swimming, or if you think “vibes” shouldn’t require a helicopter crash story to feel edgy. But you will love Mentone if you understand that great burgs are forged from ambition and failure in equal measure — a place where you can eat a burger from Meet Patty in Thrift Park Shopping Centre, pick up a chocolate éclair from a French ex-chocolatier, and still have change for a pot at the RSL. It’s not Brighton. It’s Mentone. And we’re perfectly fine with that.

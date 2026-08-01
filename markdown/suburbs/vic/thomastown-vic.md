@@ -1,0 +1,11 @@
+# Thomastown (VIC)
+
+Slug: `thomastown-vic`
+
+Your Saturday morning in Thomastown starts with a decision: do you drive to 66 Latitude Boulevard for a fried-cheese bagel at That’s Amore, where owner Giorgio Linguanti has been heroing handmade caciotta since 2008, or do you take the kids to Museum of Play and Art (MoPA) and let them run wild while you silently question why the indoor play centre is in an industrial estate? Both are valid. Both involve navigating a rubber factory complex where, for a brief moment in 2015, furniture makers Dowel Jones ran their whole operation out of a narrow loft that Adam Lynch and Dale Hardiman accessed by climbing a steep set of stairs. They’ve since moved to Clifton Hill – which tells you everything about Thomastown’s place in the Melbourne design hierarchy.
+
+Yes, we know what they say about us. The Whirlpool forums put it bluntly: “Does Thomastown classify as a ‘rough’ area? It's all relative – if you grew up and live in Kew or Hawthorn it'd feel like a slum.” We don’t argue. Our main street has seen more firebombings than ribbon-cuttings – in May 2024, a local shop owner survived a nighttime ambush outside his home. We don’t pretend otherwise. But they also missed the bit where, every March, we host the Ricotta Festival – the sixth annual this year – and the whole suburb smells like burrata and brioche instead of takeaway and tyres. 
+
+Who would hate it here? Anyone who thinks “industrial-chic” means exposed brick and a communal table rather than an actual rubber factory that still smells like tyres. Anyone who wants a Sunday farmers market with bespoke candles and a kombucha stand. We have a MoPA. We have a Texan BBQ joint that Urban List recommended for Father’s Day 2025. Take your zen kombucha to Fitzroy.
+
+Who would love it? The family who wants a four-bedroom house on a quarter-acre block without paying a million dollars. The person who genuinely gets excited about a deep-fried disc of caciotta on a bagel at 9am. And anyone who understands that a suburb with a working-class spine and a cheese factory at its heart is more interesting than any place that’s already “arrived.” We’re not a slum. We’re a work in progress – and we’ve got the stretchy pants to prove it.

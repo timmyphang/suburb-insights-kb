@@ -1,0 +1,13 @@
+# Dromana (VIC)
+
+Slug: `dromana-vic`
+
+We know what you’re thinking: Dromana, the “other” Mornington Peninsula beach town. The one you drive through on your way to Sorrento. And sure, we’ve got the Dromana Drive-In (over a million visitors since 1962 — we’re counting) and an industrial estate that somehow houses half the region’s best coffee, booze and bread. But here’s the thing: we’re actually having a moment, and we’re not sure how to feel about it.
+
+A Saturday morning in Dromana looks like this: you wake up in a holiday rental from Property Mums (pool, ocean view, the works). You shuffle down to Little Rebel Roastery in the industrial estate for a Black Sheep espresso and an oversized toastie. Then you wander next door to Dromana Habitat — 15 artisans all huddled together like a tiny Etsy convention. Want a candle-making class with a glass of local bubbly from Rahona Valley? Done. Want to watch a bloke shape a surfboard at Bass Surfboards while you sip a gluten-free beer from Two Bays? Also done. By lunch you’re at Crittenden Restaurant, which just reopened after a $1 million renovation, with a Josper grill and a chef from Audrey’s. We are flush for choice, as the winemaker said.
+
+But let’s be real: our petty local drama is that we’re still not Sorrento. And we don’t want to be. As actress Georgina Haig (who bought a house here) noted, Dromana “hasn’t been gentrified in the way of Sorrento.” We’ve got a 1950s diner at the drive-in and a foreshore that’s getting a massive glow-up (new pier deck, accessible ramp — cheers, Time Out). We’ve got a rum distillery (Jimmy Rum) that’s trying to prove rum can be as good as single malt. We’ve got a VicRoads office that Whirlpool users swear is the least crowded in Victoria. Three minutes, apparently. That’s our flex.
+
+Who would hate it here? Anyone who wants a posh winery with a dress code and a view that costs $50 a glass. Our wineries are humble — Rhino Tiger Bear, Abelli Estate — and our best pie comes from Miller’s Bread Kitchen in the industrial estate. If you need a brunch spot with exposed brick and a queue, head to Sorrento. We’ll be here, eating a Black Pearl Brûlée from Boatshed Cheese and pretending the drive-in isn’t about to screen *Barbie* for the 47th time.
+
+Who would love it? People who appreciate a bit of kitsch. Families who want a beach day without the parking nightmare. Rum enthusiasts. Gluten-free beer snobs. Anyone who’s ever said “I wish this industrial estate had a candle workshop, a cheesery and a surfboard shaper all in one spot.” Dromana, you chaotic artisan hub, we love you. Just don’t tell Sorrento about the VicRoads queue.

@@ -1,0 +1,11 @@
+# Malvern East (VIC)
+
+Slug: `malvern-east-vic`
+
+We’ve got a demographic identity crisis and it’s called Malvern East. One Misty Guy (OMG) has been trying to please both the frugal Monash students and the Malvern socialites since 2016—basically a therapist with a coffee window and brioche sandwiches. You’ll find us at Our Kitchen Table on Burke Road opposite Central Park, sipping silver teapot tea and pretending we haven’t just come from picking up a Pilates package at Love Athletica (20 fewer reformer beds than Windsor, but we’re not bitter). Or we’re at Breadcetera on Wattletree Road, which opened in 2025 and already has a second location in Mount Eliza—classic inner-east, can’t even keep a corner store local these days.
+
+Petty drama? Try the Malibu Barbie Cafe pop-up at Chadstone, running from June 2025 through summer 2026. We’ve gone from quiet leafiness to a two-storey pink homage with a cocktail-slinging Ken Kabana bar and a rollerskating rink. The local mums who normally do school pickup in their LA-branded Love Athletica sweaters are now posting Barbie float pics—and the Monash students are furious they can’t afford the $55 ice cream sundae. Banjo’s Social Club opened on Wattletree in 2025, serving Mexican pub food and pretending it’s not competing with Riserva’s Euro-wine-bar energy. It’s all very calm on the surface, but the 5G Nokia Fastmile issues are real—someone in the neighbourhood had to restart their Belong modem after every inactive period.
+
+Who would hate it here? Anyone who doesn’t want to choose between a charcuterie board at OMG and a “fancy makeover” of their pantry at Breadcetera. Or people who think $33 for a Pilates class is reasonable—because our casual drop-in fee hits different when you’ve got a mortgage. Also: drivers who rely on 5G.
+
+Who would love it? The person who unironically says “life’s a picnic” and then posts a photo at Maranoa Gardens (5000 native shrubs, shoulder-to-shoulder with Beckett Park’s stone observation tower). The Monash student who budgets for tapas at OMG and tutors on the side. The family who goes to the East Malvern Food & Wine Festival in Central Park (free entry, November 2024) and thinks “this is fine.” Because Malvern East is fine—and that’s the most damning compliment we can give.

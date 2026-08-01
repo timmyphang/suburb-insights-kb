@@ -1,0 +1,11 @@
+# West Footscray (VIC)
+
+Slug: `west-footscray-vic`
+
+West Footscray is the suburb that keeps asking itself, “Are we cool yet?” and the answer is always a tentative “Almost.” Our morning ritual involves queuing at Migrant Coffee for a Filipino-Thai bagel and a Coffee Supreme flat white while a tradie in hi-vis argues with a bloke on a cargo bike about the best way to dispose of a mattress. Over at Brother Nancy, a French chef is preparing beef tartare for toddlers, and we pretend that’s totally normal. 
+
+The real local drama? It’s the eternal question of whether we’re still Footscray’s cheaper, quieter cousin or if we’ve already started charging rent for the privilege of walking down Barkly Street. The Whirlpool forums are divided — one user insists the prime real estate is the rectangle bounded by Summerhill Road, Ashley St, Barkly St and Essex St. Another says they moved here from Brunswick because it was “heading down the same path.” The gentrification war is real, and the weapons are oat milk and reclaimed timber. Meanwhile, West Footscray Wines keeps the peace with freshly shucked oysters and a dog-friendly courtyard, proving that even in a war zone, you can still sip natural wine.
+
+Who would hate it here? Anyone who wants a quiet, predictable suburb. Between the 5000-person club at the Wool Store — a 1940s warehouse turned event space — the mechanical bull at Moon Dog Wild West inside the Franco Cozzo building, and the constant hum of Hop Nation’s experimental beers, there is zero peace. Also, if you’re gluten-free, the entirely gluten-free menu at the Vic Hotel might be your jam — but the rest of us will be at Harley & Rose fighting over woodfired pizzas and minimal-intervention wine.
+
+Who would love it? The person who wants to say “I lived in West Footscray before it was cool” without a hint of irony. The dog owner who enjoys a beer at 540 on Barkly where furry friends are treated like VIPs. The foodie who can start at Migrant Coffee, hit Aangan for charcoal biryanis, then finish at West Footscray Wines — all in one night. And anyone who enjoys watching a suburb grow up in real time: pimples, scaffolding, and a bloke on a cargo bike trying to decide if he’s a hipster or just lost.

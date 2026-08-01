@@ -1,0 +1,13 @@
+# Malvern (VIC)
+
+Slug: `malvern-vic`
+
+We don’t like to brag, but Malvern is the kind of suburb that folds its linen napkins before the washing machine finishes its cycle. We’ve got period homes with white fences that look like they were sketched by a real estate agent’s wet dream, and deep gardens so green they could make a landscaper cry. Sitchu says we have “good posture and family portraits” – and yes, we do, but we also have The Angel of Malvern back from the dead after lying dormant for years, now pouring house lager brewed with Hawkers and serving vodka rigatoni to people who used to just go to the Malvern Hotel (founded 1853, oldest in the suburb, still got it).
+
+The morning routine is real: you grab a 30 Mill affogato (40mls single origin, Crunchie topping, don’t @ me) opposite Tooronga station, then you walk past KX Pilates and pretend you’ll book a reformer class, but instead you end up in the $450 million Malvern Collective – a two-tower, 205-apartment behemoth that replaced a heritage pub site and now includes a grocer, barber, jeweller, and a listening bar called Lately where DJs from Mushroom Events spin until 3am on a weekend. Yes, *Sleepy Malvern* (as Time Out called us when Milton Wine opened in 2014) now has a cocktail bar open until 3am. We’re not sleepy, we’re just conserving energy for when we decide to spend $450 million on a pub redevelopment.
+
+Petty local drama? The Angel’s three levels – public bar, Flores wine bar, Lately listening bar – have created a turf war between the old-school locals who remember the rowdy Nicabela’s nightclub days and the new-money apartment dwellers who just want a $25 cheeseburger on a milk bun while staring at a 165-inch screen. And let’s not forget Gelato Messina on Glenferrie Road – we don’t need to tell you there’s a queue out the door every summer afternoon.
+
+Who would hate it here? Anyone who thinks a $450 million development is “just a pub with extra steps.” Or people who want a supermarket that isn’t part of a luxury retail precinct. Or folks who can’t handle the fact that the East Malvern RSL now has Banjo’s Social Club with a Stomping Ground beer garden and a Mexican food truck – yes, the RSL has gone bougie.
+
+Who would love it? Families who want period homes, white fences, and the ability to walk past Breadcetera’s European-inspired corner store and pretend they’re in Mount Eliza. People who believe that a heritage-listed 170-year-old pub should also have an open kitchen with a marble salumi station. And anyone who thinks “three billboards outside Malvern, Victoria” (yes, that was a real ACTU stunt) is peak local aesthetic. Come for the posture, stay for the listening bar.
