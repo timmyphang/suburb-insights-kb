@@ -85,4 +85,4 @@ Samples (fetch full folder via GitHub API if more are needed):
 - markdown/suburbs/wa/hammond-park-wa.md
 
 ---
-Last regenerated: 2026-08-01T02:14:10.581835+00:00
+Last regenerated: 2026-08-01T02:14:59.222930+00:00

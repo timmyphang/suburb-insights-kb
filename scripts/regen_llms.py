@@ -58,8 +58,9 @@ readme = (REPO / "README.md").read_text()
 import re
 sch = {s: c for (k, s), c in counts.items() if k == "schools"}
 sub = {s: c for (k, s), c in counts.items() if k == "suburbs"}
+_sub_total = totals["suburbs"]
 stats_lines = (
-    f"- Suburbs: {totals["suburbs"]} ("
+    f"- Suburbs: {_sub_total} ("
     + ", ".join(f"{s}: {sub[s]}" for s in sorted(sub))
     + ")\n- Schools: " + str(totals["schools"]) + " ("
     + ", ".join(f"{s}: {sch[s]}" for s in sorted(sch)) + ")"
